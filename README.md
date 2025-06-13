@@ -7,6 +7,7 @@ Esse service sera uma api no railway feita com java que criara um XLIFF a partir
 ## Progresso
 
 **Docx:**
+
 [x] Criação das classes que extraem os dados do docx
 
 [x] Criação das classes que criam um XLIFF baseado no docx
