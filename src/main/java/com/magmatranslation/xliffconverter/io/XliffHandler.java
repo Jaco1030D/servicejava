@@ -14,15 +14,18 @@ import net.sf.okapi.filters.xliff.XLIFFFilter;
 
 public class XliffHandler {
 
-    public void createXLIFF(FileProcessorConfig config, List<Event> eventList) {
+    public String createXLIFF(FileProcessorConfig config, List<Event> eventList) {
         LocaleId srcLoc = LocaleId.fromString(config.langSource);
         LocaleId trgLoc = LocaleId.fromString(config.langTarget);
 
+        String pathXLIFF = config.filePathOutput + "\\XLIFF\\" + config.file.getName() + ".xlf";
         
         try (XLIFFWriter writer = new XLIFFWriter()) {
-            writer.create(config.filePathOutput + "\\XLIFF\\" + config.file.getName() + ".xlf", null, srcLoc, trgLoc, null, "word/document.xml", null);
+            
+            writer.create(pathXLIFF, null, srcLoc, trgLoc, null, "word/document.xml", null);
             
             String fileBase64 = Base64Handler.createBase64(config.file);
+            
             writer.writeStartFile(config.file.getName(), "x-docx", null, "<reference><internal-file form=\"base64\"> " + fileBase64 + " </internal-file></reference>");
 
             writer.writeEndFile();
@@ -39,9 +42,14 @@ public class XliffHandler {
             }
 
             writer.close();
+
+            return pathXLIFF;
+        
         } catch (Exception e) {
+
             System.err.println("Erro ao criar o arquivo XLIFF: " + e.getMessage());
-            e.printStackTrace();
+            
+            return null;
         }
     }
     
@@ -79,7 +87,9 @@ public class XliffHandler {
 
             filter.close();
         } catch (Exception e) {
-            e.printStackTrace();
+            
+            System.err.println("Erro ao ler o arquivo XLIFF: " + e.getMessage());
+
         }
 
         return eventList;

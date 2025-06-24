@@ -43,7 +43,6 @@ public class Main
                     
                     xliffHandler.createXLIFF(fileProcessorConfig, events);
 
-
                 }
                 
                 case "TRANSLATEFILE" ->  {

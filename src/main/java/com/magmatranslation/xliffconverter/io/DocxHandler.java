@@ -30,7 +30,7 @@ public class DocxHandler {
             config.filter.open(rawDocument);
 
             if (config.param) {
-                configFilter(config.filter, config.filePathParams);
+                configFilter(config.filter, "src\\main\\resource\\p.fprm");
             }
 
             while (config.filter.hasNext()) {
@@ -42,7 +42,7 @@ public class DocxHandler {
 
                     TextContainer sourceContainer = textUnit.getSource();
 
-                    ISegmenter segmenter = getSegmenter(config.filePathSegmentRules);
+                    ISegmenter segmenter = getSegmenter("src\\main\\resource\\p.srx");
 
                     segmenter.computeSegments(sourceContainer);
 

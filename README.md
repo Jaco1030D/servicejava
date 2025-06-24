@@ -16,7 +16,7 @@ Esse service sera uma api no railway feita com java que criara um XLIFF a partir
 
 [x] Criação da classe para criar docx baseado no XLIFF(aplicar tradução)
 
-[ ] Atualizar codigo para usar o springboot
+[x] Atualizar codigo para usar o springboot
 
 [ ] Adicionar pagina para vermos logs do sistemas
 

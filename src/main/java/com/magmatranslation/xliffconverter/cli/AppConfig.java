@@ -14,7 +14,7 @@ public class AppConfig {
     
     // Construtor
     public AppConfig(String[] args) {
-        boolean create = false;
+        boolean create = true;
         this.filePathParams = setValue(args, "params\\p.fprm", 1);
         this.filePathSegmentRules = setValue(args, "params\\p.srx", 2);
         this.langSource = setValue(args, "en-US", 3);
