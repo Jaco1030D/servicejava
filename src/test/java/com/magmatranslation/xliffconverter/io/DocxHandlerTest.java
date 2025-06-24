@@ -6,7 +6,7 @@ import java.util.List;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
-import com.magmatranslation.xliffconverter.cli.AppConfig;
+import com.magmatranslation.xliffconverter.config.AppConfig;
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 
 import net.sf.okapi.common.Event;

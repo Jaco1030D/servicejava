@@ -2,8 +2,6 @@ package com.magmatranslation.xliffconverter.config;
 
 import java.io.File;
 
-import com.magmatranslation.xliffconverter.cli.AppConfig;
-
 import net.sf.okapi.common.filters.IFilter;
 
 public class FileProcessorConfig {

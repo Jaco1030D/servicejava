@@ -26,7 +26,7 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 
 import com.magmatranslation.xliffconverter.BodyRequests.CreateXliffFromDocx;
-import com.magmatranslation.xliffconverter.cli.AppConfig;
+import com.magmatranslation.xliffconverter.config.AppConfig;
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.io.XliffHandler;

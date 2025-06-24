@@ -1,4 +1,4 @@
-package com.magmatranslation.xliffconverter.cli;
+package com.magmatranslation.xliffconverter.config;
 
 public class AppConfig {
     private final String getFilePath;

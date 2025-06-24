@@ -1,10 +1,11 @@
+C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\cli\DocxMain.java
+C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\config\AppConfig.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\routes\RouterDocx.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\services\storage\StorageException.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\Base64Handler.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\controllers\DocxController.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\EventoDTO.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\BodyRequests\CreateXliffFromDocx.java
-C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\cli\AppConfig.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\FileReaderWithOkapi.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\controllers\FileUploadController.java
 C:\Users\jacoa\Desktop\java\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\services\storage\StorageFileNotFoundException.java
