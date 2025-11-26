@@ -1,0 +1,4 @@
+com\magmatranslation\xliffconverter\cli\AppTest.class
+com\magmatranslation\xliffconverter\core\XliffConverterTest.class
+com\magmatranslation\xliffconverter\io\FileReaderWithOkapiTest.class
+com\magmatranslation\xliffconverter\io\DocxHandlerTest.class

@@ -61,7 +61,10 @@ public class DocxMain {
     }
 
     static public Resource translateDocxWithXLIFF(String[] customArgs, String filePath) {
+        System.out.println("O metodo translateDocxWithXLIFF foi chamado");
+		System.out.println(customArgs[0]);
         AppConfig config = new AppConfig(customArgs);
+        System.out.println(config.getTypeFile());
 
 		try (IFilter filter = new OpenXMLFilter()){
         

@@ -24,13 +24,17 @@ public class DocxHandler {
         LocaleId srcLoc = LocaleId.fromString(config.langSource);
         LocaleId trgLoc = LocaleId.fromString(config.langTarget);
 
+        System.out.println("Tentando ler arquivo: " + config.file.getAbsolutePath());
+        System.out.println("Arquivo existe: " + config.file.exists());
+        System.out.println("Tamanho do arquivo: " + config.file.length() + " bytes");
+
         try (
             RawDocument rawDocument = new RawDocument(config.file.toURI(), "UTF-8", srcLoc, trgLoc)
             ) {
             config.filter.open(rawDocument);
 
             if (config.param) {
-                configFilter(config.filter, "src\\main\\resource\\p.fprm");
+                configFilter(config.filter, "src" + File.separator + "main" + File.separator + "resource" + File.separator + "p.fprm");
             }
 
             while (config.filter.hasNext()) {
@@ -42,7 +46,7 @@ public class DocxHandler {
 
                     TextContainer sourceContainer = textUnit.getSource();
 
-                    ISegmenter segmenter = getSegmenter("src\\main\\resource\\p.srx");
+                    ISegmenter segmenter = getSegmenter("src" + File.separator + "main" + File.separator + "resource" + File.separator + "p.srx");
 
                     segmenter.computeSegments(sourceContainer);
 
@@ -64,8 +68,8 @@ public class DocxHandler {
     }
 
     private void configFilter(IFilter filter, String filePath) {
-        File paramFile = new File(filePath);//mudei isso, caso de algum problema foi aqui
-
+        File paramFile = new File(filePath);
+        System.out.println("Caminho do arquivo de parâmetros: " + paramFile.getPath());
         if (!paramFile.exists()) {
             System.out.println("Erro: O arquivo de parâmetros não foi encontrado! Verifique o caminho: " + paramFile.getAbsolutePath());
             return;

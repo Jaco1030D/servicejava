@@ -1,5 +1,7 @@
 package com.magmatranslation.xliffconverter.controllers;
 
+import java.io.File;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpHeaders;
@@ -37,7 +39,7 @@ public class DocxController {
 
 		storageService.store(file);
 
-		String filePath = "upload-dir\\" + file.getOriginalFilename();
+		String filePath = "upload-dir" + File.separator + file.getOriginalFilename();
 
 		String[] customArgs = {
             "DOCX",                           // index 0 - typeFile
@@ -49,6 +51,8 @@ public class DocxController {
             "files",            // index 6 - filePathOutput
             "CREATEFILEXLIFF"               // index 7 - action
         };
+
+        System.out.println("O metodo de criar XLIFF foi chamado");
 
 		Resource resource = DocxMain.createXLIFF(customArgs);
 		
@@ -71,7 +75,7 @@ public class DocxController {
 
 		storageService.store(file);
 
-		String filePath = "upload-dir\\" + file.getOriginalFilename();
+		String filePath = "upload-dir" + File.separator + file.getOriginalFilename();
 
 		String[] customArgs = {
             "XLIFF",                           // index 0 - typeFile
@@ -80,9 +84,11 @@ public class DocxController {
             events.getLangSource(),                        // index 3 - langSource
             events.getLangTarget(),                        // index 4 - langTarget
             filePath,         // index 5 - getFilePath
-            "files\\DOCX\\" + file.getName() + ".docx",            // index 6 - filePathOutput
+			"files" + File.separator + "DOCX" + File.separator + file.getOriginalFilename() + ".docx",            // index 6 - filePathOutput
             "CREATEFILEXLIFF"               // index 7 - action
         };
+        System.out.println("O metodo translateDocxWithXLIFF foi chamado");
+        System.out.println(customArgs);
 
 		Resource resource = DocxMain.translateDocxWithXLIFF(customArgs, filePath);
 		
