@@ -18,8 +18,12 @@ Esse service sera uma api no railway feita com java que criara um XLIFF a partir
 
 [x] Atualizar codigo para usar o springboot
 
-[ ] Adicionar pagina para vermos logs do sistemas
+[x] Adicionar forma de diminuir a fonte quando necessario
 
-## Demo do projeto
+[x] Tornar a diminuição da fonte opcional
 
-Quando Adicionar o springboot conseguirei upar no railway
+[ ]  Testes para ver como o layout se comporta
+
+[ ] Lidar com outros arquivos office e texto plano
+
+[ ] Adicionar recursos de segurança
