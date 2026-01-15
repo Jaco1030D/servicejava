@@ -13,6 +13,8 @@ import org.springframework.core.io.UrlResource;
 import com.magmatranslation.xliffconverter.config.AppConfig;
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.Base64Handler;
+import com.magmatranslation.xliffconverter.core.DocumentXmlProcessor;
+import com.magmatranslation.xliffconverter.core.ExtractionResult;
 import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.core.XmlHandler;
 import com.magmatranslation.xliffconverter.io.DocxHandler;
@@ -36,7 +38,8 @@ public class DocxMain {
 
 			FileReaderWithOkapi fileReader = new FileReaderWithOkapi();
 
-			List<Event> eventsDocx = fileReader.extractFileEvents(fileProcessorConfig);
+			ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
+			List<Event> eventsDocx = result.getEvents();
 
 			XliffHandler xliffHandler = new XliffHandler();
                     
@@ -60,9 +63,11 @@ public class DocxMain {
 
     }
 
-    static public Resource translateDocxWithXLIFF(String[] customArgs, String filePath) {
+    static public Resource translateDocxWithXLIFF(String[] customArgs, String filePath, boolean reduceFont) {
         System.out.println("O metodo translateDocxWithXLIFF foi chamado");
 		System.out.println(customArgs[0]);
+        System.out.println("Redução de fonte: " + reduceFont);
+        
         AppConfig config = new AppConfig(customArgs);
         System.out.println(config.getTypeFile());
 
@@ -70,7 +75,8 @@ public class DocxMain {
         
 			File fileXLIFF = new File(filePath);
         
-            FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, null, false, fileXLIFF);
+            // Define param como true para aplicar os parâmetros do filtro ao salvar
+            FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, null, true, fileXLIFF);
 
 			FileReaderWithOkapi fileReader = new FileReaderWithOkapi();
 
@@ -78,17 +84,29 @@ public class DocxMain {
 
             String base64 = xmlHandler.extractContentByTag("//internal-file");
 
+            System.out.println("base64: extraido com sucesso");
+
             String fileName = xmlHandler.extractContentByTag("//file/@original");
 
             File originalFile = Base64Handler.createFileFromBase64(base64, "document/docx/" + UUID.randomUUID().toString() + fileName);
 
             fileProcessorConfig.file = originalFile;
 
-            List<Event> eventsDocx = fileReader.extractFileEvents(fileProcessorConfig);
+            ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig, reduceFont);
+            List<Event> eventsDocx = result.getEvents();
+            String jsonFileName = result.getJsonFileName();
 
             DocxHandler.saveDocx(eventsDocx, fileProcessorConfig);
 
             Path DocxToSend = Paths.get(fileProcessorConfig.filePathOutput);
+
+            System.out.println("DocxToSend: " + DocxToSend);
+            // Processa o document.xml para remover os IDs e ajustar fontes (se reduceFont = true)
+            if (reduceFont && jsonFileName != null) {
+                String jsonFilePath = "document/json/" + jsonFileName;
+                DocumentXmlProcessor processor = new DocumentXmlProcessor(jsonFilePath, DocxToSend.toString());
+                processor.process();
+            }
 			
 			Resource resource;
 			try {

@@ -77,6 +77,19 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- Jackson para manipulação de JSON -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+		</dependency>
+		
+		<!-- Apache POI para manipulação de documentos DOCX -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>5.2.5</version>
+		</dependency>
    </dependencies>
    <build>
 		<plugins>
@@ -85,6 +98,15 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<resources>
+		<resource>
+			<directory>src/main/resource</directory>
+			<targetPath>${project.build.outputDirectory}</targetPath>
+			<includes>
+				<include>application.properties</include>
+			</includes>
+			</resource>
+		</resources>
 	</build>
 
    <repositories>

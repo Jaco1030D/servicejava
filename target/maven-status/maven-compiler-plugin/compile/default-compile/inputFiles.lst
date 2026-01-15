@@ -7,10 +7,15 @@ J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconvert
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\controllers\DocxController.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\controllers\MainController.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\Base64Handler.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\DocumentXmlProcessor.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\ExtractionResult.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\FileReaderWithOkapi.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\FontSizeCalculator.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\JsonHandler.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\XliffConverter.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\core\XmlHandler.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\EventoDTO.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\exceptions\InvalidFileTypeException.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\io\DocxHandler.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\io\XliffHandler.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\routes\RouterDocx.java
@@ -19,3 +24,4 @@ J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconvert
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\services\storage\StorageFileNotFoundException.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\services\storage\StorageProperties.java
 J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\services\storage\StorageService.java
+J:\apis\testrail\xliff-converter\src\main\java\com\magmatranslation\xliffconverter\validators\FileValidator.java

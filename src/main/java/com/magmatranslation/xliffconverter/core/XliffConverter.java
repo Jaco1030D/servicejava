@@ -12,6 +12,8 @@ import java.util.regex.Pattern;
 import net.sf.okapi.common.Event;
 import net.sf.okapi.common.LocaleId;
 import net.sf.okapi.common.resource.ITextUnit;
+import net.sf.okapi.common.resource.TextContainer;
+import net.sf.okapi.common.resource.TextFragment;
 
 public class XliffConverter {
 
@@ -31,7 +33,7 @@ public class XliffConverter {
 
         } catch (java.io.IOException e) {
 
-            System.err.println("Erro ao ler o arquivo XLIFF: " + e.getMessage());
+            System.err.println("Erro na class XliffConverter ao ler o arquivo XLIFF: " + e.getMessage());
 
             return null;
 
@@ -50,7 +52,7 @@ public class XliffConverter {
 
     }
 
-    public static void updateDocxWithXLIFF(List<Event> eventListXliff, List<Event> eventListDocx, String langTarget) {
+    public static String updateDocxWithXLIFF(List<Event> eventListXliff, List<Event> eventListDocx, String langTarget, boolean reduceFont) {
         LocaleId trgLoc = LocaleId.fromString(langTarget);
 
         Map<String, ITextUnit> docxMap = new HashMap<>();
@@ -61,10 +63,12 @@ public class XliffConverter {
                 
                 ITextUnit docxTU = docxEvent.getTextUnit();
 
-                //Como adicionei o itextunit aqui, eu consigo alterar o valor dele dentro de docxmap que será refletido nele
                 docxMap.put(docxTU.getId(), docxTU);
             }
         }
+
+        // Cria o JsonHandler apenas se reduceFont estiver ativado
+        JsonHandler jsonHandler = reduceFont ? new JsonHandler("document/json") : null;
 
         for (Event xliffEvent : eventListXliff) {
             if (!xliffEvent.isTextUnit()) continue;
@@ -72,15 +76,56 @@ public class XliffConverter {
             ITextUnit xliffTU = xliffEvent.getTextUnit();
 
             String id = xliffTU.getId();
-            
+
             ITextUnit docxTU = docxMap.get(id);
 
             if (docxTU != null) {
+                // Obtém source e target como texto puro (sem tags XML)
+                TextContainer xliffSource = xliffTU.getSource();
 
-                docxTU.setTarget(trgLoc, xliffTU.getTarget(trgLoc));
+                TextContainer xliffTarget = xliffTU.getTarget(trgLoc);
+
+                
+                String sourceText = "";
+                String targetText = "";
+                
+                if (xliffSource != null) {
+                    sourceText = xliffSource.toString().replaceAll("<[^>]+>", "").trim();
+                }
+                
+                if (xliffTarget != null) {
+                    targetText = xliffTarget.toString().replaceAll("<[^>]+>", "").trim();
+                }
+                
+                String xliffTargetString = xliffTarget != null ? xliffTarget.toString() : "";
+
+                if (xliffTargetString != null && !xliffTargetString.isEmpty()) {
+
+                    if (reduceFont) {
+                        // Adiciona ao JSON para processamento posterior
+                        jsonHandler.addSegment(id, sourceText, targetText);
+                
+                        // Adiciona o ID ao conteúdo para remoção posterior
+                        TextFragment textFragment = new TextFragment("[" + id + "]" + xliffTarget.toString());
+                        xliffTarget.setContent(textFragment);
+                    }
+                    // Se reduceFont = false, apenas usa o target sem modificações
+
+                    docxTU.setTarget(trgLoc, xliffTarget);
+                }
+                
             
             }
         }
+        
+        // Salva o JSON apenas se reduceFont estiver ativado
+        if (reduceFont && jsonHandler != null) {
+            jsonHandler.save();
+            return jsonHandler.getFileName();
+        }
+        
+        // Retorna null se não houver redução de fonte
+        return null;
 
     }
 }

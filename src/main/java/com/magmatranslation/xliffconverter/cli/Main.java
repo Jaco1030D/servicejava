@@ -7,6 +7,7 @@ import java.util.UUID;
 import com.magmatranslation.xliffconverter.config.AppConfig;
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.Base64Handler;
+import com.magmatranslation.xliffconverter.core.ExtractionResult;
 import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.core.XmlHandler;
 import com.magmatranslation.xliffconverter.io.DocxHandler;
@@ -38,7 +39,8 @@ public class Main
                     
                     FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, file, param, null);
 
-                    List<Event> events = fileReader.extractFileEvents(fileProcessorConfig);
+                    ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
+                    List<Event> events = result.getEvents();
                     
                     XliffHandler xliffHandler = new XliffHandler();
                     
@@ -62,7 +64,8 @@ public class Main
 
                     fileProcessorConfig.file = originalFile;
 
-                    List<Event> events = fileReader.extractFileEvents(fileProcessorConfig);
+                    ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
+                    List<Event> events = result.getEvents();
 
                     DocxHandler.saveDocx(events, fileProcessorConfig);
 

@@ -1,0 +1,3345 @@
+[ {
+  "id" : "P244D057-tu2",
+  "source" : "使用说明书",
+  "target" : "Instruções de Uso"
+}, {
+  "id" : "P244D057-tu3",
+  "source" : "目录",
+  "target" : "Índice"
+}, {
+  "id" : "P244D057-tu4",
+  "source" : "入门指南",
+  "target" : "Guia de Introdução"
+}, {
+  "id" : "P19894176-sub1",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P244D057-tu5",
+  "source" : "快速入门\t4",
+  "target" : "Rápido Início 4"
+}, {
+  "id" : "P244D057-tu6",
+  "source" : "搜索模式\t5",
+  "target" : "Modo de busca 5"
+}, {
+  "id" : "P244D057-tu7",
+  "source" : "公园\t5",
+  "target" : "parque 5"
+}, {
+  "id" : "P244D057-tu8",
+  "source" : "旷野\t5",
+  "target" : "旷野 5"
+}, {
+  "id" : "P244D057-tu9",
+  "source" : "海滩\t5",
+  "target" : "praia 5"
+}, {
+  "id" : "P244D057-tu10",
+  "source" : "用户配置\t5",
+  "target" : "Usuário Configuração\t5"
+}, {
+  "id" : "P244D057-tu11",
+  "source" : "控制\t6",
+  "target" : "Controle 6"
+}, {
+  "id" : "P244D057-tu12",
+  "source" : "显示屏\t7",
+  "target" : "display\t7"
+}, {
+  "id" : "P244D057-tu13",
+  "source" : "一般设置",
+  "target" : "Configurações gerais"
+}, {
+  "id" : "P244D057-tu14",
+  "source" : "全局和本地设置\t9",
+  "target" : "Configurações Globais e Locais 9"
+}, {
+  "id" : "P244D057-tu15",
+  "source" : "灵敏度\t10",
+  "target" : "Sensibilidade\t10"
+}, {
+  "id" : "P244D057-tu16",
+  "source" : "调整灵敏度等级\t10",
+  "target" : "Ajustar o nível de sensibilidade 10"
+}, {
+  "id" : "P244D057-tu17",
+  "source" : "噪音过大\t10",
+  "target" : "Ruído excessivo\t10"
+}, {
+  "id" : "P244D057-tu18",
+  "source" : "地面平衡\t11",
+  "target" : "Terra equilibrada 11"
+}, {
+  "id" : "P244D057-tu19",
+  "source" : "跟踪地面平衡\t11",
+  "target" : "Rastreamento do equilíbrio do solo 11"
+}, {
+  "id" : "P244D057-tu20",
+  "source" : "自动地面平衡\t11",
+  "target" : "Automática de equilíbrio de superfície 11"
+}, {
+  "id" : "P244D057-tu21",
+  "source" : "深度计\t12",
+  "target" : "compasso profundo 12"
+}, {
+  "id" : "P244D057-tu22",
+  "source" : "设置菜单",
+  "target" : "Configurações"
+}, {
+  "id" : "P244D057-tu23",
+  "source" : "设置菜单导航\t14",
+  "target" : "Configurações de menu de navegação 14"
+}, {
+  "id" : "P244D057-tu24",
+  "source" : "设置菜单导航\t14",
+  "target" : "Configurar menu de navegação 14"
+}, {
+  "id" : "P244D057-tu25",
+  "source" : "音量调整\t15",
+  "target" : "Ajuste de Volume\t15"
+}, {
+  "id" : "P244D057-tu26",
+  "source" : "调整音量\t15",
+  "target" : "Ajustar volume 15"
+}, {
+  "id" : "P244D057-tu27",
+  "source" : "铁音量（高级设置）\t16",
+  "target" : "Volume de ferro (configurações avançadas) 16"
+}, {
+  "id" : "P244D057-tu28",
+  "source" : "调整铁音量（仅限560）\t16",
+  "target" : "Ajustar o volume do ferro (somente 560) 16"
+}, {
+  "id" : "P244D057-tu29",
+  "source" : "接受/排除\t17",
+  "target" : "Aceitar/Excluir 17"
+}, {
+  "id" : "P244D057-tu30",
+  "source" : "创建判别模式\t17",
+  "target" : "Criar padrão de discriminação 17"
+}, {
+  "id" : "P244D057-tu31",
+  "source" : "探测时接受/排除目标\t17",
+  "target" : "Aceitação/Exclusão de Alvo durante a Detecção 17"
+}, {
+  "id" : "P244D057-tu32",
+  "source" : "全金属\t17",
+  "target" : "Todo em metal 17"
+}, {
+  "id" : "P244D057-tu33",
+  "source" : "铁倾向\t18",
+  "target" : "Ferro tendência 18"
+}, {
+  "id" : "P244D057-tu34",
+  "source" : "调整铁倾向\t18",
+  "target" : "Ajuste da tendência de ferro 18"
+}, {
+  "id" : "P244D057-tu35",
+  "source" : "背光\t18",
+  "target" : "背光 18"
+}, {
+  "id" : "P244D057-tu36",
+  "source" : "调整背光\t18",
+  "target" : "Ajustar a luz de fundo\t18"
+}, {
+  "id" : "P244D057-tu37",
+  "source" : "闪光灯\t19",
+  "target" : "Flash\t19"
+}, {
+  "id" : "P244D057-tu38",
+  "source" : "开启/关闭闪光灯\t19",
+  "target" : "Ativar/Desativar o flash 19"
+}, {
+  "id" : "P244D057-tu39",
+  "source" : "振动\t19",
+  "target" : "Vibração 19"
+}, {
+  "id" : "P244D057-tu40",
+  "source" : "打开/关闭振动\t19",
+  "target" : "Abrir/Fechar vibração 19"
+}, {
+  "id" : "P244D057-tu41",
+  "source" : "无线音频\t20",
+  "target" : "Áudio sem fio 20"
+}, {
+  "id" : "P244D057-tu42",
+  "source" : "配对无线耳机\t20",
+  "target" : "Fones de ouvido sem fio pareados 20"
+}, {
+  "id" : "P244D057-tu43",
+  "source" : "重新连接之前配对的耳机\t20",
+  "target" : "Reconectar os fones de ouvido pareados anteriormente 20"
+}, {
+  "id" : "P244D057-tu44",
+  "source" : "开启/关闭无线功能\t20",
+  "target" : "Abrir/Fechar função sem fio 20"
+}, {
+  "id" : "P244D057-tu45",
+  "source" : "无线音频指示灯\t20",
+  "target" : "Wireless Audio Indicator Light 20"
+}, {
+  "id" : "P244D057-tu46",
+  "source" : "目标识别、精确定位和寻获",
+  "target" : "Identificação de alvos, posicionamento preciso e busca."
+}, {
+  "id" : "P244D057-tu47",
+  "source" : "目标识别\t22",
+  "target" : "Objetivo de reconhecimento 22"
+}, {
+  "id" : "P244D057-tu48",
+  "source" : "目标识别号\t22",
+  "target" : "目标识别号\t22"
+}, {
+  "id" : "P244D057-tu49",
+  "source" : "判别标度\t22",
+  "target" : "Escala de discriminação 22"
+}, {
+  "id" : "P244D057-tu50",
+  "source" : "目标音调\t22",
+  "target" : "目标音调\t22"
+}, {
+  "id" : "P244D057-tu51",
+  "source" : "精确定位\t23",
+  "target" : "Precisão de localização 23"
+}, {
+  "id" : "P244D057-tu52",
+  "source" : "精确定位模式可视化\t23",
+  "target" : "Modo de visualização de posicionamento preciso 23"
+}, {
+  "id" : "P244D057-tu53",
+  "source" : "使用精确定位模式定位目标\t23",
+  "target" : "使用精确定位模式定位目标\t23"
+}, {
+  "id" : "P244D057-tu54",
+  "source" : "手动定位目标\t24",
+  "target" : "Medição Manual de Alvo 24"
+}, {
+  "id" : "P244D057-tu55",
+  "source" : "耳机、电池和充电",
+  "target" : "Fones de ouvido, bateria e carregamento"
+}, {
+  "id" : "P244D057-tu56",
+  "source" : "有线耳机\t26",
+  "target" : "Fones de ouvido com fio 26"
+}, {
+  "id" : "P244D057-tu57",
+  "source" : "连接有线耳机\t26",
+  "target" : "Conectar fones de ouvido com fio 26"
+}, {
+  "id" : "P244D057-tu58",
+  "source" : "连接防水耳机\t26",
+  "target" : "Conectar fones de ouvido à prova d'água 26"
+}, {
+  "id" : "P244D057-tu59",
+  "source" : "耳机插口浸入水中\t26",
+  "target" : "耳机插口浸入水中 26"
+}, {
+  "id" : "P244D057-tu60",
+  "source" : "电池和充电\t27",
+  "target" : "Bateria e carregamento 27"
+}, {
+  "id" : "P244D057-tu61",
+  "source" : "充电器信息和安全\t27",
+  "target" : "Informações e segurança do carregador 27"
+}, {
+  "id" : "P244D057-tu62",
+  "source" : "给电池充电\t27",
+  "target" : "Carregar a bateria 27"
+}, {
+  "id" : "P244D057-tu63",
+  "source" : "电池电量指示\t28",
+  "target" : "Indicador de carga da bateria 28"
+}, {
+  "id" : "P244D057-tu64",
+  "source" : "使用充电宝操作\t28",
+  "target" : "Uso de power bank 28"
+}, {
+  "id" : "P244D057-tu65",
+  "source" : "电池维护\t28",
+  "target" : "Manutenção da Bateria\t28"
+}, {
+  "id" : "P244D057-tu66",
+  "source" : "错误和故障排除",
+  "target" : "Erro e solução de problemas"
+}, {
+  "id" : "P244D057-tu67",
+  "source" : "错误代码\t30",
+  "target" : "Código de erro 30"
+}, {
+  "id" : "P244D057-tu68",
+  "source" : "探盘断开错误\t30",
+  "target" : "Erro de desconexão da exploração 30"
+}, {
+  "id" : "P244D057-tu69",
+  "source" : "系统错误\t30",
+  "target" : "Erro do sistema\t30"
+}, {
+  "id" : "P244D057-tu70",
+  "source" : "电池电量严重不足错误\t30",
+  "target" : "Erro de bateria com carga extremamente baixa 30"
+}, {
+  "id" : "P244D057-tu71",
+  "source" : "一般故障排除\t31",
+  "target" : "Gerenciamento de falhas gerais 31"
+}, {
+  "id" : "P244D057-tu72",
+  "source" : "安全、保养和维护",
+  "target" : "Segurança, manutenção e conservação"
+}, {
+  "id" : "P244D057-tu73",
+  "source" : "探测器保养和安全\t34",
+  "target" : "Detecção de manutenção e segurança 34"
+}, {
+  "id" : "P244D057-tu74",
+  "source" : "一般保养和安全\t34",
+  "target" : "Manutenção geral e segurança 34"
+}, {
+  "id" : "P244D057-tu75",
+  "source" : "零件保养\t35",
+  "target" : "Peças de manutenção\t35"
+}, {
+  "id" : "P244D057-tu76",
+  "source" : "规格、预设和合规性",
+  "target" : "Especificações, predefinições e conformidade"
+}, {
+  "id" : "P244D057-tu77",
+  "source" : "技术规格\t37",
+  "target" : "Especificações técnicas\t37"
+}, {
+  "id" : "P244D057-tu78",
+  "source" : "默认设置\t38",
+  "target" : "Configurações padrão\t38"
+}, {
+  "id" : "P244D057-tu79",
+  "source" : "恢复出厂设置\t39",
+  "target" : "Restaurar configurações de fábrica 39"
+}, {
+  "id" : "P244D057-tu81",
+  "source" : "入门指南",
+  "target" : "Guia de Introdução"
+}, {
+  "id" : "P244D057-tu82",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P179EEDF8-sub1",
+  "source" : "警告",
+  "target" : "Aviso"
+}, {
+  "id" : "P179EEDF8-sub2",
+  "source" : "在首次组装、充电或使用探测器之前，请阅读以下部分中列出的警告和安全信息：",
+  "target" : "Antes de montar, carregar ou utilizar o detector pela primeira vez, leia os avisos e informações de segurança listados na seção a seguir:"
+}, {
+  "id" : "P179EEDF8-sub3",
+  "source" : "\uD83D\uDF82​\"充电器信息与安全\"（第 27 页）",
+  "target" : "\uD83D\uDF82​\"Informações e segurança do carregador\" (página 27)"
+}, {
+  "id" : "P179EEDF8-sub4",
+  "source" : "\uD83D\uDF82​\"常规保养与安全\"（第 34 页）",
+  "target" : "\"Manutenção e segurança de rotina\" (página 34)"
+}, {
+  "id" : "P244D057-tu83",
+  "source" : "目录\t3",
+  "target" : "Índice\t3"
+}, {
+  "id" : "P244D057-tu84",
+  "source" : "快速入门",
+  "target" : "Guia Rápido"
+}, {
+  "id" : "P244D057-tu85",
+  "source" : "首次使用前，建议你将电池充电满（第 27 页）。",
+  "target" : "首次使用前，建议你将电池充电满（第 27 页）。"
+}, {
+  "id" : "P244D057-tu86",
+  "source" : "1  开启",
+  "target" : "1 Ativar"
+}, {
+  "id" : "P179EEDFC-sub1",
+  "source" : "1 s",
+  "target" : "1 s"
+}, {
+  "id" : "P244D057-tu87",
+  "source" : "等待 5 秒钟",
+  "target" : "Aguarde 5 segundos."
+}, {
+  "id" : "P179EEDFD-sub1",
+  "source" : "5 s",
+  "target" : "5 s"
+}, {
+  "id" : "P179EEDFD-sub2",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P244D057-tu88",
+  "source" : "等待自动降噪完成。",
+  "target" : "Aguarde a conclusão da redução automática de ruído."
+}, {
+  "id" : "P244D057-tu89",
+  "source" : "选择搜索模式",
+  "target" : "Selecionar modo de busca"
+}, {
+  "id" : "P244D057-tu90",
+  "source" : "有关如何选择最合适搜索模式的更多信息，请参见第 页的",
+  "target" : "有关如何选择最合适搜索模式的更多信息，请参见第 页的\n\nInformações adicionais sobre como escolher o modo de pesquisa mais adequado podem ser encontradas na página."
+}, {
+  "id" : "P244D057-tu91",
+  "source" : "5\"搜索模式\"。",
+  "target" : "5 \"Modo de Pesquisa\"."
+}, {
+  "id" : "P244D057-tu92",
+  "source" : "去探测",
+  "target" : "去探测"
+}, {
+  "id" : "P244D057-tu93",
+  "source" : "如果在完成快速入门步骤后仍有过度地面噪音，请执行自动地面平衡（第 11 页）。如果仍然有过多的噪音，请尝试稍微降低灵敏度等级（第 10 页）。",
+  "target" : "Se ainda houver muito ruído de fundo após concluir as etapas de introdução rápida, execute o balanço automático do solo (página 11). Se ainda houver muito ruído, tente reduzir ligeiramente o nível de sensibilidade (página 10)."
+}, {
+  "id" : "P244D057-tu94",
+  "source" : "目录\t4",
+  "target" : "Índice\t4"
+}, {
+  "id" : "P244D057-tu95",
+  "source" : "搜索模式",
+  "target" : "Modo de busca"
+}, {
+  "id" : "P244D057-tu96",
+  "source" : "VANQUISH 各搜索模式具有独特的目标区分能力和深度能力。选择正确的搜索模式将帮助你找到更多你要查找的目标：",
+  "target" : "VANQUISH possui capacidades únicas de discriminação de alvos e profundidade em cada modo de busca. Escolher o modo de busca correto ajudará você a encontrar mais alvos que está procurando:"
+}, {
+  "id" : "P244D057-tu97",
+  "source" : "公园\t旷野",
+  "target" : "parque\tdeserto"
+}, {
+  "id" : "P244D057-tu98",
+  "source" : "用于在含有现代垃圾（如瓶盖和铝箔）以及钱币和珠宝的场地进行全方位探测的模式。",
+  "target" : "用于在含有现代垃圾（如瓶盖和铝箔）以及钱币和珠宝的场地进行全方位探测的模式。"
+}, {
+  "id" : "P244D057-tu99",
+  "source" : "公园模式专为在城市公园或其他可能有钱币和珠宝的最近有人居住的地点进行搜索而设计。通常还有很多金属垃圾，包括铝 箔、拉环和瓶盖。",
+  "target" : "O modo de parque é projetado para busca em parques urbanos ou em outros locais onde recentemente pode haver moedas e joias. Normalmente, também há muitos resíduos metálicos, incluindo papel alumínio, anéis de pull-tab e tampas de garrafa."
+}, {
+  "id" : "P244D057-tu100",
+  "source" : "公园模式是淡水探测等其他一般用途的良好起点。",
+  "target" : "O modo parque é um bom ponto de partida para a detecção de água doce e outras finalidades gerais."
+}, {
+  "id" : "P244D057-tu101",
+  "source" : "公园模式的低寻获速度可在典型的休闲公园垃圾泛滥的区域提供深度、准确的目标识别和良好的判别力。如果在新区域或首次探测时有疑问，请先尝试公园模式。",
+  "target" : "O modo parque tem uma baixa taxa de detecção que pode fornecer identificação de alvo profunda e precisa, além de boa discriminação em áreas típicas de proliferação de lixo em parques de lazer. Se houver dúvidas em uma nova área ou durante a primeira detecção, tente primeiro o modo parque."
+}, {
+  "id" : "P244D057-tu102",
+  "source" : "对精细金属遗迹灵敏度增强，在密集的古代铁质垃圾中能出色地揭示目标。",
+  "target" : "Aumento da sensibilidade para vestígios metálicos finos, capaz de revelar alvos de forma excepcional entre os densos detritos de ferro antigos."
+}, {
+  "id" : "P244D057-tu103",
+  "source" : "旷野模式用于搜索开阔的牧场、耕种或耕种的田地以及历史上被占领的地点。这些环境通常包含以前人类领地的铁质金属垃圾和焦炭。",
+  "target" : "O modo de exploração é usado para pesquisar pastagens abertas, campos cultivados ou arados, bem como locais historicamente ocupados. Esses ambientes geralmente contêm restos de lixo metálico de ferro e coque de terras anteriormente habitadas por humanos."
+}, {
+  "id" : "P244D057-tu104",
+  "source" : "在高出没率的地点，旷野模式非常适合剔除焦炭并在铁质金属垃圾中探测锤铸钱币和古代手工艺品。",
+  "target" : "Em locais com alta taxa de aparecimento, o modo de campo aberto é muito adequado para eliminar carvão e detectar moedas de metal forjado e antiguidades artesanais entre os detritos de metal."
+}, {
+  "id" : "P244D057-tu105",
+  "source" : "旷野模式寻获速度较高且铁倾向较低，最适合目标区分至关重要的地点。",
+  "target" : "O modo de campo apresenta uma velocidade de busca mais alta e uma tendência de ferro mais baixa, sendo mais adequado para locais onde a diferenciação de alvos é crucial."
+}, {
+  "id" : "P244D057-tu106",
+  "source" : "海滩\t用户配置",
+  "target" : "praia\t configuração do usuário"
+}, {
+  "id" : "P244D057-tu107",
+  "source" : "用于在干沙、湿沙和水中进行海滩搜索，寻找钱币和珠宝。",
+  "target" : "Usado para busca em praias de areia seca, areia molhada e água, em busca de moedas e joias."
+}, {
+  "id" : "P244D057-tu108",
+  "source" : "海滩模式适用于咸水海滩，包括干沙、\uD83D\uDDCE沙、海浪和水下条件。盐水导电性很强，会引起金属探测器的响应，海滩模式有助于消除这些响应。",
+  "target" : "O modo de praia é adequado para praias de água salgada, incluindo areia seca, areia molhada, ondas do mar e condições subaquáticas. A alta condutividade da água salgada pode causar respostas nos detectores de metal, e o modo de praia ajuda a eliminar essas respostas."
+}, {
+  "id" : "P244D057-tu109",
+  "source" : "海滩模式专门识别任何残留的盐响应并分配目标识别 0（零）—表示它是不需要的目标 — 这样就可以很容易地探测到理想的低导电性目标，如黄金链，同时受盐水的干扰最小。",
+  "target" : "O modo de praia é projetado para identificar quaisquer resíduos de resposta de sal e atribuir a identificação de alvo 0 (zero) — o que indica que não é um alvo desejado — permitindo assim a detecção fácil de alvos ideais de baixa condutividade, como correntes de ouro, enquanto minimiza a interferência da água salgada."
+}, {
+  "id" : "P244D057-tu110",
+  "source" : "海滩模式具有内置的自动地面平衡跟踪功能，以管理海滩含盐条件。",
+  "target" : "O modo praia possui uma função de rastreamento automático de equilíbrio de solo integrada, para gerenciar as condições salinas da praia."
+}, {
+  "id" : "P244D057-tu111",
+  "source" : "保存一个自定义的用户配置，以便即时访问您喜爱的设置。",
+  "target" : "Salve uma configuração de usuário personalizada para acesso instantâneo às suas configurações favoritas."
+}, {
+  "id" : "P244D057-tu112",
+  "source" : "您可以在此模式下调整判别模式，且探测器关机时不会丢失您的更改。",
+  "target" : "Você pode ajustar o modo de discriminação neste modo, e suas alterações não serão perdidas quando o detector estiver desligado."
+}, {
+  "id" : "P244D057-tu113",
+  "source" : "存储用户配置文件",
+  "target" : "Armazenar perfil do usuário"
+}, {
+  "id" : "P244D057-tu114",
+  "source" : "任何搜索模式（公园模式、旷野模式或海滩模式）都可以存储在    自定义搜索模式槽中。当存储用户配置文件时，会保存当前的探测器设置、判别模式以及搜索模式的独特目标区分和深度特性。",
+  "target" : "Qualquer modo de busca (modo parque, modo campo aberto ou modo praia) pode ser armazenado na slot de modo de busca personalizado. Ao salvar o perfil do usuário, as configurações atuais do detector, o modo de discriminação e as características de distinção de alvo e profundidade do modo de busca são salvas."
+}, {
+  "id" : "P244D057-tu115",
+  "source" : "选择并编辑您希望存储的搜索模式。",
+  "target" : "Escolha e edite os padrões de busca que deseja armazenar."
+}, {
+  "id" : "P244D057-tu116",
+  "source" : "长按搜索模式按钮。目标识别号显示屏上将显示\"St\"，并会有一声确认提示音。",
+  "target" : "Pressione e mantenha o botão de modo de busca. O display do número de identificação do alvo mostrará \"St\" e haverá um sinal sonoro de confirmação."
+}, {
+  "id" : "P244D057-tu117",
+  "source" : "新存储自定义搜索模式现在将变为活动状态，并且可以随时编辑。",
+  "target" : "O novo modo de pesquisa personalizada de armazenamento agora se tornará ativo e pode ser editado a qualquer momento."
+}, {
+  "id" : "P244D057-tu118",
+  "source" : "控制",
+  "target" : "controle"
+}, {
+  "id" : "P23C14926-sub1",
+  "source" : "1",
+  "target" : "1"
+}, {
+  "id" : "P23C14926-sub2",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P23C14926-sub3",
+  "source" : "3",
+  "target" : "3"
+}, {
+  "id" : "P23C14926-sub4",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P23C14926-sub5",
+  "source" : "5",
+  "target" : "5"
+}, {
+  "id" : "P23C14926-sub6",
+  "source" : "6",
+  "target" : "6"
+}, {
+  "id" : "P244D057-tu119",
+  "source" : "设置/电源",
+  "target" : "Configurações/Alimentação"
+}, {
+  "id" : "P244D057-tu120",
+  "source" : "在“关机”状态下按下以打开探测器。",
+  "target" : "在“关机”状态下按下以打开探测器。"
+}, {
+  "id" : "P244D057-tu121",
+  "source" : "按下以访问并滑动浏览设置菜单。  在“开机”状态下长按以关闭探测器。",
+  "target" : "Pressione para acessar e deslize para navegar no menu de configurações. Mantenha pressionado no estado \"ligado\" para desligar o detector."
+}, {
+  "id" : "P244D057-tu122",
+  "source" : "关机状态下长按（7 秒）以恢复出厂设置（第 39 页）。",
+  "target" : "No estado desligado, mantenha pressionado por (7 segundos) para restaurar as configurações de fábrica (página 39)."
+}, {
+  "id" : "P244D057-tu123",
+  "source" : "减号 (−) / 加号 (+)",
+  "target" : "sinal de subtração (−) / sinal de adição (+)"
+}, {
+  "id" : "P244D057-tu124",
+  "source" : "在探测屏幕下按下以调节灵敏度等级（第 10 页）。",
+  "target" : "在探测屏幕下按下以调节灵敏度等级（第 10 页）。"
+}, {
+  "id" : "P244D057-tu125",
+  "source" : "在设置菜单中时按下调节所选设置的值。",
+  "target" : "Na menu de configurações, pressione para ajustar o valor da configuração selecionada."
+}, {
+  "id" : "P244D057-tu126",
+  "source" : "在探测屏幕下按住加号 (+) 以进行地面平衡（第 11 页）。",
+  "target" : "Na tela de detecção, mantenha pressionado o sinal de mais (+) para equilibrar o solo (página 11)."
+}, {
+  "id" : "P244D057-tu127",
+  "source" : "充电状态 LED",
+  "target" : "LED de estado de carga"
+}, {
+  "id" : "P244D057-tu128",
+  "source" : "显示探测器电池的充电状态（第 27 页）。",
+  "target" : "Exibir o status de carga da bateria do detector (página 27)."
+}, {
+  "id" : "P244D057-tu129",
+  "source" : "全金属",
+  "target" : "Todo metal"
+}, {
+  "id" : "P244D057-tu130",
+  "source" : "按下可在当前判别模式和全金属模式之间切换，以接受所有目标（第 17 页）。",
+  "target" : "Pressione para alternar entre o modo de discriminação atual e o modo de todos os metais, a fim de aceitar todos os alvos (página 17)."
+}, {
+  "id" : "P244D057-tu131",
+  "source" : "长按以拒绝探得目标识别（第 17 页）。",
+  "target" : "Pressione longamente para recusar a detecção de reconhecimento de alvo (página 17)."
+}, {
+  "id" : "P244D057-tu132",
+  "source" : "搜索模式",
+  "target" : "modo de busca"
+}, {
+  "id" : "P244D057-tu133",
+  "source" : "选择下一个搜索模式（第 5 页）。",
+  "target" : "Escolha o próximo modo de pesquisa (pág. 5)."
+}, {
+  "id" : "P244D057-tu134",
+  "source" : "长按以将当前搜索模式和设置存储到用户配置文件。",
+  "target" : "Pressione longamente para armazenar o modo de pesquisa atual e as configurações no perfil do usuário."
+}, {
+  "id" : "P244D057-tu135",
+  "source" : "精确定位/探测",
+  "target" : "Precisão de localização/detetção"
+}, {
+  "id" : "P244D057-tu136",
+  "source" : "在设置菜单中按下以返回探测屏幕。",
+  "target" : "No menu de configurações, pressione para retornar à tela de detecção."
+}, {
+  "id" : "P244D057-tu137",
+  "source" : "在探测屏幕下按住以启用精确定位功能，在挖掘前定位目标的确切位置（第 23 页）。",
+  "target" : "在探测屏幕下按住以启用精确定位功能，在挖掘前定位目标的确切位置（第 23 页）。"
+}, {
+  "id" : "P244D057-tu138",
+  "source" : "显示屏",
+  "target" : "display"
+}, {
+  "id" : "P23C148E8-sub1",
+  "source" : "1",
+  "target" : "1"
+}, {
+  "id" : "P23C148E8-sub2",
+  "source" : "8",
+  "target" : "8"
+}, {
+  "id" : "P23C148E8-sub3",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P23C148E8-sub4",
+  "source" : "3",
+  "target" : "3"
+}, {
+  "id" : "P23C148E8-sub5",
+  "source" : "7",
+  "target" : "7"
+}, {
+  "id" : "P23C148E8-sub6",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P23C148E8-sub7",
+  "source" : "5",
+  "target" : "5"
+}, {
+  "id" : "P23C148E8-sub8",
+  "source" : "6",
+  "target" : "6"
+}, {
+  "id" : "P244D057-tu139",
+  "source" : "判别标度与目标指南",
+  "target" : "Escala de julgamento e diretrizes de metas"
+}, {
+  "id" : "P244D057-tu140",
+  "source" : "判别标度由对应于 119 个目标 ID 的 30 个单独区分段组成。每个段代表 4 个目标识别（第 页22）。",
+  "target" : "判别标度由对应于 119 个目标 ID 的 30 个单独区分段组成。每个段代表 4 个目标识别（第 页22）。"
+}, {
+  "id" : "P244D057-tu141",
+  "source" : "在精确定位模式下，刻度显示目标信号强度的可视化表示",
+  "target" : "No modo de posicionamento preciso, a escala mostra uma representação visual da intensidade do sinal alvo."
+}, {
+  "id" : "P244D057-tu142",
+  "source" : "（第 23 页）。",
+  "target" : "（第 23 页）。"
+}, {
+  "id" : "P244D057-tu143",
+  "source" : "显示屏上方的目标指南指示对应目标识别段可能找到的目标类型。",
+  "target" : "显示屏上方的目标指南指示对应目标识别段可能找到的目标类型。"
+}, {
+  "id" : "P244D057-tu144",
+  "source" : "灵敏度等级",
+  "target" : "Nível de Sensibilidade"
+}, {
+  "id" : "P244D057-tu145",
+  "source" : "显示灵敏度等级（第 10 页）。",
+  "target" : "显示灵敏度等级（第 10 页）。"
+}, {
+  "id" : "P244D057-tu146",
+  "source" : "目标识别号",
+  "target" : "Número de identificação do alvo"
+}, {
+  "id" : "P244D057-tu147",
+  "source" : "数值（从 –19 到 99）根据其导电或含铁属性分配给每个探得目标。这允许在挖掘之前识别物体。例如，一枚美国 25 美分硬币通常具有目标识别号 89（第 22 页）。",
+  "target" : "Os valores numéricos (de -19 a 99) são atribuídos a cada alvo detectado com base em suas propriedades condutivas ou ferrosas. Isso permite identificar objetos antes da escavação. Por exemplo, uma moeda americana de 25 centavos geralmente tem um número de identificação de alvo de 89 (página 22)."
+}, {
+  "id" : "P244D057-tu148",
+  "source" : "负数是铁质金属，正数是从纯黄金（低 ID）到大银制品（高 ID）的非铁质金属。",
+  "target" : "Números negativos são metais ferrosos, enquanto números positivos são metais não ferrosos que vão do ouro puro (ID baixo) até grandes produtos de prata (ID alto)."
+}, {
+  "id" : "P244D057-tu149",
+  "source" : "精确定位",
+  "target" : "Localização precisa"
+}, {
+  "id" : "P244D057-tu150",
+  "source" : "指示精确定位功能处于活动状态（第 23 页）。",
+  "target" : "Indica que a função de localização precisa está ativada (página 23)."
+}, {
+  "id" : "P244D057-tu151",
+  "source" : "搜索模式",
+  "target" : "Modo de pesquisa"
+}, {
+  "id" : "P244D057-tu152",
+  "source" : "显示搜索模式：公园模式、旷野模式、海滩模式或用户配置（第 5 页）。",
+  "target" : "Exibir modos de busca: modo parque, modo selva, modo praia ou configuração do usuário (página 5)."
+}, {
+  "id" : "P244D057-tu153",
+  "source" : "设置菜单",
+  "target" : "Configurações"
+}, {
+  "id" : "P244D057-tu154",
+  "source" : "用户可调节设置的菜单态（第 13 页）。",
+  "target" : "Usuário pode ajustar o estado do menu de configurações (página 13)."
+}, {
+  "id" : "P244D057-tu155",
+  "source" : "深度计",
+  "target" : "深度计 translates to \"profundímetro\" in PT-BR."
+}, {
+  "id" : "P244D057-tu156",
+  "source" : "显示探得目标的大致深度。",
+  "target" : "显示探得目标的大致深度。"
+}, {
+  "id" : "P244D057-tu157",
+  "source" : "状态栏",
+  "target" : "barra de status"
+}, {
+  "id" : "P244D057-tu160",
+  "source" : "电池电量/正在充电",
+  "target" : "Nível de bateria/carregando"
+}, {
+  "id" : "P244D057-tu161",
+  "source" : "指示当前电池电量（第 27 页）。",
+  "target" : "Indica a carga atual da bateria (Página 27)."
+}, {
+  "id" : "P244D057-tu162",
+  "source" : "警告指示器",
+  "target" : "Indicador de aviso"
+}, {
+  "id" : "P244D057-tu163",
+  "source" : "当探盘断开时（第 30 页），以及在海滩模式下指示海滩过载激活时显示。",
+  "target" : "Quando a sonda de exploração se desconectar (página 30) e também quando indicar a ativação da sobrecarga da praia no modo de praia."
+}, {
+  "id" : "P244D057-tu164",
+  "source" : "地面平衡",
+  "target" : "equilíbrio do solo"
+}, {
+  "id" : "P244D057-tu165",
+  "source" : "在自动地面平衡期间闪烁（第 11 页）。",
+  "target" : "在自动地面平衡期间闪烁（第 11 页）。"
+}, {
+  "id" : "P244D057-tu166",
+  "source" : "音量",
+  "target" : "Volume"
+}, {
+  "id" : "P244D057-tu167",
+  "source" : "显示探测器音频音量级别（第 15 页）。",
+  "target" : "Exibir nível de volume de áudio do detector (página 15)."
+}, {
+  "id" : "P244D057-tu168",
+  "source" : "当通过设置菜单（第 页）调节铁音量设置16（仅限 560）时，音量级别图标旁会显示一个钉子图标。背光",
+  "target" : "Ao ajustar a configuração do volume de som do ferro 16 (somente 560) através do menu de configurações (página XX), um ícone de alfinete será exibido próximo ao ícone do nível de volume. Retroiluminação."
+}, {
+  "id" : "P244D057-tu169",
+  "source" : "指示背光灯已打开（第 18 页）。",
+  "target" : "O indicador da luz de fundo está aceso (página 18)."
+}, {
+  "id" : "P244D057-tu170",
+  "source" : "闪光灯",
+  "target" : "flash"
+}, {
+  "id" : "P244D057-tu171",
+  "source" : "指示闪光灯已打开（第 页19）。",
+  "target" : "Indicador de farol piscante foi acionado (pág. 19)."
+}, {
+  "id" : "P244D057-tu172",
+  "source" : "振动",
+  "target" : "Vibração"
+}, {
+  "id" : "P244D057-tu173",
+  "source" : "指示手柄振动已打开（第 19 页）。",
+  "target" : "O modo de vibração do controle foi ativado (página 19)."
+}, {
+  "id" : "P244D057-tu174",
+  "source" : "无线音频",
+  "target" : "áudio sem fio"
+}, {
+  "id" : "P244D057-tu175",
+  "source" : "指示无线音频已打开（第 20 页）。",
+  "target" : "O áudio sem fio foi ativado (página 20)."
+}, {
+  "id" : "P244D057-tu176",
+  "source" : "耳机",
+  "target" : "fones de ouvido"
+}, {
+  "id" : "P244D057-tu177",
+  "source" : "指示耳机已连接——无线（第 20 页）或有线（第 26 页）。",
+  "target" : "Indica que os fones de ouvido estão conectados - sem fio (página 20) ou com fio (página 26)."
+}, {
+  "id" : "P244D057-tu179",
+  "source" : "一般设置",
+  "target" : "Configurações gerais"
+}, {
+  "id" : "P244D057-tu180",
+  "source" : "目录\t8",
+  "target" : "Índice\t8"
+}, {
+  "id" : "P244D057-tu181",
+  "source" : "全局和本地设置",
+  "target" : "Configurações globais e locais"
+}, {
+  "id" : "P244D057-tu182",
+  "source" : "对各个 VANQUISH 设置所做的更改要么应用于当前搜索模式（局部），要么应用于所有模式（全局）。",
+  "target" : "As alterações feitas nas configurações do VANQUISH se aplicam ao modo de pesquisa atual (local) ou a todos os modos (global)."
+}, {
+  "id" : "P244D057-tu183",
+  "source" : "调整全局设置时，会显示所有搜索模式图标，表示更改适用于所有模式。",
+  "target" : "Ao ajustar as configurações globais, todos os ícones de modo de busca serão exibidos, indicando que as alterações se aplicam a todos os modos."
+}, {
+  "id" : "P244D057-tu184",
+  "source" : "全局和本地设置参考",
+  "target" : "Referência de configurações globais e locais"
+}, {
+  "id" : "P244D057-tu185",
+  "source" : "一般设置",
+  "target" : "Configurações Gerais"
+}, {
+  "id" : "P23C14850-sub1",
+  "source" : "灵敏度",
+  "target" : "sensibilidade"
+}, {
+  "id" : "P23C14850-sub2",
+  "source" : "全局",
+  "target" : "global"
+}, {
+  "id" : "P244D057-tu186",
+  "source" : "调整局部设置时，仅显示活动搜索模式图标，表示更改仅影响该模式。",
+  "target" : "Ao ajustar as configurações locais, exiba apenas o ícone do modo de pesquisa ativo, indicando que a alteração afeta apenas esse modo."
+}, {
+  "id" : "P244D057-tu187",
+  "source" : "地面平衡\t局部设置",
+  "target" : "Equilíbrio do solo  Configuração local"
+}, {
+  "id" : "P244D057-tu188",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C1484D-sub1",
+  "source" : "全金属",
+  "target" : "Todo metal"
+}, {
+  "id" : "P23C1484D-sub2",
+  "source" : "全局",
+  "target" : "全局 translates to \"global\" in Portuguese (Brazil). So, the translation is:\n\nglobal"
+}, {
+  "id" : "P244D057-tu190",
+  "source" : "注意：当探测器关机时，公园、旷野和海滩的局部设置将恢复为默认值——只有在用户配置文件中创建或存储的判别模式才会被保存。",
+  "target" : "Atenção: Quando o detector estiver desligado, as configurações locais do parque, da selva e da praia serão restauradas para os padrões de fábrica — apenas os modos de discriminação criados ou salvos no perfil do usuário serão mantidos."
+}, {
+  "id" : "P244D057-tu191",
+  "source" : "设置菜单",
+  "target" : "Configurações"
+}, {
+  "id" : "P244D057-tu192",
+  "source" : "当你在设置菜单中调整项目时，受影响的搜索模式的图标将出现在显示屏上。",
+  "target" : "Quando você ajustar os itens no menu de configurações, o ícone do modo de pesquisa afetado aparecerá na tela."
+}, {
+  "id" : "P23C14834-sub1",
+  "source" : "全局",
+  "target" : "global"
+}, {
+  "id" : "P23C14834-sub2",
+  "source" : "铁音量",
+  "target" : "铁音量"
+}, {
+  "id" : "P23C14834-sub3",
+  "source" : "全局",
+  "target" : "global"
+}, {
+  "id" : "P23C14834-sub4",
+  "source" : "音量调节",
+  "target" : "Controle de volume"
+}, {
+  "id" : "P244D057-tu193",
+  "source" : "接受/拒绝\t局部设置",
+  "target" : "Aceitar/Rejeitar Configurações Locais"
+}, {
+  "id" : "P244D057-tu195",
+  "source" : "铁倾向\t局部设置",
+  "target" : "Ferro tendência  Configuração local"
+}, {
+  "id" : "P244D057-tu196",
+  "source" : "背光",
+  "target" : "retroiluminação"
+}, {
+  "id" : "P244D057-tu197",
+  "source" : "全局",
+  "target" : "Global"
+}, {
+  "id" : "P244D057-tu198",
+  "source" : "闪光灯",
+  "target" : "flash"
+}, {
+  "id" : "P244D057-tu199",
+  "source" : "全局",
+  "target" : "global"
+}, {
+  "id" : "P244D057-tu200",
+  "source" : "振动",
+  "target" : "vibração"
+}, {
+  "id" : "P244D057-tu201",
+  "source" : "全局",
+  "target" : "全球"
+}, {
+  "id" : "P244D057-tu202",
+  "source" : "无线",
+  "target" : "Sem fio"
+}, {
+  "id" : "P244D057-tu203",
+  "source" : "全局",
+  "target" : "Global"
+}, {
+  "id" : "P244D057-tu204",
+  "source" : "灵敏度",
+  "target" : "sensibilidade"
+}, {
+  "id" : "P244D057-tu205",
+  "source" : "VANQUISH 探测器灵敏度高且可调整灵敏度。为各个探测条件设置正确的灵敏度等级将最大限度地提高探测深度。",
+  "target" : "O detector VANQUISH tem alta sensibilidade e a sensibilidade pode ser ajustada. Configurar o nível de sensibilidade correto para cada condição de detecção maximizará a profundidade de detecção."
+}, {
+  "id" : "P244D057-tu206",
+  "source" : "始终选择最高稳定的灵敏度设置以获得探测器的最佳性能。",
+  "target" : "Sempre escolha a configuração de sensibilidade mais estável para obter o melhor desempenho do detector."
+}, {
+  "id" : "P244D057-tu207",
+  "source" : "液晶屏 (LCD) 上的灵敏度指示符以 2 为增量显示近似的灵敏度等级。",
+  "target" : "A indicação de sensibilidade na tela de cristal líquido (LCD) exibe níveis de sensibilidade aproximados em incrementos de 2."
+}, {
+  "id" : "P244D057-tu208",
+  "source" : "噪音过大",
+  "target" : "ruído excessivo"
+}, {
+  "id" : "P244D057-tu209",
+  "source" : "有时，探测时会遇到过多的噪音。这可能是由电源线、移动电话塔或其他金属探测器等来源的环境电磁干扰 (EMI) 引起的。",
+  "target" : "Às vezes, a detecção pode encontrar muito ruído. Isso pode ser causado por interferência eletromagnética (EMI) ambiental de fontes como cabos de alimentação, torres de telefonia móvel ou outros detectores de metal."
+}, {
+  "id" : "P244D057-tu210",
+  "source" : "如果噪音是个问题，请按顺序尝试以下步骤，直到消除噪音。",
+  "target" : "Se o ruído for um problema, siga a ordem dos passos abaixo até eliminar o ruído."
+}, {
+  "id" : "P244D057-tu211",
+  "source" : "远离当地的电磁干扰 (EMI) 源。",
+  "target" : "Afaste-se das fontes de interferência eletromagnética (EMI) locais."
+}, {
+  "id" : "P244D057-tu212",
+  "source" : "重启探测器，并等待自动降噪过程完成。",
+  "target" : "Reinicie o detector e aguarde a conclusão do processo de redução de ruído automático."
+}, {
+  "id" : "P244D057-tu213",
+  "source" : "如果重新启动探测器无法消除过多的噪音，请尝试降低灵敏度等级。",
+  "target" : "Se reiniciar o detector não eliminar o excesso de ruído, tente reduzir o nível de sensibilidade."
+}, {
+  "id" : "P244D057-tu214",
+  "source" : "1-2 级\t3-4 级\t5-6 级\t7-8 级\t9-10 级",
+  "target" : "1-2 nível   3-4 nível   5-6 nível   7-8 nível   9-10 nível"
+}, {
+  "id" : "P23C14569-sub1",
+  "source" : "自动降噪",
+  "target" : "Auto redução de ruído"
+}, {
+  "id" : "P23C14569-sub2",
+  "source" : "VANQUISH 系列探测器每次开机时都会进行自动降噪过程。它会校准探测器，从而避免出现过度噪音。",
+  "target" : "A série de detectores VANQUISH realiza um processo de redução de ruído automaticamente sempre que é ligada. Ele calibra o detector, evitando assim a ocorrência de ruído excessivo."
+}, {
+  "id" : "P23C14569-sub3",
+  "source" : "为获得最佳效果，应将探盘保持静止，刚好高于地面，直到 自动降噪完成（由目标识别号字段上显示的两个大短横线指示）。",
+  "target" : "为了获得最佳效果，应将探盘保持静止，刚好高于地面，直到自动降噪完成（由目标识别号字段上显示的两个大短横线指示）。"
+}, {
+  "id" : "P244D057-tu215",
+  "source" : "调整灵敏度等级",
+  "target" : "Ajustar o nível de sensibilidade"
+}, {
+  "id" : "P23C14568-sub1",
+  "source" : "在降低灵敏度之前，始终先尝试通过执行地面平衡（第 11 页）来解决噪音问题。",
+  "target" : "在降低灵敏度之前，始终先尝试通过执行地面平衡（第 11 页）来解决噪音问题。"
+}, {
+  "id" : "P244D057-tu216",
+  "source" : "灵敏度等级在调整时显示在目标 ID 显示画面上，并在 3 秒不活跃后消失。",
+  "target" : "A faixa de sensibilidade é exibida na tela de exibição do ID do alvo durante o ajuste e desaparece após 3 segundos de inatividade."
+}, {
+  "id" : "P244D057-tu217",
+  "source" : "确保您处于探测屏幕。",
+  "target" : "Certifique-se de que você está na tela de detecção."
+}, {
+  "id" : "P244D057-tu218",
+  "source" : "保持探盘静止，按下加号按钮增加灵敏度直到开始出现错误信号。",
+  "target" : "Mantenha o detector estacionário e pressione o botão de adição para aumentar a sensibilidade até que comece a aparecer o sinal de erro."
+}, {
+  "id" : "P244D057-tu220",
+  "source" : "按减号按钮降低灵敏度等级，直到足以使错误信号消失。",
+  "target" : "Pressione o botão de subtrair para reduzir o nível de sensibilidade até que os sinais de erro desapareçam."
+}, {
+  "id" : "P244D057-tu222",
+  "source" : "将探盘扫过一块干净的地面，如果仍然存在地面噪声，则进一步降低灵敏度等级。",
+  "target" : "Passe o dispositivo de varredura sobre uma área limpa do chão; se ainda houver ruído de fundo, reduza ainda mais o nível de sensibilidade."
+}, {
+  "id" : "P244D057-tu223",
+  "source" : "地面平衡",
+  "target" : "Equilíbrio da superfície"
+}, {
+  "id" : "P244D057-tu224",
+  "source" : "地面平衡设置将探测器校准到当地地面，以消除矿化引起的错误信号。地面平衡很少需要执行，因为默认设置适合大多数条件。",
+  "target" : "O ajuste de balanço de solo calibra o detector ao solo local para eliminar sinais de erro causados pela mineralização. Raramente é necessário executar o balanço de solo, pois as configurações padrão são adequadas para a maioria das condições."
+}, {
+  "id" : "P244D057-tu225",
+  "source" : "地面平衡设置的范围从 −9 到 99，所有搜索模式的默认值为 0 [零]。地面平衡调整是局部的；只有当前搜索模式受更改的影响。",
+  "target" : "O alcance das configurações de equilíbrio do solo varia de −9 a 99, e o valor padrão para todos os modos de pesquisa é 0 [zero]. O ajuste do equilíbrio do solo é local; apenas o modo de pesquisa atual é afetado pela alteração."
+}, {
+  "id" : "P23C14549-sub1",
+  "source" : "默认地面平衡设置 0 [零] 通常适合大多数地点，但是，如果地面产生大量噪音信号（和/或灵敏度等级设置得",
+  "target" : "O ajuste de equilíbrio de solo padrão 0 [zero] geralmente é adequado para a maioria dos locais, no entanto, se o solo gerar uma quantidade significativa de sinal de ruído (e/ou o nível de sensibilidade estiver ajustado a"
+}, {
+  "id" : "P23C14549-sub2",
+  "source" : "非常低），则建议使用自动地面平衡。",
+  "target" : "Se for muito baixo, recomenda-se usar o equilíbrio automático do solo."
+}, {
+  "id" : "P23C14549-sub3",
+  "source" : "如果自动地面平衡过程没有大大降低地面噪音（由于高度矿化的地面或高盐度），则通过左右扫动探盘重复自动地面平衡过程，而不是标准的向上和 -向下移动。",
+  "target" : "Se o processo de balanceamento automático do solo não reduziu significativamente o ruído do solo (devido à alta mineralização do solo ou alta salinidade), repita o processo de balanceamento automático do solo movendo a sonda para os lados, em vez de mover para cima e para baixo de forma padrão."
+}, {
+  "id" : "P244D057-tu226",
+  "source" : "自动地面平衡",
+  "target" : "Balanceamento automático de superfície"
+}, {
+  "id" : "P244D057-tu227",
+  "source" : "自动地面平衡自动确定最佳地面平衡设置，但该过程必须由用户启动。",
+  "target" : "O equilíbrio automático do solo determina automaticamente as melhores configurações de equilíbrio do solo, mas o processo deve ser iniciado pelo usuário."
+}, {
+  "id" : "P244D057-tu228",
+  "source" : "使用自动地面平衡是推荐的地面平衡方法。",
+  "target" : "使用自动地面平衡是推荐的地面平衡方法。"
+}, {
+  "id" : "P244D057-tu229",
+  "source" : "确保您处于探测屏幕。",
+  "target" : "Certifique-se de que você está na tela de detecção."
+}, {
+  "id" : "P244D057-tu230",
+  "source" : "在整个自动地面平衡过程中按住加号 (+) 按钮；液晶屏上的地面平衡图标将快速闪烁。",
+  "target" : "Durante todo o processo de equilíbrio automático do solo, mantenha pressionado o botão de mais (+); o ícone de equilíbrio do solo na tela LCD irá piscar rapidamente."
+}, {
+  "id" : "P244D057-tu231",
+  "source" : "",
+  "target" : "It seems you didn't provide any text to translate. Please provide the text you'd like translated to PT-BR."
+}, {
+  "id" : "P244D057-tu232",
+  "source" : "跟踪地面平衡",
+  "target" : "Acompanhamento do equilíbrio do solo"
+}, {
+  "id" : "P244D057-tu233",
+  "source" : "VANQUISH 海滩模式具有自动跟踪地面平衡功能，可在海滩条件下获得最佳性能。它在探测时持续调整地面平衡，确保地面平衡始终设置正确。",
+  "target" : "VANQUISH modo praia tem a função de balanceamento de solo com rastreamento automático, proporcionando o melhor desempenho em condições de praia. Ele ajusta continuamente o balanceamento de solo durante a detecção, garantindo que o balanceamento de solo esteja sempre configurado corretamente."
+}, {
+  "id" : "P244D057-tu234",
+  "source" : "海滩跟踪无法手动调整或关闭。",
+  "target" : "O rastreamento de praia não pode ser ajustado ou desativado manualmente."
+}, {
+  "id" : "P244D057-tu235",
+  "source" : "（闪烁）",
+  "target" : "（闪烁）"
+}, {
+  "id" : "P244D057-tu236",
+  "source" : "在一片不含任何目标的干净土壤上反复拿起和放低探盘。观察目标 ID 显示画面上动态更新的地面平衡数字，因为音频因地面而降低。",
+  "target" : "在一片不含任何目标的干净土壤上反复拿起和放低探盘。观察目标 ID 显示画面上动态更新的地面平衡数字，因为音频因地面而降低。"
+}, {
+  "id" : "P244D057-tu237",
+  "source" : "当目标 ID 显示画面中的值稳定在一个数字上时，响应将稳定下来，并且听得见的响应最小化。",
+  "target" : "Quando o ID do alvo exibe um valor estável em um número na tela, a resposta se estabiliza e a resposta audível é minimizada."
+}, {
+  "id" : "P244D057-tu238",
+  "source" : "松开加号 (+) 按钮。",
+  "target" : "Solte o botão de adição (+)."
+}, {
+  "id" : "P244D057-tu239",
+  "source" : "深度计",
+  "target" : "profundímetro"
+}, {
+  "id" : "P244D057-tu240",
+  "source" : "深度计指示探得目标的大致深度。",
+  "target" : "O profundímetro indica a profundidade aproximada do alvo encontrado."
+}, {
+  "id" : "P244D057-tu241",
+  "source" : "深度计仅供参考。较少的箭头表示较浅的目标，较多的箭头表示较深的目标。精度可能会根据目标类型和大小以及地面条件而有所不同。",
+  "target" : "O medidor de profundidade é apenas para referência. Menos setas indicam um alvo mais raso, enquanto mais setas indicam um alvo mais profundo. A precisão pode variar de acordo com o tipo e o tamanho do alvo, bem como as condições do terreno."
+}, {
+  "id" : "P244D057-tu242",
+  "source" : "探测到目标后，深度计将在 LCD 上保留最多 5 秒，或直到探测到下一个目标。",
+  "target" : "Após detectar o alvo, o medidor de profundidade permanecerá no LCD por até 5 segundos ou até detectar o próximo alvo."
+}, {
+  "id" : "P244D057-tu243",
+  "source" : "当没有探测到时，深度计图标和箭头将关闭。",
+  "target" : "Quando não houver detecção, o ícone e a seta do medidor de profundidade serão desligados."
+}, {
+  "id" : "P244D057-tu244",
+  "source" : "以下是深度计读数和美国 25 美分钱币的近似目标深度的示例。",
+  "target" : "Abaixo estão exemplos de leituras de profundidade e a profundidade alvo aproximada de uma moeda de 25 centavos dos Estados Unidos."
+}, {
+  "id" : "P244D057-tu246",
+  "source" : "50 毫米",
+  "target" : "50 milímetros"
+}, {
+  "id" : "P244D057-tu247",
+  "source" : "2\"",
+  "target" : "2\""
+}, {
+  "id" : "P244D057-tu248",
+  "source" : "100 毫米",
+  "target" : "100 milímetros"
+}, {
+  "id" : "P244D057-tu249",
+  "source" : "4\"",
+  "target" : "4\""
+}, {
+  "id" : "P244D057-tu250",
+  "source" : "150 毫米",
+  "target" : "150 milímetros"
+}, {
+  "id" : "P244D057-tu251",
+  "source" : "6\"",
+  "target" : "6\""
+}, {
+  "id" : "P244D057-tu252",
+  "source" : "200 毫米",
+  "target" : "200 milímetros"
+}, {
+  "id" : "P244D057-tu253",
+  "source" : "8\"",
+  "target" : "8\""
+}, {
+  "id" : "P244D057-tu254",
+  "source" : "> 200 毫米",
+  "target" : "200 milímetros"
+}, {
+  "id" : "P244D057-tu255",
+  "source" : ">8\"",
+  "target" : "8\""
+}, {
+  "id" : "P244D057-tu256",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C144EB-sub1",
+  "source" : "在高度矿化的土壤中，深度计的精度会降低。",
+  "target" : "Em solos altamente mineralizados, a precisão do medidor de profundidade diminui."
+}, {
+  "id" : "P244D057-tu258",
+  "source" : "设置菜单",
+  "target" : "Menu de Configurações"
+}, {
+  "id" : "P244D057-tu259",
+  "source" : "目录\t13",
+  "target" : "Índice\t13"
+}, {
+  "id" : "P244D057-tu260",
+  "source" : "设置菜单导航",
+  "target" : "Configurar navegação do menu"
+}, {
+  "id" : "P244D057-tu261",
+  "source" : "设置菜单包含与探测器相关的可调设置。",
+  "target" : "O menu de configurações contém ajustes ajustáveis relacionados ao detector."
+}, {
+  "id" : "P244D057-tu262",
+  "source" : "设置菜单导航",
+  "target" : "Configurar menu de navegação"
+}, {
+  "id" : "P244D057-tu263",
+  "source" : "可以通过按下设置按钮从任何屏幕访问设置菜单。",
+  "target" : "Você pode acessar o menu de configurações a partir de qualquer tela pressionando o botão de configurações."
+}, {
+  "id" : "P244D057-tu264",
+  "source" : "每次按下设置按钮都会从左到右滑动到设置菜单中的下一个设置。最后一次设置后，探测器返回到探测屏",
+  "target" : "Cada vez que você pressiona o botão de configuração, ele desliza da esquerda para a direita para a próxima configuração no menu de configurações. Após a última configuração, o detector retorna para a tela de detecção."
+}, {
+  "id" : "P244D057-tu265",
+  "source" : "幕。再次按下设置按钮以再次从左侧开始滑动设置。",
+  "target" : "Cortina. Pressione o botão de configuração novamente para deslizar as configurações da esquerda novamente."
+}, {
+  "id" : "P244D057-tu266",
+  "source" : "在设置菜单中按下精确定位/探测按钮返回探测屏幕。",
+  "target" : "Pressione o botão de localizaçäo precisa/detecçäo no menu de configuraçöes para retornar à tela de detecçäo."
+}, {
+  "id" : "P244D057-tu267",
+  "source" : "设置菜单会记住上次访问的设置，并会在下次按下设置按钮时返回到该设置。",
+  "target" : "设置菜单会记住上次访问的设置，并会在下次按下设置按钮时返回到该设置。"
+}, {
+  "id" : "P244D057-tu268",
+  "source" : "音量调节",
+  "target" : "Controle de volume"
+}, {
+  "id" : "P244D057-tu270",
+  "source" : "设置为 7。",
+  "target" : "Definir como 7."
+}, {
+  "id" : "P244D057-tu271",
+  "source" : "音量调整可更改所有探测器音频的响度，包括探测信号、精确定位声音和确认音。",
+  "target" : "O ajuste de volume pode alterar o nível de todos os áudios dos detectores, incluindo o sinal de detecção, o som de localização precisa e o som de confirmação."
+}, {
+  "id" : "P244D057-tu272",
+  "source" : "音量调节的更改是全局性的，范围从 1 到 10，默认",
+  "target" : "A alteração do ajuste de volume é global, variando de 1 a 10, padrão."
+}, {
+  "id" : "P244D057-tu273",
+  "source" : "调整音量",
+  "target" : "Ajustar o volume"
+}, {
+  "id" : "P244D057-tu274",
+  "source" : "按下“设置”按钮，导航到音量调节设置。",
+  "target" : "Pressione o botão \"Configurações\" e navegue até as configurações de ajuste de volume."
+}, {
+  "id" : "P244D057-tu276",
+  "source" : "使用减号 (–) 或加号 (+) 按钮将音量调整到舒适的水平，确保大声信号（近距离或大目标）不会伤害你的耳朵。",
+  "target" : "Use os botões de menos (–) ou mais (+) para ajustar o volume a um nível confortável, garantindo que um sinal alto (proximidade ou grande alvo) não machuque seus ouvidos."
+}, {
+  "id" : "P244D057-tu278",
+  "source" : "音量级别显示在状态条中。每个音量条代表 2 个级别。",
+  "target" : "O nível de volume é exibido na barra de status. Cada barra de volume representa 2 níveis."
+}, {
+  "id" : "P244D057-tu280",
+  "source" : "1-2 级\t3-4 级\t5-6 级\t7-8 级\t9-10 级",
+  "target" : "1-2 nível  3-4 nível  5-6 nível  7-8 nível  9-10 nível"
+}, {
+  "id" : "P244D057-tu281",
+  "source" : "铁音量（高级设置）",
+  "target" : "Controle de som de ferro (configurações avançadas)"
+}, {
+  "id" : "P244D057-tu282",
+  "source" : "VANQUISH 探测器具有铁音量功能，可使铁质目标产生的音频音量低于非铁质物体。这在密集铁质垃圾区域或高度矿化地面非常有用，因为它让您能听到铁质响应而不会被其淹没。",
+  "target" : "O detector VANQUISH possui a função de volume de áudio de ferro, que reduz o volume de áudio gerado por alvos ferroso em relação a objetos não ferroso. Isso é muito útil em áreas de lixo ferroso denso ou em solos altamente mineralizados, pois permite que você ouça a resposta de ferro sem ser sobrecarregado por ela."
+}, {
+  "id" : "P244D057-tu283",
+  "source" : "铁音量与探测器的音量设置成比例，因此即使音量和铁音量设置在同一级别，铁质目标的音量通常听起来也比非铁质金属目标小。如果将铁音量设置为 10，则铁质目标的响度将与非铁质金属目标相同。",
+  "target" : "O volume do som metálico e o volume do detector estão configurados proporcionalmente, por isso, mesmo que o volume e o volume metálico estejam definidos no mesmo nível, o volume de alvos ferrosos geralmente soa mais baixo do que o de alvos não ferrosos. Se o volume metálico estiver configurado para 10, o volume dos alvos ferrosos será igual ao dos alvos não ferrosos."
+}, {
+  "id" : "P244D057-tu284",
+  "source" : "VANQUISH 460 的默认铁音量设置为 4，且无法调节。",
+  "target" : "O volume padrão do som dos ferros do VANQUISH 460 está definido para 4 e não pode ser ajustado."
+}, {
+  "id" : "P244D057-tu285",
+  "source" : "VANQUISH 560 允许您通过高级设置调节铁音量，从而控制铁质和非铁质金属目标音调之间的响度差异。",
+  "target" : "VANQUISH 560 permite que você ajuste o volume do som do ferro por meio de configurações avançadas, controlando a diferença de volume entre o tom de metais ferrosos e não ferrosos."
+}, {
+  "id" : "P244D057-tu286",
+  "source" : "铁音量更改是全局性的，范围从 1 到 10，默认设置为 4。",
+  "target" : "A alteração do volume de som é global, variando de 1 a 10, com a configuração padrão em 4."
+}, {
+  "id" : "P244D057-tu287",
+  "source" : "调整铁音量（仅限 560）",
+  "target" : "Ajustar o volume do som de ferro (somente 560)"
+}, {
+  "id" : "P244D057-tu288",
+  "source" : "按下“设置”按钮，导航到音量调节设置。",
+  "target" : "Pressione o botão \"Configurações\" e navegue até as configurações de ajuste de volume."
+}, {
+  "id" : "P244D057-tu289",
+  "source" : "4. 按下减号 (–) 或加号 (+) 按钮调整铁质金属/非铁质金属音 调区域的音量。'FE'将更改为显示设置值，状态条中的铁音量图标将显示新级别。",
+  "target" : "4.Pressione o botão de subtração (–) ou adição (+) para ajustar o volume na área de som de metal ferroso/não ferroso. 'FE' mudará para exibir o valor configurado, e o ícone de volume de metal na barra de status exibirá o novo nível."
+}, {
+  "id" : "P244D057-tu291",
+  "source" : "注意，“铁音量”设置在无操作几秒后会超时，并返回到“音量调节设置”。",
+  "target" : "Atenção, a configuração de \"volume de som\" irá expirar após alguns segundos sem operação e retornará para \"configurações de ajuste de volume\"."
+}, {
+  "id" : "P244D057-tu292",
+  "source" : "",
+  "target" : "Por favor, forneça o texto que você gostaria que eu traduzisse."
+}, {
+  "id" : "P244D057-tu293",
+  "source" : "长按“全金属”按钮以选择“铁音量高级设置”。",
+  "target" : "Pressione e segure o botão \"Todo Metálico\" para selecionar \"Configurações Avançadas de Volume do Ferro\"."
+}, {
+  "id" : "P244D057-tu295",
+  "source" : "显示屏上将出现'FE'，状态条中的音量级别旁边将出现一个钉子图标。",
+  "target" : "显示屏上将出现'FE'，状态条中的音量级别旁边将出现一个钉子图标。"
+}, {
+  "id" : "P244D057-tu297",
+  "source" : "铁调节屏幕。显示'FE'和钉子图标。",
+  "target" : "Tela de ajuste de ferro. Mostra o ícone 'FE' e o ícone de prego."
+}, {
+  "id" : "P244D057-tu298",
+  "source" : "接受/拒绝",
+  "target" : "Aceitar/Recusar"
+}, {
+  "id" : "P244D057-tu299",
+  "source" : "你可以创建自己的判别模式来探测或忽略特定的目标类型，这样你就可以多挖宝藏，少挖垃圾。",
+  "target" : "Você pode criar seu próprio padrão de discriminação para detectar ou ignorar tipos específicos de alvos, assim você pode cavar mais tesouros e menos lixo."
+}, {
+  "id" : "P244D057-tu300",
+  "source" : "判别标度由对应于 119 个目标 ID 的 30 个单独区分段组成。每个段代表 4 个目标识别（第 页22）。",
+  "target" : "判别标度 é composto por 30 segmentos de diferenciação correspondentes a 119 IDs de objetivo. Cada segmento representa 4 identificações de objetivo (pág. 22)."
+}, {
+  "id" : "P244D057-tu301",
+  "source" : "可以开启/关闭分段以探测（接受）或忽略（排除）特定目标识别的目标。",
+  "target" : "Você pode ativar/desativar a segmentação para detectar (aceitar) ou ignorar (excluir) objetivos de reconhecimento específicos."
+}, {
+  "id" : "P244D057-tu302",
+  "source" : "判别模式是本地的，只有当前的搜索模式配置文件识别模式会被改变。",
+  "target" : "O modo de discriminação é local, apenas o arquivo de configuração do modo de pesquisa atual mudará o modo de reconhecimento."
+}, {
+  "id" : "P244D057-tu303",
+  "source" : "注意：当探测器关机时，公园、旷野和海滩的判别模式将恢复为默认值——只有在用户配置中创建或存储的模式才会被保存。",
+  "target" : "Nota: Quando o detector estiver desligado, o modo de discriminação para parques, áreas abertas e praias será restaurado para os valores padrão — apenas os modos que foram criados ou armazenados nas configurações do usuário serão mantidos."
+}, {
+  "id" : "P244D057-tu304",
+  "source" : "探测时接受/排除目标",
+  "target" : "Detecção de alvos aceitos/excluídos"
+}, {
+  "id" : "P244D057-tu305",
+  "source" : "如果相应的目标识别当前在判别模式中开启，则该目标可以在探测时被排除。",
+  "target" : "Se a identificação de alvo correspondente estiver ativada atualmente no modo de discriminação, esse alvo pode ser excluído durante a detecção."
+}, {
+  "id" : "P244D057-tu306",
+  "source" : "要拒绝探得目标识别，请长按“全金属”按钮。 具有该目标识别的目标现在将被排除，并且不会被听到。",
+  "target" : "Para recusar a identificação do alvo, mantenha pressionado o botão \"Metal total\". Os alvos com essa identificação agora serão excluídos e não serão ouvidos."
+}, {
+  "id" : "P244D057-tu307",
+  "source" : "可以通过再次按下全金属按钮立即重新接受最后一个被排除的目标，只要在此之前没有其他探测发生。",
+  "target" : "É possível aceitar imediatamente o último alvo excluído novamente ao pressionar o botão de metal total, desde que nenhuma outra detecção ocorra antes disso."
+}, {
+  "id" : "P244D057-tu308",
+  "source" : "创建判别模式",
+  "target" : "Criar padrão de discriminação"
+}, {
+  "id" : "P244D057-tu309",
+  "source" : "导航到接受/排除设置。",
+  "target" : "Navegue até as configurações de aceitação/exclusão."
+}, {
+  "id" : "P244D057-tu311",
+  "source" : "使用减号 (–) 和加号 (+) 按钮导航至你要更改的判别区分段。",
+  "target" : "Utilize os botões de menos (–) e mais (+) para navegar até o segmento de discriminação que você deseja alterar."
+}, {
+  "id" : "P244D057-tu313",
+  "source" : "选中的判别区分段将缓慢闪烁，并显示该分段所代表的最高 ID 的 目标 ID 号。例如，左起第六段代表目标 ID 的 1 到 4，因此目标 ID 显示画面上显示 4。",
+  "target" : "Selecionado, o segmento de discriminação escolhido irá piscar lentamente, mostrando o número de ID do alvo que representa o maior ID desse segmento. Por exemplo, o sexto segmento da esquerda representa os IDs de 1 a 4, portanto, o ID do alvo exibido na tela mostra 4."
+}, {
+  "id" : "P244D057-tu314",
+  "source" : "按下全金属按钮以切换分段开启/关闭。",
+  "target" : "Pressione o botão de metal completo para alternar entre abrir/fechar segmentos."
+}, {
+  "id" : "P244D057-tu315",
+  "source" : "你还可以通过长按全金属按钮快速开启/关闭一系列分段。",
+  "target" : "Você também pode ligar/desligar rapidamente uma série de segmentos pressionando e segurando o botão totalmente metálico."
+}, {
+  "id" : "P244D057-tu316",
+  "source" : "例如，如果选择并关闭了第 5 段，请长按全金属按钮以打开该段，然后继续长按该按钮。选择器将自动移动到下一段并将其打开，依此类推。要停止，松开按钮。",
+  "target" : "Por exemplo, se o 5º segmento foi selecionado e fechado, pressione e segure o botão de metal completo para abrir esse segmento, e continue segurando esse botão. O seletor se moverá automaticamente para o próximo segmento e o abrirá, e assim por diante. Para parar, solte o botão."
+}, {
+  "id" : "P244D057-tu317",
+  "source" : "继续沿着判别标度导航，使用全金属按钮开启/关闭分段，直到你创建了判别模式。",
+  "target" : "Continue navegando ao longo da escala de discriminação, use o botão de metal completo para ligar/desligar a segmentação, até que você crie o modo de discriminação."
+}, {
+  "id" : "P244D057-tu318",
+  "source" : "显示探测目标 ID 为 32 的可接受的非铁质金属目标的示例。",
+  "target" : "显示探测目标 ID 为 32 的可接受的非铁质金属目标的示例。"
+}, {
+  "id" : "P244D057-tu319",
+  "source" : "判别标度上的第 13 段将闪烁，因为该段代表目标识别 29 到 32。",
+  "target" : "判别标度上的第 13 段将闪烁，因为该段代表目标识别 29 到 32。"
+}, {
+  "id" : "P23C141A3-sub1",
+  "source" : "",
+  "target" : "Please provide the text that you would like to have translated to PT-BR."
+}, {
+  "id" : "P244D057-tu320",
+  "source" : "无法直接从探测屏幕接受被排除的目标识别。必须通过设置菜单 中的接受/排除设置调整判别模式来重新接受被排除的目标识别。",
+  "target" : "无法直接从探测屏幕接受被排除的目标识别。必须通过设置菜单中的接受/排除设置调整判别模式来重新接受被排除的目标识别。"
+}, {
+  "id" : "P244D057-tu321",
+  "source" : "全金属",
+  "target" : "Todo metal"
+}, {
+  "id" : "P244D057-tu322",
+  "source" : "每次打开探测器电源时，全金属默认关闭。  按下全金属键开启/关闭全金属。",
+  "target" : "Toda vez que você ligar a fonte de energia do detector, o modo de metal total estará desativado por padrão. Pressione a tecla de metal total para ligar/desligar o modo de metal total."
+}, {
+  "id" : "P244D057-tu323",
+  "source" : "当全金属为开启时，当前的判别模式被禁用，以便探测所有金属",
+  "target" : "Quando o modo totalmente metálico está ativado, o modo de discriminação atual é desativado para detectar todos os metais."
+}, {
+  "id" : "P244D057-tu324",
+  "source" : "物体。",
+  "target" : "Objeto."
+}, {
+  "id" : "P244D057-tu325",
+  "source" : "使用“全金属”模式检查目标",
+  "target" : "Use o modo \"metálico\" para verificar o alvo."
+}, {
+  "id" : "P244D057-tu326",
+  "source" : "可以使用“全金属”模式检查非铁质金属检测，看看是否也包含铁质材料。",
+  "target" : "Você pode usar o modo \"todo metal\" para verificar a detecção de metais não ferrosos e ver se também inclui materiais ferrosos."
+}, {
+  "id" : "P244D057-tu327",
+  "source" : "如果启用“全金属”模式后，目标给出混合响应（既有非铁质金属又有铁质），则目标有可能是大型铁质物体或皇冠瓶盖。",
+  "target" : "Se o modo \"metal total\" estiver ativado e o alvo fornecer uma resposta mista (tanto de metais não ferrosos quanto ferrosos), o alvo pode ser um grande objeto de ferro ou uma tampa de garrafa de coroa."
+}, {
+  "id" : "P244D057-tu328",
+  "source" : "如果有可重复的非铁质金属响应，则目标不含铁。这意味着目标更可能是好的（非铁质金属）目标。",
+  "target" : "Se houver uma resposta repetível de metal não ferroso, o alvo não contém ferro. Isso significa que o alvo é mais propenso a ser um bom alvo (metal não ferroso)."
+}, {
+  "id" : "P244D057-tu329",
+  "source" : "铁倾向",
+  "target" : "ferro tendência"
+}, {
+  "id" : "P244D057-tu330",
+  "source" : "对于“公园”、“海滩”和“用户配置”模式，铁倾向默 认设置为 2。这可使探测器将大型或复杂的铁质目 标（例如生锈的钉子或皇冠瓶盖）正确归类为铁质，以便更容易地将其排除。",
+  "target" : "Para os modos \"parque\", \"praia\" e \"configuração do usuário\", o ferro tende a ser definido como 2 por padrão. Isso permite que o detector classifique corretamente alvos de ferro grandes ou complexos (como pregos enferrujados ou tampas de garrafa coroa) como ferrosos, facilitando a sua exclusão."
+}, {
+  "id" : "P244D057-tu331",
+  "source" : "在旷野模式下，铁倾向默认设置为 0，以使探测器能够更好地识别这些典型历史地点中密集铁质金属垃圾中的钱币。",
+  "target" : "在旷野模式下，铁倾向默认设置为 0，以使探测器能够更好地识别这些典型历史地点中密集铁质金属垃圾中的钱币。"
+}, {
+  "id" : "P244D057-tu332",
+  "source" : "本质上，“铁倾向”帮助您区分好目标和铁质垃圾。较高设置忽略更多铁质，但可能会错过一些相邻的好目标。较低设置具有更好的目标区分，但存在将垃圾（如瓶盖）错误分类为好目标的风险。",
+  "target" : "本质上，“铁倾向”帮助您区分好目标和铁质垃圾。较高设置忽略更多铁质，但可能会错过一些相邻的好目标。较低设置具有更好的目标区分，但存在将垃圾（如瓶盖）错误分类为好目标的风险。"
+}, {
+  "id" : "P244D057-tu333",
+  "source" : "VANQUISH 560 具有额外的铁倾向设置 -1，可进一步改善在密集铁质金属垃圾中对钱币的分类。",
+  "target" : "VANQUISH 560 possui a configuração adicional de inclinação do ferro -1, que pode melhorar ainda mais a classificação de moedas em sucata metálica densa e ferrosa."
+}, {
+  "id" : "P244D057-tu334",
+  "source" : "VANQUISH 460 具有三个铁倾向设置：0、1 和 2。 VANQUISH 560 具有四个铁倾向设置：-1、0、1 和 2。",
+  "target" : "VANQUISH 460 possui três configurações de inclinação do ferro: 0, 1 e 2. VANQUISH 560 possui quatro configurações de inclinação do ferro: -1, 0, 1 e 2."
+}, {
+  "id" : "P244D057-tu335",
+  "source" : "调整铁倾向",
+  "target" : "Ajustar a inclinação do ferro"
+}, {
+  "id" : "P244D057-tu336",
+  "source" : "注意：当探测器关机时，公园、旷野和海滩的铁倾向设置将恢复 为默认值——只有存储到用户配置中的铁倾向设置才会被保存。",
+  "target" : "注意：当探测器关机时，公园、旷野和海滩的铁倾向设置将恢复为默认值——只有存储到用户配置中的铁倾向设置才会被保存。"
+}, {
+  "id" : "P244D057-tu337",
+  "source" : "导航到铁倾向设置。",
+  "target" : "Navegue até as configurações de inclinação de ferro."
+}, {
+  "id" : "P244D057-tu338",
+  "source" : "背光",
+  "target" : "retroiluminação"
+}, {
+  "id" : "P244D057-tu339",
+  "source" : "VANQUISH 液晶屏 (LCD) 和键盘有红色背光，用于在光线不足的情况下进行探测。",
+  "target" : "VANQUISH tela LCD e teclado têm retroiluminação vermelha, destinada à detecção em condições de pouca luz."
+}, {
+  "id" : "P244D057-tu340",
+  "source" : "有 3 个背光级别设置——关闭 (0)、低 (1) 和高 (2)。每次探测器开机时，背光将返回到其默认设置（低）。",
+  "target" : "Existem 3 níveis de retroiluminação configuráveis — desligado (0), baixo (1) e alto (2). Sempre que o detector é ligado, a retroiluminação retorna à sua configuração padrão (baixo)."
+}, {
+  "id" : "P244D057-tu341",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C1414E-sub1",
+  "source" : "持续使用背光灯，尤其是在全亮度下，会导致电池续航时间缩短。",
+  "target" : "O uso contínuo da luz de fundo, especialmente em brilho total, pode resultar em uma redução na duração da bateria."
+}, {
+  "id" : "P244D057-tu342",
+  "source" : "调整背光",
+  "target" : "Ajustar a luz de fundo"
+}, {
+  "id" : "P244D057-tu343",
+  "source" : "导航至背光设置。",
+  "target" : "Navegue até as configurações de retroiluminação."
+}, {
+  "id" : "P244D057-tu344",
+  "source" : "使用减号 (–) 和加号 (+) 按钮选择亮度设置，显示在目标识别显示屏上。",
+  "target" : "Use os botões de subtração (–) e adição (+) para selecionar as configurações de brilho, que serão exibidas na tela de reconhecimento de alvo."
+}, {
+  "id" : "P244D057-tu345",
+  "source" : "当背光打开时，背光指示灯 (\t) 会出现在液晶屏 (LCD) 上。",
+  "target" : "Quando a luz de fundo estiver ligada, o indicador de luz de fundo ( ) aparecerá na tela LCD."
+}, {
+  "id" : "P244D057-tu347",
+  "source" : "2. 使用减号 (-) 和加号 (+) 按钮来调整铁倾向设置。",
+  "target" : "2.Use os botões de subtração (-) e adição (+) para ajustar as configurações de tendência de ferro."
+}, {
+  "id" : "P244D057-tu348",
+  "source" : "闪光灯",
+  "target" : "flash"
+}, {
+  "id" : "P244D057-tu349",
+  "source" : "VANQUISH 配有闪光灯，可在光线昏暗的环境下进行探测。",
+  "target" : "VANQUISH vem equipado com luzes de flash para detecção em ambientes com pouca iluminação."
+}, {
+  "id" : "P244D057-tu350",
+  "source" : "每次打开探测器电源时，闪光灯将默认关闭。有 2 个闪光灯设置——关闭 (0) 和打开 (1)。",
+  "target" : "Sempre que ligar a fonte de alimentação do detector, a luz de flash ficará desligada por padrão. Há 2 configurações de flash - desligado (0) e ligado (1)."
+}, {
+  "id" : "P244D057-tu351",
+  "source" : "每次打开探测器电源时，闪光灯将默认关闭。",
+  "target" : "Toda vez que a fonte de alimentação do detector é acionada, a luz de flash estará desligada por padrão."
+}, {
+  "id" : "P244D057-tu352",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C1412E-sub1",
+  "source" : "持续使用闪光灯会导致电池运行时间缩短。",
+  "target" : "O uso contínuo do flash pode reduzir o tempo de operação da bateria."
+}, {
+  "id" : "P244D057-tu353",
+  "source" : "开启/关闭闪光灯",
+  "target" : "Ativar/Desativar o flash"
+}, {
+  "id" : "P244D057-tu354",
+  "source" : "导航至闪光灯设置。",
+  "target" : "Navegue até as configurações do flash."
+}, {
+  "id" : "P244D057-tu355",
+  "source" : "振动",
+  "target" : "Vibração"
+}, {
+  "id" : "P244D057-tu356",
+  "source" : "振动功能通过探测器手柄提供触觉反馈。",
+  "target" : "A função de vibração fornece feedback tátil através do cabo do detector."
+}, {
+  "id" : "P244D057-tu357",
+  "source" : "振动强度与目标信号强度成比例变化（对于一般探测和精确定位模式）。",
+  "target" : "A intensidade da vibração varia proporcionalmente à intensidade do sinal alvo (para modos de detecção geral e posicionamento preciso)."
+}, {
+  "id" : "P244D057-tu358",
+  "source" : "有 2 个振动设置——关闭 (0) 和打开 (1)。",
+  "target" : "Existem 2 configurações de vibração - desligado (0) e ligado (1)."
+}, {
+  "id" : "P244D057-tu359",
+  "source" : "探测器断电后会记住振动设置。如果在探测器电源关闭时振动还在打开，则启动时将出现短暂的振动脉冲。",
+  "target" : "探测器断电后会记住振动设置。如果在探测器电源关闭时振动还在打开，则启动时将出现短暂的振动脉冲。"
+}, {
+  "id" : "P244D057-tu360",
+  "source" : "振动默认关闭。",
+  "target" : "Vibração desativada por padrão."
+}, {
+  "id" : "P244D057-tu361",
+  "source" : "开启/关闭振动",
+  "target" : "Ativar/Desativar vibração"
+}, {
+  "id" : "P244D057-tu362",
+  "source" : "导航至语言设置。",
+  "target" : "Navegue até as configurações de idioma."
+}, {
+  "id" : "P244D057-tu363",
+  "source" : "使用减号 (–) 和加号 (+) 按钮选择闪光灯设置，显示在目标识别显示屏上。",
+  "target" : "Use os botões de menos (–) e mais (+) para selecionar as configurações do flash, que são exibidas na tela de reconhecimento de alvo."
+}, {
+  "id" : "P244D057-tu364",
+  "source" : "2. 按减号 (–) 按钮关闭振动。按加号 (+) 按钮打开振动。",
+  "target" : "2.Pressione o botão de subtração (–) para desligar a vibração. Pressione o botão de adição (+) para ligar a vibração."
+}, {
+  "id" : "P244D057-tu365",
+  "source" : "当振动打开时，振动指示符 (  ) 会出现在状态条中。",
+  "target" : "Quando a vibração é ativada, o indicador de vibração ( ) aparecerá na barra de状态."
+}, {
+  "id" : "P244D057-tu366",
+  "source" : "当闪光灯打开时，闪光灯指示符 (\t) 将出现在液晶屏上。",
+  "target" : "Quando o flash estiver ativado, o indicador de flash (\t) aparecerá na tela LCD."
+}, {
+  "id" : "P244D057-tu367",
+  "source" : "无线音频",
+  "target" : "Áudio sem fio"
+}, {
+  "id" : "P244D057-tu368",
+  "source" : "VANQUISH 560 和 460 仅与支持 蓝牙® LE 音频且采用 LC3 编解码器 的耳机兼容。推荐使用 ML60 蓝牙® LE 无线音频耳塞——访问 Minelab",
+  "target" : "VANQUISH 560 e 460 são compatíveis apenas com fones de ouvido que suportam áudio Bluetooth® LE e usam o codec LC3. Recomenda-se o uso dos fones de ouvido sem fio de áudio Bluetooth® LE ML60 - acesse a Minelab."
+}, {
+  "id" : "P244D057-tu369",
+  "source" : "网站查看所有兼容耳机。",
+  "target" : "Visite o site para ver todos os fones de ouvido compatíveis."
+}, {
+  "id" : "P244D057-tu370",
+  "source" : "有关配对、其他耳机控件和功能的详细信息， 请参阅随附于您的耳塞的说明，或在此处下载： www.minelab.com/product-manuals",
+  "target" : "有关配对、其他耳机控件和功能的详细信息，请参阅随附于您的耳塞的说明，或在此处下载： www.minelab.com/product-manuals"
+}, {
+  "id" : "P244D057-tu371",
+  "source" : "Minelab ML60无线耳塞",
+  "target" : "Minelab ML60 fones de ouvido sem fio"
+}, {
+  "id" : "P244D057-tu372",
+  "source" : "配对无线耳机",
+  "target" : "Emparelhar fones de ouvido sem fio"
+}, {
+  "id" : "P244D057-tu373",
+  "source" : "导航到“无线音频”设置。",
+  "target" : "Navegue até as configurações de \"Áudio Sem Fio\"."
+}, {
+  "id" : "P244D057-tu374",
+  "source" : "重新连接之前配对的耳机",
+  "target" : "Reconectar os fones de ouvido pareados anteriormente."
+}, {
+  "id" : "P244D057-tu375",
+  "source" : "导航到“无线音频”设置。",
+  "target" : "Navegue até as configurações de \"Áudio Sem Fio\"."
+}, {
+  "id" : "P244D057-tu377",
+  "source" : "按加号 (+) 按钮打开无线音频，状态条中的无线音频图标指示。",
+  "target" : "Pressione o botão de mais (+) para ativar o áudio sem fio, o ícone de áudio sem fio na barra de status indica isso."
+}, {
+  "id" : "P244D057-tu379",
+  "source" : "按 ML60 耳塞侧面的多功能键将其打开。",
+  "target" : "Pressione o botão multifuncional do lado do fone de ouvido ML60 para ligá-lo."
+}, {
+  "id" : "P244D057-tu380",
+  "source" : "耳机将自动重新连接。",
+  "target" : "Fones de ouvido se reconectarão automaticamente."
+}, {
+  "id" : "P244D057-tu381",
+  "source" : "打开/关闭无线功能",
+  "target" : "Ativar/Desativar a função sem fio"
+}, {
+  "id" : "P244D057-tu382",
+  "source" : "导航到“无线音频”设置。",
+  "target" : "Navegue até as configurações de \"Áudio sem fio\"."
+}, {
+  "id" : "P244D057-tu384",
+  "source" : "按减号 (–) 按钮关闭无线功能。按加号 (+) 按钮开启无线功能。",
+  "target" : "Pressione o botão de menos (–) para desligar a função sem fio. Pressione o botão de mais (+) para ligar a função sem fio."
+}, {
+  "id" : "P244D057-tu385",
+  "source" : "",
+  "target" : "Please provide the text you would like me to translate to PT-BR."
+}, {
+  "id" : "P244D057-tu386",
+  "source" : "长按加号 (+) 按钮进入无线配对模式，状态条中的无线音频图标快速闪烁指示。",
+  "target" : "Pressione e segure o botão de mais (+) para entrar no modo de emparelhamento sem fio; o ícone de áudio sem fio na barra de status pisca rapidamente como indicação."
+}, {
+  "id" : "P23C140CD-sub1",
+  "source" : "目录",
+  "target" : "índice"
+}, {
+  "id" : "P23C140CD-sub2",
+  "source" : "20",
+  "target" : "20"
+}, {
+  "id" : "P244D057-tu388",
+  "source" : "注意：在探测器上进入无线配对模式时，它将忘记任何先前配对的耳机。要重新连接它们，请在探测器和耳机上重复配对过程。",
+  "target" : "Atenção: Ao entrar no modo de emparelhamento sem fio no detector, ele esquecerá qualquer fone de ouvido previamente emparelhado. Para reconectá-los, repita o processo de emparelhamento no detector e nos fones de ouvido."
+}, {
+  "id" : "P244D057-tu389",
+  "source" : "长按 ML60 耳塞上的多功能键（中央按钮），直到红色和蓝色 LED 闪烁。",
+  "target" : "Pressione e segure o botão multifuncional (botão central) do fone de ouvido ML60 até que os LEDs vermelho e azul comecem a piscar."
+}, {
+  "id" : "P244D057-tu390",
+  "source" : "你的耳塞将自动连接 — 探测器上的无线音频指示灯将保持亮起，耳机上的 LED 指示灯将每 3 秒闪烁一次蓝色。",
+  "target" : "Seus fones de ouvido se conectarão automaticamente — a luz indicadora de áudio sem fio no detector permanecerá acesa, e a luz LED nos fones piscará em azul a cada 3 segundos."
+}, {
+  "id" : "P244D057-tu391",
+  "source" : "如果 5 分钟内未建立连接，无线音频将自动关闭。",
+  "target" : "Se a conexão não for estabelecida em 5 minutos, o áudio sem fio será desligado automaticamente."
+}, {
+  "id" : "P244D057-tu392",
+  "source" : "当无线打开时，无线音频指示符 (\t) 会出现在状态条中。",
+  "target" : "Quando o Wi-Fi está ativado, o indicador de áudio sem fio (\t) aparecerá na barra de status."
+}, {
+  "id" : "P244D057-tu393",
+  "source" : "无线音频指示灯",
+  "target" : "sem fio áudio indicador de luz"
+}, {
+  "id" : "P244D057-tu394",
+  "source" : "当无线音频打开时，无线音频指示符将会出现在显示屏上。它根据其显示状态显示当前的无线音频连接状态。",
+  "target" : "Quando o áudio sem fio estiver ativado, o indicador de áudio sem fio aparecerá na tela. Ele exibirá o estado atual da conexão de áudio sem fio com base no seu estado de exibição."
+}, {
+  "id" : "P244D057-tu395",
+  "source" : "快速闪烁：无线配对模式已启用并正在搜索附近的无线耳机。",
+  "target" : "Piscar rapidamente: o modo de emparelhamento sem fio foi ativado e está procurando fones de ouvido sem fio nas proximidades."
+}, {
+  "id" : "P244D057-tu396",
+  "source" : "慢速闪烁：正在尝试重新连接之前配对的耳机。  常亮：无线耳机已配对并连接。",
+  "target" : "Luz piscando lentamente: tentando reconectar os fones de ouvido anteriormente pareados. Luz constante: os fones de ouvido sem fio estão pareados e conectados."
+}, {
+  "id" : "P244D057-tu398",
+  "source" : "目标识别、精确定位和寻获",
+  "target" : "Identificação de alvos, posicionamento preciso e busca."
+}, {
+  "id" : "P244D057-tu399",
+  "source" : "目录\t21",
+  "target" : "Índice\t21"
+}, {
+  "id" : "P244D057-tu400",
+  "source" : "目标识别",
+  "target" : "Identificação de Alvos"
+}, {
+  "id" : "P244D057-tu401",
+  "source" : "目标识别号",
+  "target" : "número de identificação do alvo"
+}, {
+  "id" : "P244D057-tu402",
+  "source" : "目标识别（目标识别）号范围为 -19 到 99，含铁制金属（铁）目标范围为 -19 到 0。",
+  "target" : "O alcance de identificação de alvo (identificação de alvo) varia de -19 a 99, sendo o alcance para metais ferrosos (ferro) de -19 a 0."
+}, {
+  "id" : "P244D057-tu403",
+  "source" : "当探测到目标时，它会以数字的形式出现在显示屏上的目标识别号字段中。这表明目标的铁质金属或非铁质金属属性，以便快速、轻松地识别。",
+  "target" : "Quando um alvo é detectado, ele aparecerá na forma numérica no campo de identificação do alvo na tela. Isso indica as propriedades metálicas ferrosas ou não ferrosas do alvo, para que seja fácil e rápido de identificar."
+}, {
+  "id" : "P244D057-tu404",
+  "source" : "例如，美国 25 分钱的目标识别号为 89。这意味着每次探测到识别 ID 为 89 的目标时，很有可能是美国的 25 美分硬币。",
+  "target" : "Por exemplo, o número de identificação do alvo de 25 centavos dos EUA é 89. Isso significa que toda vez que um alvo com o ID de identificação 89 é detectado, é muito provável que seja uma moeda de 25 centavos dos EUA."
+}, {
+  "id" : "P244D057-tu405",
+  "source" : "探测到目标时会出现目标 ID 号。此示例展示了对浅埋的 25 美分的探测。相应的目标 ID 段在探测到目标时会闪烁",
+  "target" : "Quando um alvo é detectado, o número de ID do alvo é exibido. Este exemplo demonstra a detecção de uma moeda de 25 centavos enterrada superficialmente. A seção correspondente do ID do alvo piscará ao detectar o alvo."
+}, {
+  "id" : "P244D057-tu406",
+  "source" : "（闪烁段显示为灰色）。",
+  "target" : "（闪烁段显示为灰色）。"
+}, {
+  "id" : "P244D057-tu407",
+  "source" : "最后探得目标识别号将在显示屏上保留 5 秒或直到探测到另一个目标。",
+  "target" : "O número de identificação do alvo será exibido na tela por 5 segundos ou até que outro alvo seja detectado."
+}, {
+  "id" : "P244D057-tu408",
+  "source" : "注意：如果有相邻的铁质金属目标，一些非铁质金属目标会显示负 ID。",
+  "target" : "注意：如果有相邻的铁质金属目标，一些非铁质金属目标会显示负 ID。"
+}, {
+  "id" : "P244D057-tu409",
+  "source" : "如果没有探测到，或者探测器通过了它拒绝的目标，显示屏则会显示两个大破折号。",
+  "target" : "Se não for detectado, ou se o detector passar pelo alvo que rejeitou, a tela exibirá dois grandes traços."
+}, {
+  "id" : "P244D057-tu411",
+  "source" : "判别区分开启（接受）或关闭（排除）以创建判别模式。",
+  "target" : "Habilitar a discriminação para abrir (aceitar) ou fechar (excluir) a fim de criar um padrão discriminatório."
+}, {
+  "id" : "P244D057-tu413",
+  "source" : "判别模式示例接受段 () 和拒绝段 ()。接受和排除分段的组合被称为判别模式。",
+  "target" : "O exemplo de padrão de discriminação aceita o segmento () e rejeita o segmento (). A combinação de segmentos de aceitação e exclusão é chamada de padrão de discriminação."
+}, {
+  "id" : "P244D057-tu414",
+  "source" : "你可以区分出现在判别标度上的所需目标和不需要的目标。因此，你只会听到你想要找到的目标发出的目标信号，而忽略不需要的目标。",
+  "target" : "Você pode diferenciar os alvos desejados e indesejados que aparecem na escala de discriminação. Assim, você apenas ouvirá os sinais dos alvos que deseja encontrar, enquanto ignora os alvos indesejados."
+}, {
+  "id" : "P244D057-tu415",
+  "source" : "你可以通过以下方法执行此操作：",
+  "target" : "Você pode fazer isso da seguinte maneira:"
+}, {
+  "id" : "P244D057-tu416",
+  "source" : "通过长按全金属按钮（第 17 页），在检测时拒绝探得目标。",
+  "target" : "Ao pressionar longamente o botão totalmente metálico (página 17), recusar a detecção do alvo durante a verificação."
+}, {
+  "id" : "P244D057-tu417",
+  "source" : "通过设置菜单中的接受/排除（第 17 页）创建判别模式。",
+  "target" : "Crie um modo de discriminação através da aceitação/exclusão no menu de configurações (página 17)."
+}, {
+  "id" : "P244D057-tu418",
+  "source" : "注意：当探测器关机时，公园、旷野和海滩的判别模式将恢复为默认值——只有在用户配置中创建或存储的模式才会被保存。",
+  "target" : "Nota: Quando o detector estiver desligado, os modos de discriminação do parque, do campo e da praia retornarão aos valores padrão — apenas os modos criados ou armazenados nas configurações do usuário serão salvos."
+}, {
+  "id" : "P244D057-tu419",
+  "source" : "目标音调",
+  "target" : "meta tonalidade"
+}, {
+  "id" : "P244D057-tu420",
+  "source" : "成组的目标识别被分配不同音高（从低音调到高音调）的目标音调，以帮助用户大致分类目标识别，而无需查看显示屏。",
+  "target" : "成组的目标识别被分配不同音高（从低音调到高音调）的目标音调，以帮助用户大致分类目标识别，而无需查看显示屏。"
+}, {
+  "id" : "P244D057-tu421",
+  "source" : "VANQUISH 460 有 3 种目标音调。 VANQUISH 560 有 5 种目标音调。",
+  "target" : "VANQUISH 460 tem 3 tipos de tom de alvo. VANQUISH 560 tem 5 tipos de tom de alvo."
+}, {
+  "id" : "P244D057-tu422",
+  "source" : "音调中断位置是目标识别标度上目标音调从一种音调变为另一种音调的点。请注意，确切的音调中断点因每种搜索模式而异。",
+  "target" : "O ponto de interrupção de tom é o momento em que o tom do alvo muda de um tom para outro na escala de reconhecimento do alvo. Observe que o exato ponto de interrupção de tom varia de acordo com cada modo de busca."
+}, {
+  "id" : "P23C13DCA-sub1",
+  "source" : "T1",
+  "target" : "T1"
+}, {
+  "id" : "P23C13DCA-sub2",
+  "source" : "T2",
+  "target" : "T2"
+}, {
+  "id" : "P23C13DCA-sub3",
+  "source" : "T3",
+  "target" : "T3"
+}, {
+  "id" : "P244D057-tu423",
+  "source" : "未探测到目标时，目标标识号字段则显示两个大破折号。",
+  "target" : "Quando o alvo não é detectado, o campo do número de identificação do alvo exibe dois traços longos."
+}, {
+  "id" : "P23C13DC9-sub1",
+  "source" : "T1",
+  "target" : "T1"
+}, {
+  "id" : "P23C13DC9-sub2",
+  "source" : "T2",
+  "target" : "T2"
+}, {
+  "id" : "P23C13DC9-sub3",
+  "source" : "T3",
+  "target" : "T3"
+}, {
+  "id" : "P244D057-tu424",
+  "source" : "判别标度",
+  "target" : "Escala de discriminação"
+}, {
+  "id" : "P244D057-tu425",
+  "source" : "判别标度对应于 119 个目标识别，每个分段代表 4 个目标识别。已接受（探得）的目标显示为可见段，并且在探测到具有该 ID 的目标时会闪烁。被排除（未探测到或“消隐”）的目标被关闭。",
+  "target" : "O escopo de discriminação corresponde a 119 identificações de alvo, com cada segmento representando 4 identificações de alvo. Os alvos aceitos (detectados) são mostrados como segmentos visíveis e piscam quando um alvo com esse ID é detectado. Os alvos excluídos (não detectados ou \"apagados\") estão desativados."
+}, {
+  "id" : "P244D057-tu426",
+  "source" : "VANQUISH 460 音调中断点（近似）。",
+  "target" : "VANQUISH 460 ponto de interrupção de tom (aproximado)."
+}, {
+  "id" : "P244D057-tu427",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13DC5-sub1",
+  "source" : "T4",
+  "target" : "T4"
+}, {
+  "id" : "P23C13DC5-sub2",
+  "source" : "T5",
+  "target" : "T5"
+}, {
+  "id" : "P244D057-tu428",
+  "source" : "VANQUISH 560 音调中断点（近似）。",
+  "target" : "VANQUISH 560 ponto de interrupção de tom (aproximado)."
+}, {
+  "id" : "P244D057-tu429",
+  "source" : "精确定位",
+  "target" : "Localização precisa"
+}, {
+  "id" : "P244D057-tu430",
+  "source" : "精确定位可帮助您快速缩小埋藏目标的位置范围，使您可以在挖掘之前确定其确切位置。",
+  "target" : "A localização precisa pode ajudá-lo a restringir rapidamente a área onde o alvo enterrado está localizado, permitindo que você determine sua posição exata antes da escavação."
+}, {
+  "id" : "P244D057-tu431",
+  "source" : "可以通过两种不同的方式进行精确定位：",
+  "target" : "可以通过两种不同的方式进行精确定位：  \nPode ser feito um posicionamento preciso de duas maneiras diferentes:"
+}, {
+  "id" : "P244D057-tu432",
+  "source" : "使用精确定位功能（参见第 页的 23 \"使用精确定位模式定位目标\"）",
+  "target" : "Utilize a função de localização precisa (consulte a página 23 \"Usando o modo de localização precisa para localizar alvos\")"
+}, {
+  "id" : "P244D057-tu433",
+  "source" : "使用手动精确定位技术（参见第 页的 24 \"手动定位目标\"）音调和音量的差异将有助于识别目标的位置和深度。",
+  "target" : "使用手动精确定位技术（参见第 页的 24 \"手动定位目标\"）音调和音量的差异将有助于识别目标的位置和深度。"
+}, {
+  "id" : "P23C13DAA-sub1",
+  "source" : "这个目标会产生响",
+  "target" : "Esse objetivo vai gerar som."
+}, {
+  "id" : "P23C13DAA-sub2",
+  "source" : "亮的高音调",
+  "target" : "brilho agudo"
+}, {
+  "id" : "P23C13DAA-sub3",
+  "source" : "这个目标会产生安",
+  "target" : "Esse objetivo gerará paz."
+}, {
+  "id" : "P23C13DAA-sub4",
+  "source" : "静的低音调",
+  "target" : "Susto grave estático"
+}, {
+  "id" : "P23C13DAA-sub5",
+  "source" : "低",
+  "target" : "baixo"
+}, {
+  "id" : "P244D057-tu435",
+  "source" : "",
+  "target" : "Please provide the text you would like to have translated to PT-BR."
+}, {
+  "id" : "P244D057-tu436",
+  "source" : "保持探盘与地面平行，在目标位置上缓慢扫过两到三遍。这会校准精确定位功能以获得更准确的精确定位音频响应。",
+  "target" : "Mantenha o dispositivo de exploração paralelo ao solo e passe lentamente duas a três vezes pela posição alvo. Isso calibrará a função de localização precisa para obter uma resposta de áudio de localização mais precisa."
+}, {
+  "id" : "P244D057-tu437",
+  "source" : "通过聆听最响亮的信号和/或观看显示屏上的精确定位可视化来定位目标的中心。",
+  "target" : "通过聆听最响亮的信号和/或观看显示屏上的精确定位可视化来定位目标的中心。"
+}, {
+  "id" : "P244D057-tu438",
+  "source" : "注意：精确定位功能通过降低每次扫描的灵敏度来逐步掩盖目标响应，直到只剩下非常窄的目标响应。",
+  "target" : "注意：precisão da localização. Essa função encobre gradualmente a resposta do alvo, diminuindo a sensibilidade de cada varredura, até restar apenas uma resposta do alvo muito estreita."
+}, {
+  "id" : "P244D057-tu439",
+  "source" : "当判别标度上的所有部分都打开时，目标将位于探盘中心下方。",
+  "target" : "Quando todas as partes da escala de discriminação estão abertas, o alvo estará localizado abaixo do centro da sonda."
+}, {
+  "id" : "P244D057-tu440",
+  "source" : "如果你难以精确定位目标，或者如果在打开精确定位时探测器变得过于嘈杂，请关闭精确定位，然后返回到步骤 1 并重复精确定位过程。",
+  "target" : "Se você tiver dificuldade em localizar o alvo com precisão, ou se o detector ficar muito barulhento ao ativar a localização precisa, desligue a localização precisa, volte para a etapa 1 e repita o processo de localização precisa."
+}, {
+  "id" : "P244D057-tu441",
+  "source" : "音量",
+  "target" : "volume"
+}, {
+  "id" : "P23C13D8D-sub1",
+  "source" : "音调",
+  "target" : "tom"
+}, {
+  "id" : "P23C13D8D-sub2",
+  "source" : "高",
+  "target" : "alto"
+}, {
+  "id" : "P244D057-tu442",
+  "source" : "安静\t响亮\t安静",
+  "target" : "Silencioso\tAlto\tSilencioso"
+}, {
+  "id" : "P244D057-tu443",
+  "source" : "精确定位模式可视化",
+  "target" : "Visualização do modo de posicionamento preciso"
+}, {
+  "id" : "P244D057-tu444",
+  "source" : "当精确定位模式打开时，判别模式会暂时禁用（即启用全金属）。精确定位模式还会关闭运动探测，因此即使探盘静止，也会出现目标信号。",
+  "target" : "Quando o modo de localização precisa está ativado, o modo de discriminação é temporariamente desativado (ou seja, o modo totalmente metálico é ativado). O modo de localização precisa também desativa a detecção de movimento, portanto, mesmo que a bobina de busca esteja parada, o sinal do alvo ainda aparecerá."
+}, {
+  "id" : "P244D057-tu445",
+  "source" : "当探盘的中心线接近目标时，判别区分段将从外部向中心填充。当判别区分段全部打开时，目标就在探盘中心线的正下方。",
+  "target" : "Quando a linha central do explorador se aproxima do alvo, a seção de distinção de julgamento será preenchida do exterior para o centro. Quando a seção de distinção de julgamento estiver totalmente aberta, o alvo estará exatamente abaixo da linha central do explorador."
+}, {
+  "id" : "P244D057-tu447",
+  "source" : "弱/偏离中心的目标信号：更少的判别区分段打开。目标位于更靠近探盘外侧的位置。",
+  "target" : "Sinais de alvo fracos/deslocados do centro: menos segmentos de discriminação abertos. O alvo está posicionado mais perto da parte externa da sonda."
+}, {
+  "id" : "P244D057-tu448",
+  "source" : "最强目标信号：所有判别区分段都打开。目标位于探盘中心线的正下方。",
+  "target" : "最强目标信号：所有判别区分段都打开。目标位于探盘中心线的正下方。"
+}, {
+  "id" : "P244D057-tu449",
+  "source" : "使用精确定位模式定位目标",
+  "target" : "Usar o modo de localização precisa para localizar o alvo."
+}, {
+  "id" : "P244D057-tu450",
+  "source" : "将探盘远离大致目标位置，然后按住“精确定位”按钮，在整个过程中保持按下。",
+  "target" : "Afaste o sonda do local aproximado do alvo e, em seguida, mantenha pressionado o botão \"Posicionamento Preciso\" durante todo o processo."
+}, {
+  "id" : "P244D057-tu451",
+  "source" : "精确指示器十字瞄准线将出现在显示屏上。",
+  "target" : "O indicador de precisão com cruz de mira aparecerá na tela."
+}, {
+  "id" : "P244D057-tu452",
+  "source" : "精确定位（续）",
+  "target" : "Localização precisa (continuação)"
+}, {
+  "id" : "P244D057-tu453",
+  "source" : "手动定位目标",
+  "target" : "Posicionamento manual do alvo"
+}, {
+  "id" : "P244D057-tu454",
+  "source" : "不使用精确定位也可以成功定位目标，但这需要练习。当所需目标被垃圾包围时，可能需要使用此方法。",
+  "target" : "Não é necessário usar localização precisa para localizar o alvo com sucesso, mas isso requer prática. Quando o alvo desejado está cercado por lixo, pode ser necessário utilizar este método."
+}, {
+  "id" : "P244D057-tu455",
+  "source" : "将探盘缓慢扫过目标位置，保持探盘与地面平行。",
+  "target" : "Mova lentamente o detector sobre a posição alvo, mantendo-o paralelo ao solo."
+}, {
+  "id" : "P244D057-tu456",
+  "source" : "通过聆听最响亮的目标信号响应来定位目标的中心。",
+  "target" : "通过聆听最响亮的目标信号响应来定位目标的中心。"
+}, {
+  "id" : "P244D057-tu457",
+  "source" : "在心里记下这个位置，或者用你的鞋子或挖掘工具在土壤上划一条线。",
+  "target" : "在心里记下这个位置，或者用你的鞋子或挖掘工具在土壤上划一条线。"
+}, {
+  "id" : "P244D057-tu458",
+  "source" : "移动到一侧，以便你可以将探盘以与初始方向成直角的方式穿过目标。",
+  "target" : "移动到一侧，以便你可以将探盘以与初始方向成直角的方式穿过目标。"
+}, {
+  "id" : "P244D057-tu459",
+  "source" : "从你的新位置重复步骤 1 和 3。目标位于两条假想线的交叉处。",
+  "target" : "Repita os passos 1 e 3 a partir da sua nova posição. O alvo está localizado na interseção de duas linhas imaginárias."
+}, {
+  "id" : "P244D057-tu460",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13D50-sub1",
+  "source" : "1–3",
+  "target" : "1–3"
+}, {
+  "id" : "P244D057-tu461",
+  "source" : "在听到最强信号的地方画一条线。",
+  "target" : "在听到最强信号的地方画一条线。"
+}, {
+  "id" : "P244D057-tu462",
+  "source" : "蜂鸣声！",
+  "target" : "Zumbido!"
+}, {
+  "id" : "P23C13D4E-sub1",
+  "source" : "蜂鸣声！",
+  "target" : "Zumbido!"
+}, {
+  "id" : "P23C13D4E-sub2",
+  "source" : "4–5",
+  "target" : "4–5"
+}, {
+  "id" : "P244D057-tu463",
+  "source" : "与你的初始位置成直角站立并重复。",
+  "target" : "与您的初始位置成直角站立并重复。"
+}, {
+  "id" : "P244D057-tu464",
+  "source" : "两条线的交点标志着目标的确切位置。",
+  "target" : "两条线的交点标志着目标的确切位置。"
+}, {
+  "id" : "P244D057-tu466",
+  "source" : "耳机、电池和充电",
+  "target" : "Fones de ouvido, bateria e carregamento"
+}, {
+  "id" : "P244D057-tu467",
+  "source" : "目录\t25",
+  "target" : "Índice 25"
+}, {
+  "id" : "P244D057-tu468",
+  "source" : "有线耳机",
+  "target" : "Fone de ouvido com fio"
+}, {
+  "id" : "P244D057-tu469",
+  "source" : "任何标准的 3.5 毫米（⅛ 英寸）耳机都可以连接到 VANQUISH，前提是耳机连接器包塑直径小于 9 毫米（0.35 英寸）。如果它更大，连接器将无法插入防水插槽。",
+  "target" : "Qualquer fone de ouvido padrão de 3,5 mm (1/8 de polegada) pode ser conectado ao VANQUISH, desde que o diâmetro do conector do fone seja menor que 9 mm (0,35 polegada). Se for maior, o conector não conseguirá se encaixar no slot à prova d'água."
+}, {
+  "id" : "P244D057-tu470",
+  "source" : "有关连接无线耳机的说明，请参见第 页的 20\"耳机无线配对\"。",
+  "target" : "有关连接无线耳机的说明，请参见第 20 页的 \"耳机无线配对\"。"
+}, {
+  "id" : "P244D057-tu471",
+  "source" : "连接有线耳机",
+  "target" : "Conectar fones de ouvido com fio"
+}, {
+  "id" : "P244D057-tu472",
+  "source" : "从控制盒背面的耳机插口上拧下塑料防尘盖。如果它很紧，可以用一个小硬币将其松开。",
+  "target" : "Desparafuse a tampa de plástico contra poeira na entrada para fones de ouvido na parte de trás da caixa de controle. Se estiver muito apertada, você pode soltá-la com uma moeda pequena."
+}, {
+  "id" : "P244D057-tu473",
+  "source" : "将耳机插入耳机插口。",
+  "target" : "Insira os fones de ouvido na entrada para fones de ouvido."
+}, {
+  "id" : "P244D057-tu474",
+  "source" : "耳机图标将出现在状态条中。",
+  "target" : "O ícone de fone de ouvido aparecerá na barra de status."
+}, {
+  "id" : "P244D057-tu476",
+  "source" : "耳机插口浸入水中",
+  "target" : "O conector dos fones de ouvido foi imerso na água."
+}, {
+  "id" : "P244D057-tu477",
+  "source" : "在没有使用耳机的情况下探测水下之前，时刻确保防水防尘帽牢固地安装在耳机插口上。",
+  "target" : "在没有使用耳机的情况下探测水下之前，时刻确保防水防尘帽牢固地安装在耳机插口上。"
+}, {
+  "id" : "P244D057-tu478",
+  "source" : "虽然未覆盖的耳机插口是防水且可以浸入水中而不会立即损坏探测器的内部电子设备，但它会导致插口造成腐蚀和耳机探测错误。",
+  "target" : "虽然未覆盖的耳机插口是防水且可以浸入水中而不会立即损坏探测器的内部电子设备，但它会导致插口造成腐蚀和耳机探测错误。"
+}, {
+  "id" : "P244D057-tu479",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13D28-sub1",
+  "source" : "每当耳机插口浸水后，请遵循\"耳机插口维护\"（第 35页）中列出的所有建议。",
+  "target" : "Sempre que a entrada para fones de ouvido entrar em contato com água, siga todas as recomendações listadas em \"Manutenção da entrada para fones de ouvido\" (página 35)."
+}, {
+  "id" : "P244D057-tu480",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13D12-sub1",
+  "source" : "不使用耳机时，请确保将控制盒背面的防水防尘帽拧紧到位。",
+  "target" : "不使用耳机时，请确保将控制盒背面的防水防尘帽拧紧到位。"
+}, {
+  "id" : "P244D057-tu481",
+  "source" : "连接防水耳机",
+  "target" : "Conectar fones de ouvido à prova d'água"
+}, {
+  "id" : "P244D057-tu482",
+  "source" : "VANQUISH 防水，可完全浸入 5 米（16 英尺）的深度。 Minelab 防水耳机必须用于水下探测，因",
+  "target" : "VANQUISH à prova d'água, pode ser totalmente submerso a uma profundidade de 5 metros (16 pés). Fones de ouvido à prova d'água Minelab devem ser usados para detecção subaquática, pois"
+}, {
+  "id" : "P244D057-tu483",
+  "source" : "为它们有一个独特的连接器，在与你的",
+  "target" : "为它们有一个独特的连接器，在与你的\n\nTranslation: Eles têm um conector único, que se conecta ao seu."
+}, {
+  "id" : "P244D057-tu484",
+  "source" : "VANQUISH一起使用时形成防水密封。",
+  "target" : "VANQUISH, quando usado junto, forma um selo à prova d'água."
+}, {
+  "id" : "P244D057-tu485",
+  "source" : "从控制盒背面的耳机插口上拧下塑料防尘盖。如果需要，可以用小硬币将其松开。",
+  "target" : "Desparafuse a tampa de proteção de plástico na entrada para fones de ouvido na parte de trás da caixa de controle. Se necessário, você pode soltá-la com uma moedinha."
+}, {
+  "id" : "P244D057-tu486",
+  "source" : "确保耳机插口和连接器干燥且没有沙子、灰尘和污垢。",
+  "target" : "Certifique-se de que a tomada dos fones de ouvido e o conector estejam secos e livres de areia, poeira e sujeira."
+}, {
+  "id" : "P244D057-tu487",
+  "source" : "将耳机插入控制盒背面的插槽。",
+  "target" : "Insira os fones de ouvido na entrada na parte de trás da caixa de controle."
+}, {
+  "id" : "P244D057-tu488",
+  "source" : "小心地将固定环对准连接器螺纹并将它们拧在一起，确保不会出现错扣。",
+  "target" : "Cautelosamente alinhe o anel de fixação com a rosca do conector e aperte-os juntos, garantindo que não haja engate incorreto."
+}, {
+  "id" : "P244D057-tu489",
+  "source" : "耳机图标将出现在状态条中。",
+  "target" : "O ícone de fone de ouvido aparecerá na barra de status."
+}, {
+  "id" : "P244D057-tu490",
+  "source" : "牢固拧紧固定环。",
+  "target" : "Aperte firmemente o anel de fixação."
+}, {
+  "id" : "P244D057-tu491",
+  "source" : "电池和充电",
+  "target" : "Bateria e carregamento"
+}, {
+  "id" : "P244D057-tu492",
+  "source" : "充电器信息和安全",
+  "target" : "Informações e segurança do carregador"
+}, {
+  "id" : "P244D057-tu493",
+  "source" : "VANQUISH 随附带有卡入式磁性连接器的 USB 充电线。",
+  "target" : "VANQUISH acompanha um cabo de carregamento USB com conector magnético de encaixe."
+}, {
+  "id" : "P244D057-tu494",
+  "source" : "使用高容量 (1 A @ 5 V) 充电器时，从完全没电到 100% 充满电的时间约为 7 小时。一系列充电配件可供单独购买。",
+  "target" : "使用高容量 (1 A @ 5 V) 充电器时，从完全没电到 100% 充满电的时间约为 7 小时。一系列充电配件可供单独购买。"
+}, {
+  "id" : "P244D057-tu495",
+  "source" : "任何与 USB 电池充电兼容的标准 USB 端口都可用于为电池充电，但如果使用低功率端口",
+  "target" : "Qualquer porta USB padrão compatível com carregamento de bateria USB pode ser usada para carregar a bateria, mas se uma porta de baixa potência for utilizada"
+}, {
+  "id" : "P244D057-tu496",
+  "source" : "或充电器，充电时间可能会更长。",
+  "target" : "Ou o carregador, o tempo de carregamento pode ser maior."
+}, {
+  "id" : "P244D057-tu497",
+  "source" : "给电池充电",
+  "target" : "Dar carga à bateria"
+}, {
+  "id" : "P244D057-tu498",
+  "source" : "如果探测器在充电过程中开机，充电时间会更长。",
+  "target" : "Se o detector for ligado durante o processo de carregamento, o tempo de carregamento será maior."
+}, {
+  "id" : "P244D057-tu499",
+  "source" : "将随附的充电线插入任何标准的带电 USB-C 端口。",
+  "target" : "Insira o cabo de carregamento incluído em qualquer porta USB-C padrão."
+}, {
+  "id" : "P244D057-tu500",
+  "source" : "将磁性连接器连接到控制盒背面的充电接口。",
+  "target" : "Conecte o conector magnético à interface de carregamento na parte de trás da caixa de controle."
+}, {
+  "id" : "P244D057-tu501",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13A48-sub1",
+  "source" : "警告：只能在 0°C 至 +40°C（+32°F 至 +104°F）的环境温度下为探测器充电。",
+  "target" : "Aviso: A carga do detector só pode ser feita em temperaturas ambientais de 0°C a +40°C (+32°F a +104°F)."
+}, {
+  "id" : "P244D057-tu502",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13A47-sub1",
+  "source" : "警告：充电时或连接到充电宝时，请勿在水下使用探测器。",
+  "target" : "Aviso: Não use oDetector debaixo d'água enquanto estiver carregando ou conectado a um power bank."
+}, {
+  "id" : "P23C13A47-sub2",
+  "source" : "注意：充电电源提供的功率必须至少为 5 瓦才能达到最大充电速度。",
+  "target" : "Atenção: A potência fornecida pela fonte de carga deve ser de pelo menos 5 watts para alcançar a velocidade máxima de carregamento."
+}, {
+  "id" : "P244D057-tu503",
+  "source" : "电池将开始充电。充电状态 LED 指示灯（如果在探测器关闭时充电）或状态条中的电池电量指示灯（如果在探测器打开时充电）显示充电进度。",
+  "target" : "A bateria começará a carregar. O LED indicador de status de carga (se estiver carregando com o detector desligado) ou o indicador de nível da bateria na barra de status (se estiver carregando com o detector ligado) mostrará o progresso da carga."
+}, {
+  "id" : "P23C13A46-sub1",
+  "source" : "声明：Minelab 金属探测器和配件不能在连接到电源 (AC) 充电器时运行。",
+  "target" : "Declaração: Os detectores de metal e acessórios Minelab não podem ser usados enquanto estão conectados a um carregador de energia (AC)."
+}, {
+  "id" : "P23C13A46-sub2",
+  "source" : "建议使用充满电的电池进行探测。典型的电池续航时间约为 10 小时。",
+  "target" : "建议使用充满电的电池进行探测。典型的电池续航时间约为 10 小时。"
+}, {
+  "id" : "P23C13A46-sub3",
+  "source" : "USB-C",
+  "target" : "USB-C"
+}, {
+  "id" : "P244D057-tu504",
+  "source" : "充电状态 LED",
+  "target" : "LED de estado de carregamento"
+}, {
+  "id" : "P23C13A45-sub1",
+  "source" : "充电中（闪烁）",
+  "target" : "Carregando (piscando)"
+}, {
+  "id" : "P244D057-tu505",
+  "source" : "充满电（常开）",
+  "target" : "Carregar totalmente (sempre ligado)"
+}, {
+  "id" : "P244D057-tu507",
+  "source" : "电池和充电（续）",
+  "target" : "Bateria e Carregamento (Continuação)"
+}, {
+  "id" : "P244D057-tu508",
+  "source" : "电池电量指示器",
+  "target" : "indicador de carga da bateria"
+}, {
+  "id" : "P244D057-tu509",
+  "source" : "电池电量指示器显示当前电池电量。",
+  "target" : "O indicador de carga da bateria mostra a carga atual da bateria."
+}, {
+  "id" : "P244D057-tu510",
+  "source" : "电池电量指示（显示充满电状态）",
+  "target" : "Indicador de carga da bateria (mostrando o status de carga completa)"
+}, {
+  "id" : "P244D057-tu511",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13A29-sub1",
+  "source" : "探测器调节电池电压，因此无论电池电量如何，探测器性能都保持恒定。",
+  "target" : "O detector ajusta a tensão da bateria, assim, independentemente da quantidade de carga da bateria, o desempenho do detector permanece constante."
+}, {
+  "id" : "P244D057-tu512",
+  "source" : "自动关机",
+  "target" : "Desligamento automático"
+}, {
+  "id" : "P244D057-tu513",
+  "source" : "当电池电量严重不足时，“bF”错误代码将出现在目标 ID 显示画面上。然后探测器将自动关机。",
+  "target" : "Quando a energia da bateria estiver severamente baixa, o código de erro \"bF\" aparecerá na tela de exibição do ID do alvo. Em seguida, o detector será desligado automaticamente."
+}, {
+  "id" : "P244D057-tu514",
+  "source" : "解决此错误的步骤，请参见第 页的 30 \"电池电量严重不足错误\"。",
+  "target" : "解决此错误的步骤，请参见第 页的 30 \"电池电量严重不足错误\"。"
+}, {
+  "id" : "P244D057-tu515",
+  "source" : "使用充电宝操作",
+  "target" : "Uso do power bank"
+}, {
+  "id" : "P244D057-tu516",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13A24-sub1",
+  "source" : "警告：探测器在充电或连接到充电宝时不得在水下使用。",
+  "target" : "Aviso: O detector não deve ser usado debaixo d'água enquanto estiver carregando ou conectado a um power bank."
+}, {
+  "id" : "P244D057-tu517",
+  "source" : "你可以在插入便携式充电宝时使用 VANQUISH 探测器。这意味着即使探测器电池电量耗尽，你也可以继续探测。",
+  "target" : "Você pode usar o detector VANQUISH ao conectar um power bank portátil. Isso significa que mesmo quando a bateria do detector estiver descarregada, você ainda pode continuar a detectar."
+}, {
+  "id" : "P244D057-tu518",
+  "source" : "使用随附的 USB 充电线将充电宝连接到探测器，然后继续探测。",
+  "target" : "Use o cabo USB de carregamento incluído para conectar o power bank ao detector e, em seguida, continue a detecção."
+}, {
+  "id" : "P244D057-tu519",
+  "source" : "电池维护",
+  "target" : "manutenção da bateria"
+}, {
+  "id" : "P244D057-tu520",
+  "source" : "参见第 页的 35\"电池维护\"。",
+  "target" : "Veja a página 35 sobre \"Manutenção da Bateria\"."
+}, {
+  "id" : "P244D057-tu522",
+  "source" : "错误和故障排除",
+  "target" : "Erros e soluções de problemas"
+}, {
+  "id" : "P244D057-tu523",
+  "source" : "目录\t29",
+  "target" : "Índice 29"
+}, {
+  "id" : "P244D057-tu524",
+  "source" : "错误代码",
+  "target" : "Código de erro"
+}, {
+  "id" : "P244D057-tu525",
+  "source" : "某些探测器故障会在目标 ID 显示画面中显示错误代码/编号。在联系授权服务中心之前尝试列出的建议操作。",
+  "target" : "Certas falhas do detector podem exibir códigos/números de erro na tela de exibição da ID do alvo. Tente as ações recomendadas listadas antes de entrar em contato com o centro de serviço autorizado."
+}, {
+  "id" : "P244D057-tu526",
+  "source" : "探盘断开故障",
+  "target" : "Falha de desconexão da sonda."
+}, {
+  "id" : "P244D057-tu527",
+  "source" : "出现探盘断开故障时会显示“Cd”。",
+  "target" : "出现探盘断开故障时会显示“Cd”。"
+}, {
+  "id" : "P244D057-tu528",
+  "source" : "如果出现探盘断开故障，请按照以下步骤操作：",
+  "target" : "Se ocorrer uma falha de desconexão do painel de testes, siga os passos abaixo:"
+}, {
+  "id" : "P244D057-tu529",
+  "source" : "检查控制盒背面的探盘信号线连接头是否正确连接。",
+  "target" : "检查控制盒背面的探盘信号线连接头是否正确连接。"
+}, {
+  "id" : "P244D057-tu530",
+  "source" : "检查控制盒后部的探盘信号线连接头是否有损坏",
+  "target" : "Verifique se a conexão do cabo do sinal do painel de controle na parte traseira da caixa de controle está danificada."
+}, {
+  "id" : "P244D057-tu531",
+  "source" : "检查探盘连接线是否损坏。",
+  "target" : "检查探盘连接线是否损坏。"
+}, {
+  "id" : "P244D057-tu532",
+  "source" : "检查探盘是否有可见的损坏迹象。",
+  "target" : "检查探盘是否有可见的损坏迹象。"
+}, {
+  "id" : "P244D057-tu533",
+  "source" : "如果有的话，试试使用另一个探盘。",
+  "target" : "Se houver, tente usar outro sonda."
+}, {
+  "id" : "P244D057-tu534",
+  "source" : "系统错误",
+  "target" : "Erro do sistema"
+}, {
+  "id" : "P244D057-tu535",
+  "source" : "发生系统错误时，目标 ID 显示画面上将交替显示 'Er' 和一个错误数字。报告系统错误后，探测器将关闭 5 秒。",
+  "target" : "发生系统错误时，目标 ID 显示画面上将交替显示 'Er' 和一个错误数字。报告系统错误后，探测器将关闭 5 秒。"
+}, {
+  "id" : "P244D057-tu536",
+  "source" : "发生系统错误时会显示“Er”。",
+  "target" : "发生系统错误时会显示“Er”。"
+}, {
+  "id" : "P244D057-tu537",
+  "source" : "如果出现系统错误，请执行以下步骤：",
+  "target" : "Se ocorrer um erro de sistema, execute os seguintes passos:"
+}, {
+  "id" : "P244D057-tu538",
+  "source" : "重新启动探测器以确定错误是否仍然存在。",
+  "target" : "Reinicie o detector para verificar se o erro ainda existe."
+}, {
+  "id" : "P244D057-tu539",
+  "source" : "确认探盘正确连接。",
+  "target" : "Confirme que a sonda está corretamente conectada."
+}, {
+  "id" : "P244D057-tu540",
+  "source" : "执行恢复出厂设置（参见第页39）。",
+  "target" : "Execute a restauração de fábrica (consulte a página 39)."
+}, {
+  "id" : "P244D057-tu541",
+  "source" : "如果错误仍然存在，请将探测器送回离你最近的授权服务中心进行维修。",
+  "target" : "Se o erro ainda persistir, envie o detector de volta ao centro de serviço autorizado mais próximo para manutenção."
+}, {
+  "id" : "P244D057-tu542",
+  "source" : "电池电量严重不足错误",
+  "target" : "Bateria com carga extremamente baixa."
+}, {
+  "id" : "P244D057-tu543",
+  "source" : "当电池电量严重不足时，“bF”将出现在目标 ID 显示画面上。探测器将在报告电池电量严重不足错误 5 秒后关闭。",
+  "target" : "Quando a carga da bateria estiver severamente baixa, \"bF\" aparecerá na tela de exibição do ID do alvo. O detector será desligado 5 segundos após relatar o erro de carga da bateria severamente baixa."
+}, {
+  "id" : "P244D057-tu544",
+  "source" : "在电池电量严重不足错误的情况下会显示“bF”。",
+  "target" : "在电池电量严重不足错误的情况下会显示“bF”。"
+}, {
+  "id" : "P244D057-tu545",
+  "source" : "如果出现电池电量严重不足错误，请执行以下步骤：",
+  "target" : "Se aparecer o erro de bateria com carga seriamente insuficiente, execute os seguintes passos:"
+}, {
+  "id" : "P244D057-tu546",
+  "source" : "为电池充电或连接 USB 充电宝。",
+  "target" : "Para carregar a bateria ou conectar um power bank USB."
+}, {
+  "id" : "P244D057-tu547",
+  "source" : "请联系授权服务中心更换内部电池。",
+  "target" : "Por favor, entre em contato com o centro de serviço autorizado para substituir a bateria interna."
+}, {
+  "id" : "P244D057-tu548",
+  "source" : "一般故障排除",
+  "target" : "Problemas gerais de solução de problemas"
+}, {
+  "id" : "P244D057-tu549",
+  "source" : "在联系授权服务中心之前，请按顺序尝试列出的建议操作。",
+  "target" : "在联系授权服务中心之前，请按顺序尝试列出的建议操作。"
+}, {
+  "id" : "P244D057-tu551",
+  "source" : "探测器无法开启或自行关闭（有或没有“bF”错误代码）",
+  "target" : "O detector não consegue ligar ou desligar sozinho (com ou sem o código de erro \"bF\")"
+}, {
+  "id" : "P244D057-tu552",
+  "source" : "检查探盘是否已连接。",
+  "target" : "Verifique se o disco de inspeção está conectado."
+}, {
+  "id" : "P244D057-tu553",
+  "source" : "给探测器充电。",
+  "target" : "为探测器充电。"
+}, {
+  "id" : "P244D057-tu554",
+  "source" : "检查探测器是否正在充电，绿色充电状态 LED 指示灯是否闪烁。",
+  "target" : "Verifique se o detector está carregando e se o LED indicador de status de carregamento verde está piscando."
+}, {
+  "id" : "P244D057-tu555",
+  "source" : "请检查您是否使用充电容量为 1A @ 5V 的 USB 充电电源进行充电。",
+  "target" : "Por favor, verifique se você está usando uma fonte de alimentação USB com capacidade de carga de 1A @ 5V para carregar."
+}, {
+  "id" : "P244D057-tu556",
+  "source" : "检查控制盒背面的磁性连接器和充电接口是否干净且没有碎屑。",
+  "target" : "Verifique se o conector magnético e a interface de carregamento na parte de trás da caixa de controle estão limpos e sem detritos."
+}, {
+  "id" : "P244D057-tu557",
+  "source" : "检查 USB 充电电缆是否正确就位/连接到探测器。",
+  "target" : "Verifique se o cabo de carregamento USB está corretamente posicionado/conectado ao detector."
+}, {
+  "id" : "P244D057-tu559",
+  "source" : "不稳定和/或过度的噪音",
+  "target" : "instabilidade e/ou excesso de ruído"
+}, {
+  "id" : "P244D057-tu560",
+  "source" : "远离当地的电磁干扰 (EMI) 源。",
+  "target" : "Mantenha-se afastado das fontes de interferência eletromagnética (EMI) locais."
+}, {
+  "id" : "P244D057-tu561",
+  "source" : "重启探测器以启动自动降噪。",
+  "target" : "Reinicie o detector para iniciar a redução de ruído automática."
+}, {
+  "id" : "P244D057-tu562",
+  "source" : "执行地面平衡。",
+  "target" : "Executar o equilíbrio do solo."
+}, {
+  "id" : "P244D057-tu563",
+  "source" : "降低敏感度等级。",
+  "target" : "Reduza o nível de sensibilidade."
+}, {
+  "id" : "P244D057-tu565",
+  "source" : "没有声音 — 有线耳机",
+  "target" : "Sem som — Fones de ouvido com fio"
+}, {
+  "id" : "P244D057-tu566",
+  "source" : "检查探测器是否已开启，并且已完成启动。",
+  "target" : "Verifique se o detector está ligado e se a inicialização foi concluída."
+}, {
+  "id" : "P244D057-tu567",
+  "source" : "检查耳机是否已插入并完全插入耳机插口。",
+  "target" : "Verifique se os fones de ouvido estão conectados e totalmente inseridos na entrada dos fones."
+}, {
+  "id" : "P244D057-tu568",
+  "source" : "检查状态条中是否有显示耳机指示符。",
+  "target" : "Verifique se há um ícone de fone de ouvido exibido na barra de status."
+}, {
+  "id" : "P244D057-tu569",
+  "source" : "检查音量是否设置为可听级别。",
+  "target" : "Verifique se o volume está ajustado para um nível audível."
+}, {
+  "id" : "P244D057-tu570",
+  "source" : "拔下耳机并确认探测器扬声器可以听到声音。",
+  "target" : "Retire os fones de ouvido e verifique se o alto-falante do detector pode ser ouvido."
+}, {
+  "id" : "P244D057-tu571",
+  "source" : "检查耳机连接器是否没有任何水分或碎屑。",
+  "target" : "Verifique se o conector dos fones de ouvido não tem nenhuma umidade ou sujeira."
+}, {
+  "id" : "P244D057-tu572",
+  "source" : "如果可以，请尝试使用另一副耳机。",
+  "target" : "Se possível, tente usar outro fone de ouvido."
+}, {
+  "id" : "P244D057-tu574",
+  "source" : "没有声音 — 无线耳机",
+  "target" : "Silêncio — Fone de Ouvido Sem Fio"
+}, {
+  "id" : "P244D057-tu575",
+  "source" : "检查耳机是否已开启。",
+  "target" : "Verifique se os fones de ouvido estão ligados."
+}, {
+  "id" : "P244D057-tu576",
+  "source" : "检查探测器无线配对是否已打开并与耳机配对（即无线指示符稳定常开）。",
+  "target" : "Verifique se o emparelhamento sem fio do detector está ativado e emparelhado com os fones de ouvido (ou seja, o indicador sem fio está sempre aceso de forma estável)."
+}, {
+  "id" : "P244D057-tu577",
+  "source" : "检查耳机是否已充电。",
+  "target" : "Verifique se os fones de ouvido estão carregados."
+}, {
+  "id" : "P244D057-tu578",
+  "source" : "检查探测器音量是否设置为可听级别。",
+  "target" : "Verifique se o volume do detector está configurado em um nível audível."
+}, {
+  "id" : "P244D057-tu579",
+  "source" : "检查耳机上的音量控制是否设置为可听见的水平。",
+  "target" : "Verifique se o controle de volume nos fones de ouvido está ajustado para um nível audível."
+}, {
+  "id" : "P244D057-tu580",
+  "source" : "将探测器与另一组兼容的无线耳机配对。",
+  "target" : "Emparelhe o detector com outro conjunto de fones de ouvido sem fio compatíveis."
+}, {
+  "id" : "P244D057-tu581",
+  "source" : "试试有线耳机。",
+  "target" : "Experimente usar fones de ouvido com fio."
+}, {
+  "id" : "P244D057-tu583",
+  "source" : "无线耳机无法配对",
+  "target" : "Os fones de ouvido sem fio não conseguem emparelhar."
+}, {
+  "id" : "P244D057-tu584",
+  "source" : "检查耳机是否与您的探测器兼容——推荐使用 Minelab ML60 蓝牙 LE 音频无线耳塞。注意：VANQUISH 560 和 460 仅与支持",
+  "target" : "Verifique se os fones de ouvido são compatíveis com o seu detector — recomenda-se o uso dos fones de ouvido sem fio Bluetooth LE Minelab ML60. Nota: VANQUISH 560 e 460 funcionam apenas com modelos que suportam."
+}, {
+  "id" : "P244D057-tu585",
+  "source" : "蓝牙® LE 音频且采用 LC3 编解码器 的耳机兼容。",
+  "target" : "Compatível com fones de ouvido de áudio Bluetooth® LE que usam o codec LC3."
+}, {
+  "id" : "P244D057-tu586",
+  "source" : "尝试关闭耳机电源，然后重新配对。",
+  "target" : "Tente desligar a fonte de energia dos fones de ouvido e, em seguida, emparelhar novamente."
+}, {
+  "id" : "P244D057-tu587",
+  "source" : "确保耳机与探测器控制盒的距离在 1 米（3 英尺）以内，并且耳机和探测器（包括你自己的身体）之间没有障碍物。",
+  "target" : "Certifique-se de que a distância entre os fones de ouvido e a caixa de controle do detector esteja dentro de 1 metro (3 pés) e que não haja obstruções entre os fones de ouvido e o detector (incluindo seu próprio corpo)."
+}, {
+  "id" : "P244D057-tu588",
+  "source" : "远离手机等干扰源。",
+  "target" : "Mantenha-se afastado de fontes de distração, como o celular."
+}, {
+  "id" : "P244D057-tu589",
+  "source" : "如果附近有许多其他无线设备，配对可能需要更长时间。离开该区域并尝试再次配对。",
+  "target" : "Se houver muitos outros dispositivos sem fio nas proximidades, o emparelhamento pode demorar mais. Saia da área e tente emparelhar novamente."
+}, {
+  "id" : "P244D057-tu590",
+  "source" : "对耳机执行出厂重置并尝试与探测器重新配对。",
+  "target" : "Execute um reset de fábrica nos fones de ouvido e tente pareá-los novamente com o detector."
+}, {
+  "id" : "P244D057-tu591",
+  "source" : "将探测器与另一对兼容的无线耳机配对，然后尝试将原来的耳机与探测器重新配对。",
+  "target" : "Emparelhe o detector com outro par de fones de ouvido sem fio compatíveis e, em seguida, tente emparelhar os fones de ouvido originais novamente com o detector."
+}, {
+  "id" : "P244D057-tu593",
+  "source" : "无线连接时在无线耳机中听到失真/噼啪声",
+  "target" : "Ao usar a conexão sem fio, ouve-se distorção/pops nos fones de ouvido sem fio."
+}, {
+  "id" : "P244D057-tu594",
+  "source" : "确保耳机与探测器控制盒的距离在 1 米（3 英尺）以内，并且耳机和探测器（包括你自己的身体）之间没有障碍物。",
+  "target" : "Certifique-se de que a distância entre os fones de ouvido e a caixa de controle do detector esteja dentro de 1 metro (3 pés) e que não haja obstáculos entre os fones de ouvido e o detector (incluindo seu próprio corpo)."
+}, {
+  "id" : "P244D057-tu596",
+  "source" : "一般故障排除（续）",
+  "target" : "Problemas Gerais de Solução (Continuação)"
+}, {
+  "id" : "P244D057-tu598",
+  "source" : "扬声器浸入冷水中后发出吱吱声或声音低沉",
+  "target" : "扬声器浸入冷水中后发出吱吱声或声音低沉"
+}, {
+  "id" : "P244D057-tu599",
+  "source" : "探测器内部气压最多需要 30 分钟才能恢复正常。请注意，将探测器放在地面上且让控制盒保持直立可能会更快地平衡内部气压。",
+  "target" : "O pressão interna do detector pode levar até 30 minutos para se normalizar. Observe que colocar o detector no chão e manter a caixa de controle na posição vertical pode equilibrar a pressão interna mais rapidamente."
+}, {
+  "id" : "P244D057-tu601",
+  "source" : "耳机指示符亮，但未连接耳机",
+  "target" : "O indicador de fone de ouvido está aceso, mas o fone de ouvido não está conectado."
+}, {
+  "id" : "P244D057-tu602",
+  "source" : "耳机插口内可能进水导致有线耳机误探测。",
+  "target" : "O conector dos fones de ouvido pode ter entrada de água, causando detecção incorreta dos fones de ouvido com fio."
+}, {
+  "id" : "P244D057-tu603",
+  "source" : "检查耳机插口是否没有任何水分和障碍物。",
+  "target" : "Verifique se a entrada do fone de ouvido não tem umidade nem obstruções."
+}, {
+  "id" : "P244D057-tu604",
+  "source" : "如果有水，请使用温暖（不是热）的空气干燥器来干燥插口。",
+  "target" : "Se houver água, use um secador de ar morno (não quente) para secar a tomada."
+}, {
+  "id" : "P244D057-tu606",
+  "source" : "探测器在极热环境中放置后无法工作（例如，晴天汽车后座）",
+  "target" : "O detector não funciona após ser colocado em um ambiente extremamente quente (por exemplo, no banco de trás de um carro em um dia ensolarado)."
+}, {
+  "id" : "P244D057-tu607",
+  "source" : "探测器已过热。它可能会短暂开机并显示 \"bF\"，然后死机。",
+  "target" : "O detector está superaquecido. Ele pode ligar brevemente e mostrar \"bF\", e depois travar."
+}, {
+  "id" : "P244D057-tu608",
+  "source" : "将探测器放在阴凉干燥的地方，让它冷却下来。一旦它充分冷却，将恢复正常操作。",
+  "target" : "Coloque o detector em um local fresco e seco para deixá-lo esfriar. Uma vez que ele esteja totalmente resfriado, voltará a operar normalmente."
+}, {
+  "id" : "P244D057-tu611",
+  "source" : "安全、保养和维护",
+  "target" : "Segurança, manutenção e conservação"
+}, {
+  "id" : "P244D057-tu612",
+  "source" : "目录\t33",
+  "target" : "Índice 33"
+}, {
+  "id" : "P244D057-tu613",
+  "source" : "探测器保养和安全",
+  "target" : "Manutenção e segurança do detector"
+}, {
+  "id" : "P244D057-tu614",
+  "source" : "整机保养和安全",
+  "target" : "Manutenção e segurança do equipamento completo"
+}, {
+  "id" : "P244D057-tu615",
+  "source" : "⚠警告：不要让幼儿玩耍探测器或配件，小部件有窒息危险。",
+  "target" : "⚠ Aviso: Não deixe crianças pequenas brincarem com o detector ou acessórios, pois as pequenas peças apresentam risco de asfixia."
+}, {
+  "id" : "P244D057-tu616",
+  "source" : "⚠警告：通过航空运输探测器时，必须将探盘从控制盒上断开。同时确保遵守航空公司关于在设备中运输锂电池的规定。",
+  "target" : "⚠ Aviso: Ao transportar o detector por via aérea, a placa de pesquisa deve ser desconectada da caixa de controle. Além disso, certifique-se de cumprir as regulamentações da companhia aérea sobre o transporte de baterias de lítio em dispositivos."
+}, {
+  "id" : "P244D057-tu617",
+  "source" : "使用防晒霜或驱虫剂后，请在操作探测器前洗手。",
+  "target" : "使用防晒霜或驱虫剂后，请在操作探测器前洗手。"
+}, {
+  "id" : "P244D057-tu618",
+  "source" : "显示屏镜头由优质光学塑料制成，可以清晰地观看屏幕，因此如果不小心处理，很容易出现划痕或严重损坏。强烈建议使用屏幕保护膜。如果磨损或划伤，请定期更换。",
+  "target" : "A lente do display é feita de plástico óptico de alta qualidade, permitindo uma visualização clara da tela. Portanto, se não for manuseada com cuidado, é fácil que apareçam arranhões ou danos graves. É altamente recomendável o uso de película protetora. Se houver desgaste ou arranhões, faça a substituição regularmente."
+}, {
+  "id" : "P244D057-tu619",
+  "source" : "切勿使用溶剂或含酒精的清洁剂清洁显示屏镜头。要进行显示屏清洁，请使用略微潮\uD83D\uDDCE的布和温和的肥皂清洁剂。用干净的无绒布擦干以去除水渍。",
+  "target" : "Nunca use solventes ou limpadores à base de álcool para limpar a lente da tela. Para limpar a tela, use um pano levemente úmido e um limpador suave à base de sabão. Seque com um pano limpo e sem fiapos para remover as manchas de água."
+}, {
+  "id" : "P244D057-tu620",
+  "source" : "请勿在探测器的任何部件上使用任何润滑剂、密封剂、溶剂或酒精清洁剂。即使通常被认为温和的化学品（例如异丙醇或硅润滑剂）也会降低材料性能或密封的完整性。在产品上使用化学品可能会使保修失效。要进行清洁，请使用略微潮",
+  "target" : "Não use nenhum lubrificante, selante, solvente ou detergente alcoólico em qualquer parte do detector. Mesmo produtos químicos geralmente considerados suaves (como isopropanol ou lubrificantes à base de silicone) podem reduzir o desempenho do material ou a integridade do selante. O uso de produtos químicos no produto pode anular a garantia. Para limpeza, utilize um pano levemente umedecido."
+}, {
+  "id" : "P244D057-tu621",
+  "source" : "\uD83D\uDDCE的布和温和的肥皂清洁剂。",
+  "target" : "Pano e detergente suave para limpeza."
+}, {
+  "id" : "P244D057-tu622",
+  "source" : "更换内置电池时，请勿在密封件或 O 型环密封圈上涂抹任何化学品，包括 O 型环密封圈润滑剂、油脂或硅脂，因为这会损坏电池密封。",
+  "target" : "更换内置电池时，请勿在密封件或 O 型环密封圈上涂抹任何化学品，包括 O 型环密封圈润滑剂、油脂或硅脂，因为这会损坏电池密封。"
+}, {
+  "id" : "P244D057-tu623",
+  "source" : "请勿让探测器接触燃油/汽油或其他石油基液体。",
+  "target" : "Por favor, não deixe o detector entrar em contato com combustíveis/gasolina ou outros líquidos à base de petróleo."
+}, {
+  "id" : "P244D057-tu624",
+  "source" : "请勿让探测器或配件接触尖锐物体，否则可能会造成划痕和损坏。",
+  "target" : "Por favor, não permita que o detector ou os acessórios entrem em contato com objetos afiados, pois isso pode causar arranhões e danos."
+}, {
+  "id" : "P244D057-tu625",
+  "source" : "避免在任何移动配件（包括探杆、凸轮锁紧器和轭架组件）中沾上沙子和砂砾。如果沙子和砂砾积聚在这些配件中，则应将其用清水冲洗干净，然后彻底擦干。",
+  "target" : "Evite que areia e cascalho entrem em qualquer acessório móvel (incluindo varas de sondagem, dispositivos de travamento de cames e componentes de suportes). Se areia e cascalho se acumularem nesses acessórios, eles devem ser lavados com água limpa e, em seguida, completamente secos."
+}, {
+  "id" : "P244D057-tu626",
+  "source" : "请勿将探测器暴露在极端温度条件下。存储温度范围为",
+  "target" : "Por favor, não exponha o detector a condições de temperatura extrema. A faixa de temperatura de armazenamento é de"
+}, {
+  "id" : "P244D057-tu627",
+  "source" : "−20°C 至 +70°C (−4°F 至 +158°F)。避免在炎热天气将其留在停在阳光下的车辆内，因为温度可能会达到极端水平。如果探测器曾暴露在高温下，请让其冷却后再尝试开机。",
+  "target" : "−20°C a +70°C (−4°F a +158°F). Evite deixá-lo dentro de um veículo estacionado sob a luz do sol em dias quentes, pois as temperaturas podem alcançar níveis extremos. Se o detector foi exposto a altas temperaturas, aguarde ele esfriar antes de tentar ligá-lo."
+}, {
+  "id" : "P244D057-tu628",
+  "source" : "确保探盘连接线保持良好状态，不被挤压、扭结和折弯。",
+  "target" : "Certifique-se de que o cabo de conexão do painel esteja em boas condições, não sendo comprimido, torcido ou dobrado."
+}, {
+  "id" : "P244D057-tu629",
+  "source" : "请勿将未列出的防水配件暴露在液体/\uD83D\uDDCE气或过度潮\uD83D\uDDCE的环境中。",
+  "target" : "Por favor, não exponha os acessórios à prova d'água não listados a líquidos/gases ou a ambientes excessivamente úmidos."
+}, {
+  "id" : "P244D057-tu630",
+  "source" : "只能根据提供的说明为探测器和配件充电。",
+  "target" : "Somente pode carregar o detector e os acessórios de acordo com as instruções fornecidas."
+}, {
+  "id" : "P244D057-tu631",
+  "source" : "请勿在极端温度条件下为探测器或配件充电 — 只能在 0°C至 +40°C（+32°F 至 +104°F）的环境温度下为探测器充电。",
+  "target" : "Por favor, não carregue o detector ou acessórios em condições de temperatura extrema — a carga do detector só pode ser feita em temperaturas ambiente entre 0°C e +40°C (+32°F a +104°F)."
+}, {
+  "id" : "P244D057-tu633",
+  "source" : "请勿使用工具将探盘信号线连接头拧紧到控制盒，这么做会损坏控制盒。如果探盘信号线连接头不容易安装，请用清水冲洗掉所有污垢/砂砾，然后让其干燥后再尝试。",
+  "target" : "Por favor, não use ferramentas para apertar o conector do cabo de sinal do transdutor na caixa de controle, pois isso pode danificar a caixa de controle. Se o conector do cabo de sinal do transdutor não for fácil de instalar, enxágue toda a sujeira/areia com água limpa e deixe secar antes de tentar novamente."
+}, {
+  "id" : "P244D057-tu634",
+  "source" : "请勿尝试调整控制盒背面的探盘信号线连接头螺母。这是锁定到位的，篡改会损坏控制盒。",
+  "target" : "Por favor, não tente ajustar a porca de conexão do cabo do sinal do sensor na parte de trás da caixa de controle. Esta está travada no lugar e a alteração pode danificar a caixa de controle."
+}, {
+  "id" : "P244D057-tu635",
+  "source" : "请勿将尖锐物体插入扬声器格栅进行清洁，这会损坏扬声器并影响防水性能。通过格栅冲洗淡水来清洁扬声器。",
+  "target" : "Por favor, não insira objetos afiados na grade do alto-falante para limpeza, pois isso pode danificar o alto-falante e afetar a resistência à água. Limpe o alto-falante enxaguando-o com água doce pela grade."
+}, {
+  "id" : "P244D057-tu636",
+  "source" : "更换电池后，不要过度拧紧电池密封盖。在探测  器直立时，电池盖上的旋扭凸耳应处于水平位置。",
+  "target" : "Substitua a bateria, não aperte demais a tampa de vedação da bateria. Quando o detector estiver na posição vertical, as abas de torção na tampa da bateria devem estar na posição horizontal."
+}, {
+  "id" : "P244D057-tu638",
+  "source" : "探测器保养和安全（续）",
+  "target" : "Detecção de manutenção e segurança (continuação)"
+}, {
+  "id" : "P244D057-tu639",
+  "source" : "配件保养",
+  "target" : "A manutenção de acessórios"
+}, {
+  "id" : "P244D057-tu640",
+  "source" : "电池维护",
+  "target" : "Manutenção de bateria"
+}, {
+  "id" : "P244D057-tu641",
+  "source" : "如果长时间不使用，锂离子电池的性能可能会降低。至少每 3 到 4 个月将电池充满电一次，以防止发生这种情况。",
+  "target" : "Se não utilizado por um longo período, o desempenho da bateria de íon de lítio pode se degradar. É recomendável carregar a bateria completamente pelo menos a cada 3 a 4 meses para evitar que isso aconteça."
+}, {
+  "id" : "P244D057-tu642",
+  "source" : "即使保养和维护得当，锂离子电池的性能也会随着时间的推移而降低。因此，电池可能需要每隔几年更换一次。更换电池可由 Minelab 授权服务中心提供和安装。",
+  "target" : "Mesmo com a manutenção e cuidados adequados, o desempenho da bateria de íon de lítio diminuirá com o tempo. Portanto, a bateria pode precisar ser trocada a cada poucos anos. A troca da bateria pode ser fornecida e instalada por um centro de serviço autorizado Minelab."
+}, {
+  "id" : "P244D057-tu643",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C13609-sub1",
+  "source" : "如果更换内部电池，请勿在密封件或 O 型环密封圈上涂抹任何化学品，包括 O 形圈润滑剂、油脂或硅脂，因为这会损坏电池密封。",
+  "target" : "Se você trocar a bateria interna, não aplique quaisquer produtos químicos nas vedações ou anéis O, incluindo lubrificantes para anéis O, graxa ou silicone, pois isso pode danificar o vedação da bateria."
+}, {
+  "id" : "P244D057-tu644",
+  "source" : "探盘维护",
+  "target" : "Exploração de mercado"
+}, {
+  "id" : "P244D057-tu645",
+  "source" : "护板是一种牺牲/可更换部件，旨在保护探盘免受损坏。在护板过度磨损但未出现任何空洞之前更换护板。",
+  "target" : "Protetor é um componente sacrificial/substituível projetado para proteger o disco de exploração contra danos. Substitua o protetor antes que ele esteja excessivamente desgastado, mas sem apresentar buracos."
+}, {
+  "id" : "P244D057-tu646",
+  "source" : "海滩/海水探测后",
+  "target" : "Praia/detecção de água do mar após"
+}, {
+  "id" : "P244D057-tu647",
+  "source" : "沙子具有磨蚀性，随着时间的推移，盐分会腐蚀探测器的金属配件。遵循列出的建议对于避免损坏探测器部件至关重要。",
+  "target" : "A areia é abrasiva e, com o tempo, a salinidade pode corroer os componentes metálicos do detector. Seguir as recomendações listadas é crucial para evitar danos às partes do detector."
+}, {
+  "id" : "P244D057-tu648",
+  "source" : "清楚探测器中的沙子",
+  "target" : "Limpar a areia do detector"
+}, {
+  "id" : "P244D057-tu649",
+  "source" : "在海滩或海水中探测后，立即用淡水冲洗探测器的所有部件。避免擦拭探测器以去除沙子，因为这可能会造成沙子划伤探测器。",
+  "target" : "在海滩或海水中探测后，立即用淡水冲洗探测器的所有部件。避免擦拭探测器以去除沙子，因为这可能会造成沙子划伤探测器。"
+}, {
+  "id" : "P244D057-tu650",
+  "source" : "打开两个凸轮锁紧器并用干净的淡水冲洗。",
+  "target" : "Abra os dois bloqueadores de cames e enxágue com água doce limpa."
+}, {
+  "id" : "P244D057-tu651",
+  "source" : "耳机插口保养",
+  "target" : "Fazendo a manutenção da entrada do fone de ouvido"
+}, {
+  "id" : "P244D057-tu652",
+  "source" : "水下探测结束后，在断开耳机（或防水防尘帽）之前立即确保连接器周围区域干燥且没有沙子/泥土。",
+  "target" : "水下探测结束后，在断开耳机（或防水防尘帽）之前立即确保连接器周围区域干燥且没有沙子/泥土。"
+}, {
+  "id" : "P244D057-tu653",
+  "source" : "如果任何沙子/泥土不小心进入耳机插口，请用清水轻轻冲洗，然后彻底擦干。",
+  "target" : "Se qualquer areia/terra entrar acidentalmente na entrada do fone de ouvido, enxágue suavemente com água limpa e seque bem."
+}, {
+  "id" : "P244D057-tu655",
+  "source" : "规格、预设和合规性",
+  "target" : "Especificações, pré-definições e conformidade"
+}, {
+  "id" : "P244D057-tu656",
+  "source" : "目录\t36",
+  "target" : "Índice 36"
+}, {
+  "id" : "P244D057-tu657",
+  "source" : "技术规格",
+  "target" : "Especificações técnicas"
+}, {
+  "id" : "P244D057-tu661",
+  "source" : "搜索模式\t公园、海滩、全金属",
+  "target" : "Modo de busca Parque, Praia, Todo Metálico"
+}, {
+  "id" : "P244D057-tu662",
+  "source" : "公园、旷野、海滩、用户配置",
+  "target" : "Parque, campo, praia, configuração do usuário"
+}, {
+  "id" : "P244D057-tu663",
+  "source" : "全金属探测快捷键\t否",
+  "target" : "全金属探测快捷键\tNão"
+}, {
+  "id" : "P244D057-tu664",
+  "source" : "是",
+  "target" : "是"
+}, {
+  "id" : "P244D057-tu665",
+  "source" : "自定义用户搜索配置\t否",
+  "target" : "Configuração de pesquisa personalizada do usuário\tNão"
+}, {
+  "id" : "P244D057-tu666",
+  "source" : "是",
+  "target" : "是"
+}, {
+  "id" : "P244D057-tu667",
+  "source" : "工作频率（kHz）\tMulti-IQ®",
+  "target" : "Frequência de trabalho (kHz) Multi-IQ®"
+}, {
+  "id" : "P244D057-tu668",
+  "source" : "降噪\t自动（19个频道）",
+  "target" : "Redução de ruído Automática (19 canais)"
+}, {
+  "id" : "P244D057-tu669",
+  "source" : "无线音频",
+  "target" : "áudio sem fio"
+}, {
+  "id" : "P244D057-tu670",
+  "source" : "否",
+  "target" : "não"
+}, {
+  "id" : "P244D057-tu671",
+  "source" : "是*",
+  "target" : "是*"
+}, {
+  "id" : "P244D057-tu672",
+  "source" : "铁倾向",
+  "target" : "ferromagnetismo"
+}, {
+  "id" : "P244D057-tu673",
+  "source" : "固定",
+  "target" : "fixo"
+}, {
+  "id" : "P244D057-tu674",
+  "source" : "0 至 2",
+  "target" : "0 a 2"
+}, {
+  "id" : "P244D057-tu675",
+  "source" : "-1 至 2",
+  "target" : "-1 a 2"
+}, {
+  "id" : "P244D057-tu676",
+  "source" : "灵敏度",
+  "target" : "sensibilidade"
+}, {
+  "id" : "P244D057-tu677",
+  "source" : "5 级（1 至 5）",
+  "target" : "5 níveis (1 a 5)"
+}, {
+  "id" : "P244D057-tu678",
+  "source" : "10 级（1 至 10）",
+  "target" : "10 níveis (1 a 10)"
+}, {
+  "id" : "P244D057-tu679",
+  "source" : "音量",
+  "target" : "volume"
+}, {
+  "id" : "P244D057-tu680",
+  "source" : "5 级（1 至 5）",
+  "target" : "5 níveis (1 a 5)"
+}, {
+  "id" : "P244D057-tu681",
+  "source" : "10 级（1 至 10）",
+  "target" : "10 níveis (1 a 10)"
+}, {
+  "id" : "P244D057-tu682",
+  "source" : "铁音量",
+  "target" : "铁音量"
+}, {
+  "id" : "P244D057-tu683",
+  "source" : "固定",
+  "target" : "fixo"
+}, {
+  "id" : "P244D057-tu684",
+  "source" : "10 级（1 至 10）",
+  "target" : "10 níveis (1 a 10)"
+}, {
+  "id" : "P244D057-tu685",
+  "source" : "目标音调",
+  "target" : "Objetivo tonal"
+}, {
+  "id" : "P244D057-tu686",
+  "source" : "3种音调",
+  "target" : "3 tipos de tom"
+}, {
+  "id" : "P244D057-tu687",
+  "source" : "5种音调",
+  "target" : "5 tons"
+}, {
+  "id" : "P244D057-tu688",
+  "source" : "判别区分",
+  "target" : "discriminação"
+}, {
+  "id" : "P244D057-tu689",
+  "source" : "6 段（以 20 个目标识别为一组）",
+  "target" : "6 segmentos (com 20 identificações de alvo por grupo)"
+}, {
+  "id" : "P244D057-tu690",
+  "source" : "30 段（以 4 个目标识别为一组）",
+  "target" : "30 segmentos (com 4 identificações de objetivo em um grupo)"
+}, {
+  "id" : "P244D057-tu691",
+  "source" : "精确定位模式\t是",
+  "target" : "Modo de localização precisa é"
+}, {
+  "id" : "P244D057-tu692",
+  "source" : "目标识别 (ID)\t119 段缺口判别：铁质金属：-19 至 0 | 非铁质金属：1 至 99",
+  "target" : "Identificação de alvo (ID) 119 Critérios de avaliação de falhas: Metais ferrosos: -19 a 0 | Metais não ferrosos: 1 a 99"
+}, {
+  "id" : "P244D057-tu693",
+  "source" : "深度指示灯\t5 个级别",
+  "target" : "Indicador de profundidade 5 níveis"
+}, {
+  "id" : "P244D057-tu694",
+  "source" : "长度\t展开：142厘米（56英寸）折叠：79.5厘米（31.2英寸）",
+  "target" : "Comprimento: Desdobrado: 142 centímetros (56 polegadas) Doblado: 79,5 centímetros (31,2 polegadas)"
+}, {
+  "id" : "P244D057-tu695",
+  "source" : "重量\t1.16千克（2.6磅）",
+  "target" : "Peso 1,16 quilogramas (2,6 libras)"
+}, {
+  "id" : "P244D057-tu696",
+  "source" : "1.26千克（2.8磅）",
+  "target" : "1,26 kg (2,8 lbs)"
+}, {
+  "id" : "P244D057-tu697",
+  "source" : "显示屏\t单色LCD",
+  "target" : "Display\tMonochrome LCD"
+}, {
+  "id" : "P244D057-tu698",
+  "source" : "带红色背光的单色液晶屏（关闭 (0)、低 (1)、高 (2)）",
+  "target" : "Tela de LCD monocrômica com retroiluminação vermelha (desligado (0), baixo (1), alto (2))"
+}, {
+  "id" : "P244D057-tu699",
+  "source" : "键盘背光\t—",
+  "target" : "Teclado retroiluminado —"
+}, {
+  "id" : "P244D057-tu700",
+  "source" : "有，由背光灯设置控制",
+  "target" : "Sim, controlado pelas configurações da luz de fundo."
+}, {
+  "id" : "P244D057-tu701",
+  "source" : "闪光灯\t—",
+  "target" : "flash\t—"
+}, {
+  "id" : "P244D057-tu702",
+  "source" : "关闭、开启",
+  "target" : "Fechar, Abrir"
+}, {
+  "id" : "P244D057-tu703",
+  "source" : "振动\t—",
+  "target" : "Vibração —"
+}, {
+  "id" : "P244D057-tu704",
+  "source" : "关闭、开启",
+  "target" : "Fechar, Abrir"
+}, {
+  "id" : "P244D057-tu705",
+  "source" : "配套探盘\tV10X™ 10 英寸双 D",
+  "target" : "配套探盘 V10X™ 10 英寸双 D"
+}, {
+  "id" : "P244D057-tu706",
+  "source" : "V12X™ 12 英寸双 D",
+  "target" : "V12X™ 12 polegadas dupla D"
+}, {
+  "id" : "P244D057-tu707",
+  "source" : "支持的探盘（不包含在内）\tV8X、V10X、V12X、EQX06、EQX11、EQX15",
+  "target" : "Suporte de sondagem (não incluído) V8X, V10X, V12X, EQX06, EQX11, EQX15"
+}, {
+  "id" : "P244D057-tu708",
+  "source" : "配套充电线\tUSB-C磁性充电线",
+  "target" : "Cabo de carregamento compatível Cabo de carregamento magnético USB-C"
+}, {
+  "id" : "P244D057-tu709",
+  "source" : "音频输出\t内置扬声器、有线 3.5 毫米（1/8英寸）耳机",
+  "target" : "Áudio de saída: alto-falante embutido, cabo de 3,5 mm (1/8 de polegada) para fones de ouvido."
+}, {
+  "id" : "P244D057-tu710",
+  "source" : "内置扬声器、有线 3.5 毫米（1/8 英寸）耳机 无线音频",
+  "target" : "Alto-falante embutido, fones de ouvido com fio de 3,5 mm (1/8 polegada) áudio sem fio"
+}, {
+  "id" : "P244D057-tu711",
+  "source" : "配套耳机\t—",
+  "target" : "配套耳机 — Fones de ouvido compatíveis"
+}, {
+  "id" : "P244D057-tu712",
+  "source" : "不包括有线 3.5 mm (1/8\") 耳机",
+  "target" : "不包括有线 3.5 mm (1/8\") 耳机"
+}, {
+  "id" : "P244D057-tu713",
+  "source" : "电池\t3.7 V/4500 mAh 内置锂离子电池（约运行 10 小时）",
+  "target" : "Bateria 3,7 V/4500 mAh bateria de íon de lítio embutida (cerca de 10 horas de funcionamento)"
+}, {
+  "id" : "P23C132A5-sub1",
+  "source" : "其他随附配件",
+  "target" : "Outros acessórios incluídos"
+}, {
+  "id" : "P23C132A5-sub2",
+  "source" : "带固定带 V10 护板的臂拖快速入门指南",
+  "target" : "Braço de tração com proteção V10 e faixa fixa - Guia rápido de introdução"
+}, {
+  "id" : "P23C132A5-sub3",
+  "source" : "带固定带 V12 护板的臂拖快速",
+  "target" : "Braço de arraste rápido com proteção V12 com cinta fixa"
+}, {
+  "id" : "P23C132A5-sub4",
+  "source" : "入门指南",
+  "target" : "Guia de Introdução"
+}, {
+  "id" : "P244D057-tu714",
+  "source" : "防水\t防水深度达 5 米（16 英尺）— IP68",
+  "target" : "À prova d'água profundidade de até 5 metros (16 pés) — IP68"
+}, {
+  "id" : "P244D057-tu716",
+  "source" : "工作温度范围\t–10°C 至 +40°C (+14°F 至 +104°F)",
+  "target" : "Faixa de temperatura de trabalho –10°C a +40°C (+14°F a +104°F)"
+}, {
+  "id" : "P244D057-tu717",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P23C132A1-sub1",
+  "source" : "储存温度范围",
+  "target" : "Faixa de temperatura de armazenamento"
+}, {
+  "id" : "P23C132A1-sub2",
+  "source" : "关键技术",
+  "target" : "Tecnologia chave"
+}, {
+  "id" : "P23C132A1-sub3",
+  "source" : "–20°C 至 +70°C (–4°F 至 +158°F)",
+  "target" : "–20°C até +70°C (–4°F até +158°F)"
+}, {
+  "id" : "P23C132A1-sub4",
+  "source" : "Multi-IQ®",
+  "target" : "Multi-IQ®"
+}, {
+  "id" : "P23C132A1-sub5",
+  "source" : "* VANQUISH 560 和 460 仅与支持蓝牙® LE 音频且采用 LC3 编解码器的耳机兼容。",
+  "target" : "* VANQUISH 560 e 460 são compatíveis apenas com fones de ouvido que suportam áudio Bluetooth® LE e utilizam o codificador LC3."
+}, {
+  "id" : "P23C132A1-sub6",
+  "source" : "Vanquish 560 专业套装基于标准 VANQUISH 560，但有以下区别：包括 ML60 蓝牙® LE 音频无线耳塞*和带护板的 V8X™ 8\" × 5\" 双 D 探盘。不包括有线 3.5 mm (1/8\") 耳机。",
+  "target" : "O conjunto profissional Vanquish 560 é baseado no padrão VANQUISH 560, mas tem as seguintes diferenças: inclui os fones de ouvido sem fio ML60 Bluetooth® LE* e a placa de proteção V8X™ de 8\" × 5\" com o disco duplo D. Não inclui fones de ouvido com fio de 3,5 mm (1/8\")."
+}, {
+  "id" : "P244D057-tu718",
+  "source" : "Minelab 保留随时更改设计、设备和技术特性的权利。有关您探测器的最新规格，请访问www.minelab.com。",
+  "target" : "Minelab reserva-se o direito de alterar o design, equipamentos e características técnicas a qualquer momento. Para as especificações mais recentes do seu detector, visite www.minelab.com."
+}, {
+  "id" : "P244D057-tu719",
+  "source" : "默认设置",
+  "target" : "Configurações padrão"
+}, {
+  "id" : "P244D057-tu720",
+  "source" : "默认搜索模式是公园模式。全局设置以灰色突出显示。",
+  "target" : "O modo de pesquisa padrão é o modo parque. As configurações globais estão destacadas em cinza."
+}, {
+  "id" : "P244D057-tu722",
+  "source" : "公园",
+  "target" : "parque"
+}, {
+  "id" : "P244D057-tu724",
+  "source" : "旷野",
+  "target" : "旷野"
+}, {
+  "id" : "P244D057-tu726",
+  "source" : "海滩",
+  "target" : "praia"
+}, {
+  "id" : "P244D057-tu728",
+  "source" : "用户配置",
+  "target" : "Configuração do usuário"
+}, {
+  "id" : "P244D057-tu729",
+  "source" : "音量调节",
+  "target" : "Controle de volume"
+}, {
+  "id" : "P244D057-tu730",
+  "source" : "7",
+  "target" : "7"
+}, {
+  "id" : "P244D057-tu731",
+  "source" : "铁音量",
+  "target" : "Iron Volume"
+}, {
+  "id" : "P244D057-tu732",
+  "source" : "（仅 560 可调）",
+  "target" : "（apenas 560 ajustável）"
+}, {
+  "id" : "P244D057-tu733",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P244D057-tu734",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P244D057-tu735",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P244D057-tu736",
+  "source" : "4",
+  "target" : "4"
+}, {
+  "id" : "P244D057-tu737",
+  "source" : "接受/拒绝 ↺",
+  "target" : "Aceitar/Rejeitar ↺"
+}, {
+  "id" : "P244D057-tu738",
+  "source" : "-19 至 16",
+  "target" : "-19 até 16"
+}, {
+  "id" : "P244D057-tu739",
+  "source" : " 17 至 99",
+  "target" : " 17 a 99"
+}, {
+  "id" : "P244D057-tu740",
+  "source" : "-19 至 8",
+  "target" : "-19 até 8"
+}, {
+  "id" : "P244D057-tu741",
+  "source" : " 9 至 99",
+  "target" : "9 até 99"
+}, {
+  "id" : "P244D057-tu742",
+  "source" : "–19 至 0",
+  "target" : "–19 até 0"
+}, {
+  "id" : "P244D057-tu743",
+  "source" : " 1 到 99",
+  "target" : "1 a 99"
+}, {
+  "id" : "P244D057-tu744",
+  "source" : "–19 至 0",
+  "target" : "–19 até 0"
+}, {
+  "id" : "P244D057-tu745",
+  "source" : " 1 到 99",
+  "target" : "1 até 99"
+}, {
+  "id" : "P244D057-tu746",
+  "source" : "铁倾向 ↺",
+  "target" : "Ferro tende ↺"
+}, {
+  "id" : "P244D057-tu747",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P244D057-tu748",
+  "source" : "0",
+  "target" : "0"
+}, {
+  "id" : "P244D057-tu749",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P244D057-tu750",
+  "source" : "2",
+  "target" : "2"
+}, {
+  "id" : "P244D057-tu751",
+  "source" : "背光 ↺",
+  "target" : "retroiluminação ↺"
+}, {
+  "id" : "P244D057-tu752",
+  "source" : "低 (1)",
+  "target" : "低 (1)"
+}, {
+  "id" : "P244D057-tu753",
+  "source" : "闪光灯 ↺",
+  "target" : "flash"
+}, {
+  "id" : "P244D057-tu754",
+  "source" : "关闭 (0)",
+  "target" : "Fechar (0)"
+}, {
+  "id" : "P244D057-tu755",
+  "source" : "振动",
+  "target" : "Vibração"
+}, {
+  "id" : "P244D057-tu756",
+  "source" : "关闭 (0)",
+  "target" : "Fechar (0)"
+}, {
+  "id" : "P244D057-tu757",
+  "source" : "无线音频",
+  "target" : "Áudio sem fio"
+}, {
+  "id" : "P244D057-tu758",
+  "source" : "关闭 (0)",
+  "target" : "Fechar (0)"
+}, {
+  "id" : "P244D057-tu759",
+  "source" : "灵敏度",
+  "target" : "sensibilidade"
+}, {
+  "id" : "P244D057-tu760",
+  "source" : "8",
+  "target" : "8"
+}, {
+  "id" : "P244D057-tu761",
+  "source" : "全金属 ↺",
+  "target" : "Totalmente metálico ↺"
+}, {
+  "id" : "P244D057-tu762",
+  "source" : "关闭",
+  "target" : "Fechar"
+}, {
+  "id" : "P244D057-tu763",
+  "source" : "降噪",
+  "target" : "redução de ruído"
+}, {
+  "id" : "P244D057-tu764",
+  "source" : "自动（启动时）",
+  "target" : "Automático (ao iniciar)"
+}, {
+  "id" : "P244D057-tu765",
+  "source" : "自动（启动时）",
+  "target" : "Automático (na inicialização)"
+}, {
+  "id" : "P244D057-tu766",
+  "source" : "自动（启动时）",
+  "target" : "Automático (ao iniciar)"
+}, {
+  "id" : "P244D057-tu767",
+  "source" : "自动（启动时）",
+  "target" : "Automático (ao iniciar)"
+}, {
+  "id" : "P244D057-tu768",
+  "source" : "地面平衡 ↺",
+  "target" : "Equilíbrio no chão ↺"
+}, {
+  "id" : "P244D057-tu769",
+  "source" : "0",
+  "target" : "0"
+}, {
+  "id" : "P244D057-tu770",
+  "source" : "0",
+  "target" : "0"
+}, {
+  "id" : "P244D057-tu771",
+  "source" : "0（自动跟踪）",
+  "target" : "0（rastreamento automático）"
+}, {
+  "id" : "P244D057-tu772",
+  "source" : "0",
+  "target" : "0"
+}, {
+  "id" : "P244D057-tu773",
+  "source" : "↺ 设置将在关机时恢复为默认状态，用户配置模式除外，该模式会保留对局部设置所做的更改。",
+  "target" : "↺ Configurações serão restauradas para o estado padrão ao desligar, com exceção do modo de configuração do usuário, que preservará as alterações feitas nas configurações locais."
+}, {
+  "id" : "P244D057-tu774",
+  "source" : "恢复出厂设置",
+  "target" : "Restaurar as configurações de fábrica"
+}, {
+  "id" : "P244D057-tu775",
+  "source" : "恢复出厂设置功能将所有探测器设置、搜索模式和判别模式恢复到出厂预设状态。",
+  "target" : "恢复出厂设置功能将所有探测器设置、搜索模式和判别模式恢复到出厂预设状态。"
+}, {
+  "id" : "P244D057-tu776",
+  "source" : "确保已关掉探测器电源。",
+  "target" : "Certifique-se de que o power detector está desligado."
+}, {
+  "id" : "P244D057-tu777",
+  "source" : "长按设置/电源键，直到“FP”出现在目标 ID 显示画面上。",
+  "target" : "Pressione e segure o botão de configurações/ligar até que \"FP\" apareça na tela de exibição do ID de destino."
+}, {
+  "id" : "P244D057-tu778",
+  "source" : "恢复出厂预设置时，“FP”将出现在目标 ID 显示画面上。",
+  "target" : "Ao restaurar as configurações de fábrica, \"FP\" aparecerá na tela de exibição do ID alvo."
+}, {
+  "id" : "P244D057-tu779",
+  "source" : "松开按钮。恢复出厂设置完成后，将开始自动降噪。",
+  "target" : "Solte o botão. Após a conclusão da restauração de fábrica, a redução de ruído automática começará."
+}, {
+  "id" : "P244D057-tu780",
+  "source" : "软件更新",
+  "target" : "Atualização de software"
+}, {
+  "id" : "P244D057-tu781",
+  "source" : "VANQUISH 系列探测器包含可通过提供的 USB 充电/数据传输电缆更新的软件。",
+  "target" : "A série de detectores VANQUISH contém software que pode ser atualizado através do cabo USB de carregamento/transmissão de dados fornecido."
+}, {
+  "id" : "P244D057-tu782",
+  "source" : "请访问 www.minelab.com/product- manuals 获取最新的 VANQUISH 软件和安装说明。",
+  "target" : "Por favor, visite www.minelab.com/product-manuals para obter as instruções de software e instalação mais recentes do VANQUISH."
+}, {
+  "id" : "P244D057-tu783",
+  "source" : "文件使用权",
+  "target" : "文件使用权"
+}, {
+  "id" : "P244D057-tu784",
+  "source" : "本作品根据 Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) International License 获得许可。要查看此许",
+  "target" : "Esta obra é licenciada sob a Licença Internacional Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 (CC BY-NC-ND 4.0). Para ver esta licença, você deve"
+}, {
+  "id" : "P244D057-tu785",
+  "source" : "可证的副本，请访问：http://creativecommons.org/licenses/ by-nc-nd/4.0/",
+  "target" : "Cópia verificável, por favor, visite: http://creativecommons.org/licenses/by-nc-nd/4.0/"
+}, {
+  "id" : "P244D057-tu786",
+  "source" : "合规性",
+  "target" : "conformidade"
+}, {
+  "id" : "P244D057-tu787",
+  "source" : "请参阅随附的说明和安全信息传单了解有关更多监管信息。",
+  "target" : "consulte o folheto anexo com instruções e informações de segurança para mais informações regulatórias."
+}, {
+  "id" : "P244D057-tu788",
+  "source" : "要查看产品合规性信息，请导航至“铁倾向”设置，然后长按“全金属”按钮。",
+  "target" : "Para ver as informações de conformidade do produto, navegue até as configurações de \"Tendência do Ferro\" e pressione longamente o botão \"Todo Metálico\"."
+}, {
+  "id" : "P244D057-tu790",
+  "source" : "免责声明",
+  "target" : "Isenção de responsabilidade"
+}, {
+  "id" : "P244D057-tu791",
+  "source" : "本使用说明书中描述的 Minelab 金属探测器是专门设计和制造的优质金属探测器，推荐用于非危险环境中的宝藏和黄金探测。此金属探测器并非设计用作探雷器或实弹探测工具。",
+  "target" : "O detector de metais Minelab descrito neste manual de instruções é um detector de metais de alta qualidade, especialmente projetado e fabricado, recomendado para a detecção de tesouros e ouro em ambientes não perigosos. Este detector de metais não foi projetado para ser usado como um detector de minas ou ferramenta de detecção de munições."
+}, {
+  "id" : "P244D057-tu792",
+  "source" : "MINELAB®、VANQUISH® 和 Multi-IQ™ 是 Minelab Electronics Pty 的商标。Ltd. 的商标。",
+  "target" : "MINELAB®, VANQUISH® e Multi-IQ™ são marcas registradas da Minelab Electronics Pty Ltd.的商标。"
+}, {
+  "id" : "P244D057-tu793",
+  "source" : "目录\t39",
+  "target" : "Índice 39"
+}, {
+  "id" : "P244D057-tu795",
+  "source" : "www.minelab.com",
+  "target" : "www.minelab.com"
+}, {
+  "id" : "P244D057-tu797",
+  "source" : "4901-0515-ZH-1",
+  "target" : "4901-0515-ZH-1"
+}, {
+  "id" : "P3953B09A-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P6D3F672D-sub1",
+  "source" : "目录",
+  "target" : "Índice"
+}, {
+  "id" : "P396FDF9C-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P41BB4A4B-sub1",
+  "source" : "目录",
+  "target" : "Índice"
+}, {
+  "id" : "P398C0E9E-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P685742BB-sub1",
+  "source" : "目录",
+  "target" : "índice"
+}, {
+  "id" : "PEE2E7F8-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P2E177089-sub1",
+  "source" : "目录",
+  "target" : "Índice"
+}, {
+  "id" : "PEC6B8F6-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P6C43300F-sub1",
+  "source" : "目录",
+  "target" : "Índice"
+}, {
+  "id" : "PEAA89F4-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P3018FE47-sub1",
+  "source" : "目录",
+  "target" : "Catálogo"
+}, {
+  "id" : "PE8E5AF2-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P5A07E49D-sub1",
+  "source" : "目录",
+  "target" : "índice"
+}, {
+  "id" : "PE722BF0-tu1",
+  "source" : "",
+  "target" : ""
+}, {
+  "id" : "P61D0BC0D-sub1",
+  "source" : "目录",
+  "target" : "Índice"
+} ]

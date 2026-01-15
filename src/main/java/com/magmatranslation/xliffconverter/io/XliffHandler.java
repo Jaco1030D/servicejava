@@ -1,6 +1,10 @@
 package com.magmatranslation.xliffconverter.io;
+import java.io.File;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.Base64Handler;
@@ -47,7 +51,7 @@ public class XliffHandler {
         
         } catch (Exception e) {
 
-            System.err.println("Erro ao criar o arquivo XLIFF: " + e.getMessage());
+            System.err.println("Erro na class XliffHandler ao criar o arquivo XLIFF: " + e.getMessage());
             
             return null;
         }
@@ -55,43 +59,89 @@ public class XliffHandler {
     
     public static List<Event> XliffReader(FileProcessorConfig config) {
         LocaleId srcLoc = LocaleId.fromString(config.langSource);
-
         LocaleId trgLoc = LocaleId.fromString(config.langTarget);
         
         List<Event> eventList = new ArrayList<>();
+        
+        File fixedXliffFile = null;
 
-        try (   
-            XLIFFFilter filter = new XLIFFFilter();
-            RawDocument rawDocument = new RawDocument(config.fileXLIFF.toURI(), "UTF-8", srcLoc, trgLoc)
-            ) {
-    
-            filter.open(rawDocument);
+        try {
+            // Corrige o arquivo XLIFF antes de fazer o parse
+            fixedXliffFile = fixXliffFile(config.fileXLIFF);
             
-
-            while (filter.hasNext()) {
-
-                Event event = filter.next();
-
-                if (!event.isTextUnit()) continue;
-
-                ITextUnit textUnit = event.getTextUnit();
-
-                if (textUnit.getTarget(trgLoc) != null) {
+            try (   
+                XLIFFFilter filter = new XLIFFFilter();
+                RawDocument rawDocument = new RawDocument(fixedXliffFile.toURI(), "UTF-8", srcLoc, trgLoc)
+                ) {
+        
+                filter.open(rawDocument);
                 
-                    eventList.add(event);
-                
+                while (filter.hasNext()) {
+                    Event event = filter.next();
+
+                    if (!event.isTextUnit()) continue;
+
+                    ITextUnit textUnit = event.getTextUnit();
+
+                    if (textUnit.getTarget(trgLoc) != null) {
+                        eventList.add(event);
+                    }
                 }
 
-            
+                filter.close();
             }
-
-            filter.close();
-        } catch (Exception e) {
             
-            System.err.println("Erro ao ler o arquivo XLIFF: " + e.getMessage());
-
+        } catch (Exception e) {
+            System.err.println("Erro na class XliffHandler ao ler o arquivo XLIFF: " + e.getMessage());
+        } finally {
+            // Remove o arquivo temporário corrigido
+            if (fixedXliffFile != null && fixedXliffFile.exists() && !fixedXliffFile.equals(config.fileXLIFF)) {
+                fixedXliffFile.delete();
+            }
         }
 
         return eventList;
+    }
+    
+    /**
+     * Corrige os '&' que não são parte de entidades XML válidas no arquivo XLIFF
+     */
+    private static File fixXliffFile(File originalFile) throws Exception {
+        // Lê o conteúdo do arquivo
+        String xliffContent = Files.readString(originalFile.toPath());
+        
+        // Corrige os '&' inválidos
+        String fixedContent = fixInvalidAmpersands(xliffContent);
+        
+        // Se não houve mudanças, retorna o arquivo original
+        if (fixedContent.equals(xliffContent)) {
+            return originalFile;
+        }
+        
+        // Cria um arquivo temporário com o conteúdo corrigido
+        File tempFile = File.createTempFile("xliff_fixed_", ".xlf");
+        Files.writeString(tempFile.toPath(), fixedContent);
+        
+        return tempFile;
+    }
+    
+    /**
+     * Corrige os '&' que não são parte de entidades XML válidas
+     * Entidades válidas: &lt; &gt; &amp; &quot; &apos; &#decimal; &#xhex;
+     */
+    private static String fixInvalidAmpersands(String xml) {
+        // Pattern para identificar '&' seguido de algo que NÃO é uma entidade válida
+        Pattern pattern = Pattern.compile("&(?!(lt|gt|amp|quot|apos|#\\d+|#x[0-9a-fA-F]+);)");
+        
+        Matcher matcher = pattern.matcher(xml);
+        StringBuffer result = new StringBuffer();
+        
+        while (matcher.find()) {
+            // Substitui '&' inválido por '&amp;'
+            matcher.appendReplacement(result, "&amp;");
+        }
+        matcher.appendTail(result);
+        
+        return result.toString();
     }
 }

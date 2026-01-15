@@ -33,8 +33,8 @@ public class DocxHandler {
             ) {
             config.filter.open(rawDocument);
 
-            if (config.param) {
-                configFilter(config.filter, "src" + File.separator + "main" + File.separator + "resource" + File.separator + "p.fprm");
+            if (config.param && config.filePathParams != null) {
+                configFilter(config.filter, config.filePathParams);
             }
 
             while (config.filter.hasNext()) {
@@ -46,13 +46,17 @@ public class DocxHandler {
 
                     TextContainer sourceContainer = textUnit.getSource();
 
-                    ISegmenter segmenter = getSegmenter("src" + File.separator + "main" + File.separator + "resource" + File.separator + "p.srx");
+                    if (config.filePathSegmentRules != null) {
+                        ISegmenter segmenter = getSegmenter(config.filePathSegmentRules, srcLoc);
 
-                    segmenter.computeSegments(sourceContainer);
+                        if (segmenter != null) {
+                            segmenter.computeSegments(sourceContainer);
 
-                    sourceContainer.getSegments().create(segmenter.getRanges());
+                            sourceContainer.getSegments().create(segmenter.getRanges());
 
-                    textUnit.setSource(sourceContainer);
+                            textUnit.setSource(sourceContainer);
+                        }
+                    }
 
                 }
 
@@ -67,7 +71,7 @@ public class DocxHandler {
         return eventList;
     }
 
-    private void configFilter(IFilter filter, String filePath) {
+    private static void configFilter(IFilter filter, String filePath) {
         File paramFile = new File(filePath);
         System.out.println("Caminho do arquivo de parâmetros: " + paramFile.getPath());
         if (!paramFile.exists()) {
@@ -91,9 +95,15 @@ public class DocxHandler {
         }
     }
 
-    private ISegmenter getSegmenter(String filePath) {
+    private ISegmenter getSegmenter(String filePath, LocaleId locale) {
         
         try {
+            File srxFile = new File(filePath);
+            if (!srxFile.exists()) {
+                System.out.println("Arquivo SRX não encontrado: " + srxFile.getAbsolutePath());
+                return null;
+            }
+            
             SRXDocument doc = new SRXDocument();
         
             doc.loadRules(filePath);
@@ -103,36 +113,60 @@ public class DocxHandler {
                 return null;
             }
 
-            ISegmenter segmenter = doc.compileLanguageRules(LocaleId.fromString("pt-BR"), null);
-
+            ISegmenter segmenter = doc.compileLanguageRules(locale, null);
 
             return segmenter;
         } catch (Exception e) {
-
+            System.err.println("Erro ao carregar regras de segmentação: " + e.getMessage());
             return null;
         }
 
     }
 
     public static void saveDocx(List<Event> eventList, FileProcessorConfig config) {
+        LocaleId srcLoc = LocaleId.fromString(config.langSource);
         LocaleId trgLoc = LocaleId.fromString(config.langTarget);
-        try (IFilterWriter writer = config.filter.createFilterWriter();) {
-            
-            writer.setOutput(config.filePathOutput);
-            
-            writer.setOptions(trgLoc, "UTF-8");
-            
-            System.out.println("Pelo menos aqui chega");
+        
+        if (config.file == null) {
+            System.err.println("Erro: Arquivo DOCX original não foi definido para salvar");
+            return;
+        }
 
-            for (Event event : eventList) {
-                // Recria o evento no filtro
-                writer.handleEvent(event);
+        try (
+            RawDocument rawDocument = new RawDocument(config.file.toURI(), "UTF-8", srcLoc, trgLoc)
+        ) {
+            // Abre o filtro com o documento original para preservar a estrutura
+            config.filter.open(rawDocument);
+            
+            // Aplica os parâmetros do filtro se necessário
+            if (config.param && config.filePathParams != null) {
+                configFilter(config.filter, config.filePathParams);
             }
+            
+            // Cria o writer após o filtro estar aberto e configurado
+            try (IFilterWriter writer = config.filter.createFilterWriter()) {
+                
+                writer.setOutput(config.filePathOutput);
+                
+                writer.setOptions(trgLoc, "UTF-8");
+                
+                System.out.println("Salvando arquivo DOCX em: " + config.filePathOutput);
 
-            writer.close();
+                // Processa todos os eventos na ordem correta
+                for (Event event : eventList) {
+
+                    writer.handleEvent(event);
+                    
+                }
+
+                writer.close();
+            }
+            
+            config.filter.close();
 
         } catch (Exception e) {
-            System.err.println("Erro ao salvar o arquivo XLIFF: " + e.getMessage());
+            System.err.println("Erro ao salvar o arquivo DOCX: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 }
