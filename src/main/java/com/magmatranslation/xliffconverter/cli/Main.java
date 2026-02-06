@@ -1,17 +1,25 @@
 package com.magmatranslation.xliffconverter.cli;
-
 import java.io.File;
+
+import java.net.MalformedURLException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.UUID;
+
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.UrlResource;
 
 import com.magmatranslation.xliffconverter.config.AppConfig;
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.Base64Handler;
+import com.magmatranslation.xliffconverter.core.DocumentXmlProcessor;
 import com.magmatranslation.xliffconverter.core.ExtractionResult;
 import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.core.XmlHandler;
 import com.magmatranslation.xliffconverter.io.DocxHandler;
 import com.magmatranslation.xliffconverter.io.XliffHandler;
+import com.magmatranslation.xliffconverter.utils.WrapperConfigProcessor;
 
 import net.sf.okapi.common.Event;
 import net.sf.okapi.common.filters.IFilter;
@@ -19,68 +27,132 @@ import net.sf.okapi.filters.openxml.OpenXMLFilter;
 
 public class Main 
 {
-    public static void main( String[] args )
-    {
-        AppConfig config = new AppConfig(args);
+    static public WrapperConfigProcessor configProcessor(String[] customArgs, IFilter filter, boolean isXliff) {
+
+        AppConfig config = new AppConfig(customArgs);
+			
+        File file = new File(config.getFilePath());
+
+        FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, isXliff ? null : file, true, isXliff ? file : null);
 
         FileReaderWithOkapi fileReader = new FileReaderWithOkapi();
 
+        return new WrapperConfigProcessor(fileProcessorConfig, fileReader);
+
+    }
+
+    static public Resource createXLIFF(String[] customArgs) {
+
+        
+        try (IFilter filter = new OpenXMLFilter()){
+            
+            //-----------------------------------------------------------------------------------------------
+            // Configurando a class FileProcessorConfig que servira para centralizar  as informações
+
+            WrapperConfigProcessor wrapperConfigProcessor = Main.configProcessor(customArgs, filter, false);
+
+            FileProcessorConfig fileProcessorConfig = wrapperConfigProcessor.getFileProcessorConfig();
+            
+            FileReaderWithOkapi fileReader = wrapperConfigProcessor.getFileReader();
+
+            //-----------------------------------------------------------------------------------------------
+            // Extrair os eventos do arquivo
+
+			ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
+
+			List<Event> eventsFile = result.getEvents();
+
+            //-----------------------------------------------------------------------------------------------
+            // Criar o arquivo XLIFF
+
+			XliffHandler xliffHandler = new XliffHandler();
+                    
+            String pathXLIFF = xliffHandler.createXLIFF(fileProcessorConfig, eventsFile);
+
+			Path XLIFFToSend = Paths.get(pathXLIFF);
+			
+            //-----------------------------------------------------------------------------------------------
+            // Retornar o arquivo XLIFF
+            
+			Resource resource;
+            
+			try {
+				resource = new UrlResource(XLIFFToSend.toUri());
+			
+			} catch (MalformedURLException e) {
+
+				throw new RuntimeException("Invalid file path for XLIFF resource", e);
+			}
+
+            return resource;
+
+		}
+
+    }
+
+    //Criar uma forma de unificar o metodo de criar o xliff para lidar com todos os tipos de arquivos
+    //Falta criar uma forma de salvar o arquivo
+    static public Resource translateFileWithXLIFF(String[] customArgs, String filePath, boolean reduceFont) {
         try (IFilter filter = new OpenXMLFilter()){
 
-            File file = new File(config.getFilePath());
+            //-----------------------------------------------------------------------------------------------
+            // Configurando a class FileProcessorConfig que servira para centralizar  as informações
+
+            WrapperConfigProcessor wrapperConfigProcessor = Main.configProcessor(customArgs, filter, true);
+
+            FileProcessorConfig fileProcessorConfig = wrapperConfigProcessor.getFileProcessorConfig();
             
-            boolean param = true;
+            FileReaderWithOkapi fileReader = wrapperConfigProcessor.getFileReader();
 
-            //Configura os parametros, para não ficar linhas grandes com uns 6 parâmetros
+            //-----------------------------------------------------------------------------------------------
+            // Lendo o arquivo XLIFF e extraindo o conteudo base64 e o nome do arquivo original
+
+            XmlHandler xmlHandler = new XmlHandler(fileProcessorConfig.fileXLIFF.getAbsolutePath()); //necessario para poder ler o arquivo XLIFF e remover caracteres que geram bugs
+
+            String base64 = xmlHandler.extractContentByTag("//internal-file");
             
-            switch (config.getAction()) {
+            String fileName = xmlHandler.extractContentByTag("//file/@original");
+
+            File originalFile = Base64Handler.createFileFromBase64(base64, "document/files/" + UUID.randomUUID().toString() + fileName);
+
+            fileProcessorConfig.file = originalFile;
+
+            //-----------------------------------------------------------------------------------------------
+            // Extraindo os eventos do arquivo arquivo original
+
+            ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig, reduceFont);
+
+            List<Event> eventsFile = result.getEvents();
+            
+            String jsonFileName = result.getJsonFileName();
+
+            DocxHandler.saveDocx(eventsFile, fileProcessorConfig);
+
+            Path FileToSend = Paths.get(fileProcessorConfig.filePathOutput);
+
+            System.out.println("Caminho do arquivo:" + FileToSend);
+            
+            if (reduceFont && jsonFileName != null) {
+
+                String jsonFilePath = "document/json/" + jsonFileName;
                 
-                case "CREATEFILEXLIFF" ->  {
-                    
-                    FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, file, param, null);
-
-                    ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
-                    List<Event> events = result.getEvents();
-                    
-                    XliffHandler xliffHandler = new XliffHandler();
-                    
-                    xliffHandler.createXLIFF(fileProcessorConfig, events);
-
-                }
-                
-                case "TRANSLATEFILE" ->  {
-
-                    FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, null, param, file);
-
-                    fileProcessorConfig.param = false;
-
-                    XmlHandler xmlHandler = new XmlHandler(fileProcessorConfig.fileXLIFF.getAbsolutePath());
-
-                    String base64 = xmlHandler.extractContentByTag("//internal-file");
-
-                    String fileName = xmlHandler.extractContentByTag("//file/@original");
-
-                    File originalFile = Base64Handler.createFileFromBase64(base64, "document/docx/" + UUID.randomUUID().toString() + fileName);
-
-                    fileProcessorConfig.file = originalFile;
-
-                    ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
-                    List<Event> events = result.getEvents();
-
-                    DocxHandler.saveDocx(events, fileProcessorConfig);
-
-                    System.out.println(events);
-
-
-                }
+                DocumentXmlProcessor processor = new DocumentXmlProcessor(jsonFilePath, FileToSend.toString());
+            
+                processor.process();
+            
             }
+			
+			Resource resource;
+			try {
+				resource = new UrlResource(FileToSend.toUri());
+			
+			} catch (MalformedURLException e) {
 
-        } catch (Exception e) {
-            
-            System.err.println("Error initializing OpenXMLFilter: " + e.getMessage());
-        
-        }
-        
-        
+				throw new RuntimeException("Invalid file path for XLIFF resource", e);
+			}
+
+            return resource;
+		}
     }
+
 }

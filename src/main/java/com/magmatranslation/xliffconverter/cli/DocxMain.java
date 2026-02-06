@@ -19,6 +19,7 @@ import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.core.XmlHandler;
 import com.magmatranslation.xliffconverter.io.DocxHandler;
 import com.magmatranslation.xliffconverter.io.XliffHandler;
+import com.magmatranslation.xliffconverter.utils.WrapperConfigProcessor;
 
 import net.sf.okapi.common.Event;
 import net.sf.okapi.common.filters.IFilter;
@@ -28,18 +29,27 @@ public class DocxMain {
     
     static public Resource createXLIFF(String[] customArgs) {
 
-        AppConfig config = new AppConfig(customArgs);
+        
+        try (IFilter filter = new OpenXMLFilter()){
+            
+            //-----------------------------------------------------------------------------------------------
+            // Configurando a class FileProcessorConfig que servira para centralizar  as informações
 
-		try (IFilter filter = new OpenXMLFilter()){
+            WrapperConfigProcessor wrapperConfigProcessor = Main.configProcessor(customArgs, filter, false);
 
-			File fileDocx = new File(config.getFilePath());
+            FileProcessorConfig fileProcessorConfig = wrapperConfigProcessor.getFileProcessorConfig();
+            
+            FileReaderWithOkapi fileReader = wrapperConfigProcessor.getFileReader();
 
-			FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, fileDocx, true, null);
-
-			FileReaderWithOkapi fileReader = new FileReaderWithOkapi();
+            //-----------------------------------------------------------------------------------------------
+            // Extrair os eventos do arquivo
 
 			ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
+
 			List<Event> eventsDocx = result.getEvents();
+
+            //-----------------------------------------------------------------------------------------------
+            // Criar o arquivo XLIFF
 
 			XliffHandler xliffHandler = new XliffHandler();
                     
@@ -47,7 +57,11 @@ public class DocxMain {
 
 			Path XLIFFToSend = Paths.get(pathXLIFF);
 			
+            //-----------------------------------------------------------------------------------------------
+            // Retornar o arquivo XLIFF
+            
 			Resource resource;
+            
 			try {
 				resource = new UrlResource(XLIFFToSend.toUri());
 			
@@ -64,36 +78,38 @@ public class DocxMain {
     }
 
     static public Resource translateDocxWithXLIFF(String[] customArgs, String filePath, boolean reduceFont) {
-        System.out.println("O metodo translateDocxWithXLIFF foi chamado");
-		System.out.println(customArgs[0]);
-        System.out.println("Redução de fonte: " + reduceFont);
         
-        AppConfig config = new AppConfig(customArgs);
-        System.out.println(config.getTypeFile());
-
 		try (IFilter filter = new OpenXMLFilter()){
-        
-			File fileXLIFF = new File(filePath);
-        
-            // Define param como true para aplicar os parâmetros do filtro ao salvar
-            FileProcessorConfig fileProcessorConfig = new FileProcessorConfig(config, filter, null, true, fileXLIFF);
 
-			FileReaderWithOkapi fileReader = new FileReaderWithOkapi();
+            //-----------------------------------------------------------------------------------------------
+            // Configurando a class FileProcessorConfig que servira para centralizar  as informações
 
-            XmlHandler xmlHandler = new XmlHandler(fileProcessorConfig.fileXLIFF.getAbsolutePath());
+            WrapperConfigProcessor wrapperConfigProcessor = Main.configProcessor(customArgs, filter, true);
+
+            FileProcessorConfig fileProcessorConfig = wrapperConfigProcessor.getFileProcessorConfig();
+            
+            FileReaderWithOkapi fileReader = wrapperConfigProcessor.getFileReader();
+
+            //-----------------------------------------------------------------------------------------------
+            // Lendo o arquivo XLIFF e extraindo o conteudo base64 e o nome do arquivo original
+
+            XmlHandler xmlHandler = new XmlHandler(fileProcessorConfig.fileXLIFF.getAbsolutePath()); //necessario para poder ler o arquivo XLIFF e remover caracteres que geram bugs
 
             String base64 = xmlHandler.extractContentByTag("//internal-file");
-
-            System.out.println("base64: extraido com sucesso");
-
+            
             String fileName = xmlHandler.extractContentByTag("//file/@original");
 
             File originalFile = Base64Handler.createFileFromBase64(base64, "document/docx/" + UUID.randomUUID().toString() + fileName);
 
             fileProcessorConfig.file = originalFile;
 
+            //-----------------------------------------------------------------------------------------------
+            // Extraindo os eventos do arquivo DOCX
+
             ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig, reduceFont);
+
             List<Event> eventsDocx = result.getEvents();
+            
             String jsonFileName = result.getJsonFileName();
 
             DocxHandler.saveDocx(eventsDocx, fileProcessorConfig);
@@ -101,7 +117,7 @@ public class DocxMain {
             Path DocxToSend = Paths.get(fileProcessorConfig.filePathOutput);
 
             System.out.println("DocxToSend: " + DocxToSend);
-            // Processa o document.xml para remover os IDs e ajustar fontes (se reduceFont = true)
+            
             if (reduceFont && jsonFileName != null) {
                 String jsonFilePath = "document/json/" + jsonFileName;
                 DocumentXmlProcessor processor = new DocumentXmlProcessor(jsonFilePath, DocxToSend.toString());

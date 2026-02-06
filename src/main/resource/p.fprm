@@ -6,7 +6,7 @@ bPreferenceTranslatePowerpointMasters.b=false
 bPreferenceIgnorePlaceholdersInPowerpointMasters.b=false
 bPreferenceTranslateWordHeadersFooters.b=true
 bPreferenceTranslateWordHidden.b=false
-bPreferenceTranslateWordExcludeGraphicMetaData.b=true
+bPreferenceTranslateWordExcludeGraphicMetaData.b=false
 bPreferenceTranslatePowerpointHidden.b=false
 bPreferenceTranslateExcelHidden.b=false
 bPreferenceTranslateExcelExcludeColors.b=false
@@ -28,11 +28,104 @@ bInExcludeHighlightMode.b=true
 bPreferenceTranslateWordExcludeColors.b=false
 bReorderPowerpointNotesAndComments.b=false
 outputSegmentationType.i=3
-tsComplexFieldDefinitionsToExtract.i=1
+tsComplexFieldDefinitionsToExtract.i=5
 cfd0=HYPERLINK
+cfd1=REF
+cfd2=PAGEREF
+cfd3=TOC
+cfd4=CITATION
 tsExcelExcludedColors.i=0
 tsExcelExcludedColumns.i=0
 tsExcludeWordStyles.i=0
 tsWordHighlightColors.i=0
 tsWordExcludedColors.i=0
 tsPowerpointIncludedSlideNumbers.i=0
+# ========================================
+# CONFIGURAÇÕES ADICIONAIS PARA DOCX
+# Adicionadas para melhor suporte profissional
+# ========================================
+# TextBoxes e Formas (Shapes)
+bPreferenceTranslateWordTextBoxes.b=true
+bPreferenceTranslateWordArtText.b=true
+bPreferenceTranslateWordShapes.b=true
+# SmartArt
+bPreferenceTranslateSmartArt.b=true
+# Gráficos e Diagramas
+bPreferenceTranslateWordCharts.b=true
+bPreferenceTranslateWordDiagramData.b=true
+# Track Changes (Controle de Alterações)
+bPreferenceTranslateInsertedText.b=true
+bPreferenceTranslateDeletedText.b=false
+bPreferenceTranslateMovedText.b=true
+# Notas de Rodapé e Notas de Fim
+bPreferenceTranslateWordFootnotes.b=true
+bPreferenceTranslateWordEndnotes.b=true
+# Caixas de Texto em PowerPoint
+bPreferenceTranslatePowerpointTextBoxes.b=true
+bPreferenceTranslatePowerpointShapes.b=true
+# Opções de Espaçamento e Formatação
+bPreferencePreserveSpacing.b=true
+bPreferenceConvertLineBreakToCode.b=false
+bPreferenceConvertTabToCode.b=false
+# Tabelas no Word
+bPreferenceTranslateWordTableCells.b=true
+bPreferenceTranslateWordTableHeaders.b=true
+# Hiperlinks e Campos Complexos
+# NOTA: O Okapi preserva hyperlinks através de códigos inline
+# Os campos complexos HYPERLINK, REF, PAGEREF são extraídos via tsComplexFieldDefinitionsToExtract
+# Configurações experimentais (podem não funcionar em todas versões):
+bPreferenceExtractHyperlinkText.b=true
+bPreferenceTranslateHyperlinkURLs.b=false
+bPreferenceExtractHyperlinkToolTips.b=true
+# IMPORTANTE: A preservação real depende do roundtrip do filtro OpenXML
+# Se os links estão sendo perdidos, o problema está no roundtrip, não na extração
+# Estilos Personalizados
+bPreferenceTranslateCustomXMLMarkup.b=false
+bPreferenceTranslateContentControls.b=true
+# PowerPoint Avançado
+bPreferenceTranslatePowerpointSlideLayouts.b=false
+bPreferenceTranslatePowerpointAnimations.b=false
+bPreferenceTranslatePowerpointTransitions.b=false
+bPreferenceTranslatePowerpointCharts.b=true
+# Excel Avançado
+bPreferenceTranslateExcelComments.b=true
+bPreferenceTranslateExcelHeadersFooters.b=true
+bPreferenceTranslateExcelCharts.b=true
+bPreferenceTranslateExcelTextBoxes.b=true
+bPreferenceTranslateExcelShapes.b=true
+bPreferenceTranslateExcelSmartArt.b=true
+# Opções de Proteção
+bPreferenceIgnoreProtectedSections.b=false
+bPreferenceTranslateProtectedContent.b=true
+# Opções de Qualidade
+bPreferenceStrictXMLValidation.b=false
+bPreferencePreserveOriginalFormatting.b=true
+bPreferenceOptimizeForTranslation.b=true
+# Opções de Caracteres Especiais
+bPreferenceConvertSymbolsToText.b=false
+bPreferencePreserveSpecialCharacters.b=true
+bPreferenceHandleEmojis.b=true
+# Opções de Numeração e Bullets
+bPreferenceTranslateListNumbers.b=false
+bPreferencePreserveListFormatting.b=true
+# Opções de Imagens
+bPreferenceExtractImageAltText.b=true
+bPreferenceTranslateImageCaptions.b=true
+bPreferenceExtractImageTitles.b=true
+bPreferencePreserveInlineImages.b=true
+bPreferencePreserveAnchoredImages.b=true
+bPreferencePreserveImageReferences.b=true
+bPreferencePreserveImageFormatting.b=true
+bPreferencePreserveImageSize.b=true
+bPreferencePreserveImagePosition.b=true
+bPreferencePreserveImageWrap.b=true
+bPreferenceTranslateImageMetadata.b=false
+bPreferencePreserveDrawingMLObjects.b=true
+# Opções de Macros e Scripts
+bPreferenceTranslateMacros.b=false
+bPreferenceIgnoreMacroText.b=true
+# Opções de Metadados Estendidos
+bPreferenceExtractAuthorInfo.b=false
+bPreferenceExtractCustomProperties.b=false
+bPreferenceTranslateSubjectField.b=false
+bPreferenceTranslateTitleField.b=false

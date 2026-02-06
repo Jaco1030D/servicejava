@@ -83,10 +83,11 @@ public class DocxController {
     @PostMapping("/docx/translate")
     public ResponseEntity<Resource> translateDocxWithXLIFF(
         @RequestParam("file") MultipartFile file,
-        @RequestParam(value = "reduceFont", defaultValue = "true") boolean reduceFont,
+        // @RequestParam(value = "reduceFont", defaultValue = "true") boolean reduceFont,
 	    CreateXliffFromDocx events
     ) {
 
+		boolean reduceFont = events.getReduceFont();
         System.out.println(events.getLangTarget());
         System.out.println("Redução de fonte ativada: " + reduceFont);
 

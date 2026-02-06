@@ -10,187 +10,187 @@
 <trans-unit id="P244D057-tu1" xml:space="preserve">
 <source xml:lang="pt-BR">Criando nova oportunidade</source>
 <seg-source><mrk mid="0" mtype="seg">Criando nova oportunidade</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Creating new opportunity</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu2" xml:space="preserve">
 <source xml:lang="pt-BR">Por que devemos criar nova oportunidade?</source>
 <seg-source><mrk mid="0" mtype="seg">Por que devemos criar nova oportunidade?</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Why should we create new opportunities?</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu3" xml:space="preserve">
 <source xml:lang="pt-BR">A outra opção que temos é oferecer uma melhora de algum produto existente, eis alguns exemplos:</source>
 <seg-source><mrk mid="0" mtype="seg">A outra opção que temos é oferecer uma melhora de algum produto existente, eis alguns exemplos:</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">The other option we have is to offer an improvement of an existing product, here are some examples:</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu4" xml:space="preserve">
 <source xml:lang="pt-BR">Melhor gestão de trafego</source>
 <seg-source><mrk mid="0" mtype="seg">Melhor gestão de trafego</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Better traffic management</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu5" xml:space="preserve">
 <source xml:lang="pt-BR">Melhor social media</source>
 <seg-source><mrk mid="0" mtype="seg">Melhor social media</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Best social media</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu6" xml:space="preserve">
 <source xml:lang="pt-BR">Melhor designer</source>
 <seg-source><mrk mid="0" mtype="seg">Melhor designer</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Best designer</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu7" xml:space="preserve">
 <source xml:lang="pt-BR">Melhor dentista</source>
 <seg-source><mrk mid="0" mtype="seg">Melhor dentista</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Best dentist</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu8" xml:space="preserve">
 <source xml:lang="pt-BR">Melhor medico</source>
 <seg-source><mrk mid="0" mtype="seg">Melhor medico</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Best doctor</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu9" xml:space="preserve">
 <source xml:lang="pt-BR"><x id="1"/>O problema disso é 2:<x id="2"/>1. Briga por preço baixo.<x id="3"/>Quando existem diversos profissionais oferecendo um serviço ou produto tendemos a escolher o preço mais baixo, com isso acabamos entrando numa briga perigosa: cada vez diminuirmos mais e mais nossa margem de lucro.</source>
 <seg-source><mrk mid="0" mtype="seg"><x id="1"/>O problema disso é 2:<x id="2"/>1.</mrk><mrk mid="1" mtype="seg"> Briga por preço baixo.<x id="3"/>Quando existem diversos profissionais oferecendo um serviço ou produto tendemos a escolher o preço mais baixo, com isso acabamos entrando numa briga perigosa: cada vez diminuirmos mais e mais nossa margem de lucro.</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">The problem with this is 2:1.</mrk><mrk mid="1" mtype="seg">Price war. When there are many professionals offering a service or product, we tend to choose the lowest price, leading us into a dangerous fight: we keep reducing our profit margin more and more.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu10" xml:space="preserve">
 <source xml:lang="pt-BR">“Se não pode ser o mais barato, seja o mais caro”</source>
 <seg-source><mrk mid="0" mtype="seg">“Se não pode ser o mais barato, seja o mais caro”</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">"If you can't be the cheapest, be the most expensive."</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu11" xml:space="preserve">
 <source xml:lang="pt-BR">2. Ego da pessoa:</source>
 <seg-source><mrk mid="0" mtype="seg">2.</mrk><mrk mid="1" mtype="seg"> Ego da pessoa:</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">2.</mrk><mrk mid="1" mtype="seg">The person's ego:</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu12" xml:space="preserve">
 <source xml:lang="pt-BR">Essa pessoa já tentou outra solução, se você esta somente oferecendo uma melhoria significa que ela foi incompetente por não conseguir usar sem sua melhoria, isso fere o ego, péssimo começo</source>
 <seg-source><mrk mid="0" mtype="seg">Essa pessoa já tentou outra solução, se você esta somente oferecendo uma melhoria significa que ela foi incompetente por não conseguir usar sem sua melhoria, isso fere o ego, péssimo começo</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">This person has already tried another solution; if you are only offering an improvement, it means they were incompetent for not being able to use it without your improvement, that hurts the ego, a terrible start.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu13" xml:space="preserve">
 <source xml:lang="pt-BR">“As pessoas gostam de quem justifica seus erros, acalma seus medos, apoia seus sonhos, confirma suspeitas e atacam seus inimigos”</source>
 <seg-source><mrk mid="0" mtype="seg">“As pessoas gostam de quem justifica seus erros, acalma seus medos, apoia seus sonhos, confirma suspeitas e atacam seus inimigos”</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">"People like those who justify their mistakes, calm their fears, support their dreams, confirm suspicions, and attack their enemies."</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu14" xml:space="preserve">
 <source xml:lang="pt-BR">Já sabemos porque não podemos melhorar, agora vamos saber por que devemos criar:<x id="1"/>Como dito acima as pessoas valorizam seu proprio ego, mesmo que indiretamente, se as pessoas fossem bondosas e pensassem no bem social acima de tudo Jesus não precisaria ter vindo.</source>
 <seg-source><mrk mid="0" mtype="seg">Já sabemos porque não podemos melhorar, agora vamos saber por que devemos criar:<x id="1"/>Como dito acima as pessoas valorizam seu proprio ego, mesmo que indiretamente, se as pessoas fossem bondosas e pensassem no bem social acima de tudo Jesus não precisaria ter vindo.</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">We already know why we cannot improve, now we will understand why we must create: As mentioned above, people value their own ego, even if indirectly. If people were kind and thought of the greater good above all, Jesus would not have needed to come.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu15" xml:space="preserve">
 <source xml:lang="pt-BR">Vamos continuar se baseando no ego, mas mudando a conjectura com o qual o empregamos, vamos trabalhar com seu braço auxiliar: status, essa é a chave de tudo para conseguirmos criar novas oportunidades:</source>
 <seg-source><mrk mid="0" mtype="seg">Vamos continuar se baseando no ego, mas mudando a conjectura com o qual o empregamos, vamos trabalhar com seu braço auxiliar: status, essa é a chave de tudo para conseguirmos criar novas oportunidades:</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Let's continue to base ourselves on the ego, but change the conjecture with which we employ it; let's work with its auxiliary arm: status, this is the key to everything in order to create new opportunities.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu16" xml:space="preserve">
 <source xml:lang="pt-BR">Cacau show não vende chocolate, vende presentes selecionados para a pessoa amada, dar algo caro para quem ama aumenta seus status</source>
 <seg-source><mrk mid="0" mtype="seg">Cacau show não vende chocolate, vende presentes selecionados para a pessoa amada, dar algo caro para quem ama aumenta seus status</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Cacau Show does not sell chocolate, it sells selected gifts for a loved one; giving something expensive to someone you love increases your status.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu17" xml:space="preserve">
 <source xml:lang="pt-BR">Ferrari não vende carro, vende um comprovante de sucesso na vida</source>
 <seg-source><mrk mid="0" mtype="seg">Ferrari não vende carro, vende um comprovante de sucesso na vida</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Ferrari doesn't sell cars, it sells a proof of success in life.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu18" xml:space="preserve">
 <source xml:lang="pt-BR">Iphone não vende eletrônicos, vende status</source>
 <seg-source><mrk mid="0" mtype="seg">Iphone não vende eletrônicos, vende status</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">iPhone doesn't sell electronics, it sells status.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu19" xml:space="preserve">
 <source xml:lang="pt-BR"><x id="1"/>Uma nova oportunidade é mais empolgante, veja o caso dá cacau show, e como é novo ela não tem históricos negativos, isso só a impulsiona ainda mais para a sua oferta. Nosso principal objetivo como portadores da nova oportunidade é mostrar que o valor pago é 10 vezes mais barato que o produto oferecido</source>
 <seg-source><mrk mid="0" mtype="seg"><x id="1"/>Uma nova oportunidade é mais empolgante, veja o caso dá cacau show, e como é novo ela não tem históricos negativos, isso só a impulsiona ainda mais para a sua oferta.</mrk><mrk mid="1" mtype="seg"> Nosso principal objetivo como portadores da nova oportunidade é mostrar que o valor pago é 10 vezes mais barato que o produto oferecido</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="1" mtype="seg">Our main goal as carriers of the new opportunity is to show that the price paid is 10 times cheaper than the offered product.</mrk><mrk mid="0" mtype="seg">A new opportunity is more exciting, take the case of Cacau Show, and because it is new, it has no negative history, which only drives it further for its offer.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu20" xml:space="preserve">
 <source xml:lang="pt-BR">Como criar a nova oportunidade:</source>
 <seg-source><mrk mid="0" mtype="seg">Como criar a nova oportunidade:</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">How to create the new opportunity:</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu21" xml:space="preserve">
 <source xml:lang="pt-BR">Identifique o que as pessoas querem ao comprar o seu produto/serviço</source>
 <seg-source><mrk mid="0" mtype="seg">Identifique o que as pessoas querem ao comprar o seu produto/serviço</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Identify what people want when buying your product/service.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu22" xml:space="preserve">
 <source xml:lang="pt-BR">Identifique os seus maiores desejos</source>
 <seg-source><mrk mid="0" mtype="seg">Identifique os seus maiores desejos</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Identify your greatest desires.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu23" xml:space="preserve">
 <source xml:lang="pt-BR">Descubra em qual grande mercado se encaixa</source>
 <seg-source><mrk mid="0" mtype="seg">Descubra em qual grande mercado se encaixa</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Discover which major market fits you.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu24" xml:space="preserve">
 <source xml:lang="pt-BR">Pergunte: Daqui a 3 anos o que tem que ocorrer na vida pessoal e profissional para estar feliz com o progresso?</source>
 <seg-source><mrk mid="0" mtype="seg">Pergunte: Daqui a 3 anos o que tem que ocorrer na vida pessoal e profissional para estar feliz com o progresso?</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Ask: In 3 years, what needs to happen in your personal and professional life to be happy with the progress?</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu25" xml:space="preserve">
 <source xml:lang="pt-BR">Descubra as formas que eles já tentaram usar para ter a solução</source>
 <seg-source><mrk mid="0" mtype="seg">Descubra as formas que eles já tentaram usar para ter a solução</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Discover the ways they have already tried to use to find the solution.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu26" xml:space="preserve">
 <source xml:lang="pt-BR">Descubra porque essa solução fracassou</source>
 <seg-source><mrk mid="0" mtype="seg">Descubra porque essa solução fracassou</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Discover why this solution failed.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu27" xml:space="preserve">
 <source xml:lang="pt-BR">Faça-os trocar de produto</source>
 <seg-source><mrk mid="0" mtype="seg">Faça-os trocar de produto</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Make them exchange the product.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu28" xml:space="preserve">
 <source xml:lang="pt-BR">Mostre o quanto gastam e o pouco retorno que tem</source>
 <seg-source><mrk mid="0" mtype="seg">Mostre o quanto gastam e o pouco retorno que tem</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Show how much they spend and the little return they have.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu29" xml:space="preserve">
 <source xml:lang="pt-BR">Malhe outros produtos</source>
 <seg-source><mrk mid="0" mtype="seg">Malhe outros produtos</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Malhe other products</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu30" xml:space="preserve">
 <source xml:lang="pt-BR">exima-os de culpa</source>
 <seg-source><mrk mid="0" mtype="seg">exima-os de culpa</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">exempt them from guilt</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu31" xml:space="preserve">
 <source xml:lang="pt-BR">Crie funis front-ends focados em fazer a migração de oportunidade</source>
 <seg-source><mrk mid="0" mtype="seg">Crie funis front-ends focados em fazer a migração de oportunidade</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Create front-end funnels focused on migrating opportunities.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu32" xml:space="preserve">
 <source xml:lang="pt-BR">Crie anúncios pensando nessas pessoas</source>
 <seg-source><mrk mid="0" mtype="seg">Crie anúncios pensando nessas pessoas</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Create ads with these people in mind.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu33" xml:space="preserve">
 <source xml:lang="pt-BR">Com isso você fará a pessoa mudar de sub mercado, entenda mais sobre aqui: Link para meu outro artigo</source>
 <seg-source><mrk mid="0" mtype="seg">Com isso você fará a pessoa mudar de sub mercado, entenda mais sobre aqui: Link para meu outro artigo</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">With this, you will make the person change sub-markets, understand more about it here: Link to my other article</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu34" xml:space="preserve">
 <source xml:lang="pt-BR">Melhore sua própria oferta</source>
 <seg-source><mrk mid="0" mtype="seg">Melhore sua própria oferta</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Improve your own offer</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu35" xml:space="preserve">
 <source xml:lang="pt-BR">Conforme você for ajudando a atingirem seus objetivos os valores vão aumentando, escada de valor</source>
 <seg-source><mrk mid="0" mtype="seg">Conforme você for ajudando a atingirem seus objetivos os valores vão aumentando, escada de valor</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">As you help them achieve their goals, the values will increase, a value ladder.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu36" xml:space="preserve">
 <source xml:lang="pt-BR">Sua escada de valor deve ter apenas 1 nova oportunidade, mais que isso as pessoas vão perder a confiança na oportunidade</source>
 <seg-source><mrk mid="0" mtype="seg">Sua escada de valor deve ter apenas 1 nova oportunidade, mais que isso as pessoas vão perder a confiança na oportunidade</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Your value ladder should have only 1 new opportunity; more than that, people will lose trust in the opportunity.</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu37" xml:space="preserve">
 <source xml:lang="pt-BR">Saiba como montar sua escada de valor aqui: Link para outro arquivo</source>
 <seg-source><mrk mid="0" mtype="seg">Saiba como montar sua escada de valor aqui: Link para outro arquivo</mrk></seg-source>
-<target xml:lang="en-US"><mrk mid="0" mtype="seg">Learn how to build your value ladder here: Link to another file</mrk></target>
+<target xml:lang="en-US"></target>
 </trans-unit>
 </body>
 </file>

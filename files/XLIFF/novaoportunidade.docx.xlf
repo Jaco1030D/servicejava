@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="novaoportunidade.docx" source-language="pt-BR" target-language="en-US" datatype="x-docx">
+<header><reference><internal-file form="base64"> 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 </internal-file></reference></header>
+<body>
+</body>
+</file>
+<file original="word/document.xml" source-language="pt-BR" target-language="en-US" datatype="x-undefined">
+<body>
+<trans-unit id="P244D057-tu1" xml:space="preserve">
+<source xml:lang="pt-BR">Criando nova oportunidade</source>
+<seg-source><mrk mid="0" mtype="seg">Criando nova oportunidade</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu2" xml:space="preserve">
+<source xml:lang="pt-BR">Por que devemos criar nova oportunidade?</source>
+<seg-source><mrk mid="0" mtype="seg">Por que devemos criar nova oportunidade?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu3" xml:space="preserve">
+<source xml:lang="pt-BR">A outra opção que temos é oferecer uma melhora de algum produto existente, eis alguns exemplos:</source>
+<seg-source><mrk mid="0" mtype="seg">A outra opção que temos é oferecer uma melhora de algum produto existente, eis alguns exemplos:</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu4" xml:space="preserve">
+<source xml:lang="pt-BR">Melhor gestão de trafego</source>
+<seg-source><mrk mid="0" mtype="seg">Melhor gestão de trafego</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu5" xml:space="preserve">
+<source xml:lang="pt-BR">Melhor social media</source>
+<seg-source><mrk mid="0" mtype="seg">Melhor social media</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu6" xml:space="preserve">
+<source xml:lang="pt-BR">Melhor designer</source>
+<seg-source><mrk mid="0" mtype="seg">Melhor designer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu7" xml:space="preserve">
+<source xml:lang="pt-BR">Melhor dentista</source>
+<seg-source><mrk mid="0" mtype="seg">Melhor dentista</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu8" xml:space="preserve">
+<source xml:lang="pt-BR">Melhor medico</source>
+<seg-source><mrk mid="0" mtype="seg">Melhor medico</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu9" xml:space="preserve">
+<source xml:lang="pt-BR"><x id="1"/>O problema disso é 2:<x id="2"/>1. Briga por preço baixo.<x id="3"/>Quando existem diversos profissionais oferecendo um serviço ou produto tendemos a escolher o preço mais baixo, com isso acabamos entrando numa briga perigosa: cada vez diminuirmos mais e mais nossa margem de lucro.</source>
+<seg-source><mrk mid="0" mtype="seg"><x id="1"/>O problema disso é 2:<x id="2"/>1. Briga por preço baixo.<x id="3"/>Quando existem diversos profissionais oferecendo um serviço ou produto tendemos a escolher o preço mais baixo, com isso acabamos entrando numa briga perigosa: cada vez diminuirmos mais e mais nossa margem de lucro.</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu10" xml:space="preserve">
+<source xml:lang="pt-BR">“Se não pode ser o mais barato, seja o mais caro”</source>
+<seg-source><mrk mid="0" mtype="seg">“Se não pode ser o mais barato, seja o mais caro”</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu11" xml:space="preserve">
+<source xml:lang="pt-BR">2. Ego da pessoa:</source>
+<seg-source><mrk mid="0" mtype="seg">2. Ego da pessoa:</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu12" xml:space="preserve">
+<source xml:lang="pt-BR">Essa pessoa já tentou outra solução, se você esta somente oferecendo uma melhoria significa que ela foi incompetente por não conseguir usar sem sua melhoria, isso fere o ego, péssimo começo</source>
+<seg-source><mrk mid="0" mtype="seg">Essa pessoa já tentou outra solução, se você esta somente oferecendo uma melhoria significa que ela foi incompetente por não conseguir usar sem sua melhoria, isso fere o ego, péssimo começo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu13" xml:space="preserve">
+<source xml:lang="pt-BR">“As pessoas gostam de quem justifica seus erros, acalma seus medos, apoia seus sonhos, confirma suspeitas e atacam seus inimigos”</source>
+<seg-source><mrk mid="0" mtype="seg">“As pessoas gostam de quem justifica seus erros, acalma seus medos, apoia seus sonhos, confirma suspeitas e atacam seus inimigos”</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu14" xml:space="preserve">
+<source xml:lang="pt-BR">Já sabemos porque não podemos melhorar, agora vamos saber por que devemos criar:<x id="1"/>Como dito acima as pessoas valorizam seu proprio ego, mesmo que indiretamente, se as pessoas fossem bondosas e pensassem no bem social acima de tudo Jesus não precisaria ter vindo.</source>
+<seg-source><mrk mid="0" mtype="seg">Já sabemos porque não podemos melhorar, agora vamos saber por que devemos criar:<x id="1"/>Como dito acima as pessoas valorizam seu proprio ego, mesmo que indiretamente, se as pessoas fossem bondosas e pensassem no bem social acima de tudo Jesus não precisaria ter vindo.</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu15" xml:space="preserve">
+<source xml:lang="pt-BR">Vamos continuar se baseando no ego, mas mudando a conjectura com o qual o empregamos, vamos trabalhar com seu braço auxiliar: status, essa é a chave de tudo para conseguirmos criar novas oportunidades:</source>
+<seg-source><mrk mid="0" mtype="seg">Vamos continuar se baseando no ego, mas mudando a conjectura com o qual o empregamos, vamos trabalhar com seu braço auxiliar: status, essa é a chave de tudo para conseguirmos criar novas oportunidades:</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu16" xml:space="preserve">
+<source xml:lang="pt-BR">Cacau show não vende chocolate, vende presentes selecionados para a pessoa amada, dar algo caro para quem ama aumenta seus status</source>
+<seg-source><mrk mid="0" mtype="seg">Cacau show não vende chocolate, vende presentes selecionados para a pessoa amada, dar algo caro para quem ama aumenta seus status</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu17" xml:space="preserve">
+<source xml:lang="pt-BR">Ferrari não vende carro, vende um comprovante de sucesso na vida</source>
+<seg-source><mrk mid="0" mtype="seg">Ferrari não vende carro, vende um comprovante de sucesso na vida</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu18" xml:space="preserve">
+<source xml:lang="pt-BR">Iphone não vende eletrônicos, vende status</source>
+<seg-source><mrk mid="0" mtype="seg">Iphone não vende eletrônicos, vende status</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu19" xml:space="preserve">
+<source xml:lang="pt-BR"><x id="1"/>Uma nova oportunidade é mais empolgante, veja o caso dá cacau show, e como é novo ela não tem históricos negativos, isso só a impulsiona ainda mais para a sua oferta. Nosso principal objetivo como portadores da nova oportunidade é mostrar que o valor pago é 10 vezes mais barato que o produto oferecido</source>
+<seg-source><mrk mid="0" mtype="seg"><x id="1"/>Uma nova oportunidade é mais empolgante, veja o caso dá cacau show, e como é novo ela não tem históricos negativos, isso só a impulsiona ainda mais para a sua oferta. Nosso principal objetivo como portadores da nova oportunidade é mostrar que o valor pago é 10 vezes mais barato que o produto oferecido</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu20" xml:space="preserve">
+<source xml:lang="pt-BR">Como criar a nova oportunidade:</source>
+<seg-source><mrk mid="0" mtype="seg">Como criar a nova oportunidade:</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu21" xml:space="preserve">
+<source xml:lang="pt-BR">Identifique o que as pessoas querem ao comprar o seu produto/serviço</source>
+<seg-source><mrk mid="0" mtype="seg">Identifique o que as pessoas querem ao comprar o seu produto/serviço</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu22" xml:space="preserve">
+<source xml:lang="pt-BR">Identifique os seus maiores desejos</source>
+<seg-source><mrk mid="0" mtype="seg">Identifique os seus maiores desejos</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu23" xml:space="preserve">
+<source xml:lang="pt-BR">Descubra em qual grande mercado se encaixa</source>
+<seg-source><mrk mid="0" mtype="seg">Descubra em qual grande mercado se encaixa</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu24" xml:space="preserve">
+<source xml:lang="pt-BR">Pergunte: Daqui a 3 anos o que tem que ocorrer na vida pessoal e profissional para estar feliz com o progresso?</source>
+<seg-source><mrk mid="0" mtype="seg">Pergunte: Daqui a 3 anos o que tem que ocorrer na vida pessoal e profissional para estar feliz com o progresso?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu25" xml:space="preserve">
+<source xml:lang="pt-BR">Descubra as formas que eles já tentaram usar para ter a solução</source>
+<seg-source><mrk mid="0" mtype="seg">Descubra as formas que eles já tentaram usar para ter a solução</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu26" xml:space="preserve">
+<source xml:lang="pt-BR">Descubra porque essa solução fracassou</source>
+<seg-source><mrk mid="0" mtype="seg">Descubra porque essa solução fracassou</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu27" xml:space="preserve">
+<source xml:lang="pt-BR">Faça-os trocar de produto</source>
+<seg-source><mrk mid="0" mtype="seg">Faça-os trocar de produto</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu28" xml:space="preserve">
+<source xml:lang="pt-BR">Mostre o quanto gastam e o pouco retorno que tem</source>
+<seg-source><mrk mid="0" mtype="seg">Mostre o quanto gastam e o pouco retorno que tem</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu29" xml:space="preserve">
+<source xml:lang="pt-BR">Malhe outros produtos</source>
+<seg-source><mrk mid="0" mtype="seg">Malhe outros produtos</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu30" xml:space="preserve">
+<source xml:lang="pt-BR">exima-os de culpa</source>
+<seg-source><mrk mid="0" mtype="seg">exima-os de culpa</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu31" xml:space="preserve">
+<source xml:lang="pt-BR">Crie funis front-ends focados em fazer a migração de oportunidade</source>
+<seg-source><mrk mid="0" mtype="seg">Crie funis front-ends focados em fazer a migração de oportunidade</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu32" xml:space="preserve">
+<source xml:lang="pt-BR">Crie anúncios pensando nessas pessoas</source>
+<seg-source><mrk mid="0" mtype="seg">Crie anúncios pensando nessas pessoas</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu33" xml:space="preserve">
+<source xml:lang="pt-BR">Com isso você fará a pessoa mudar de sub mercado, entenda mais sobre aqui: Link para meu outro artigo</source>
+<seg-source><mrk mid="0" mtype="seg">Com isso você fará a pessoa mudar de sub mercado, entenda mais sobre aqui: Link para meu outro artigo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu34" xml:space="preserve">
+<source xml:lang="pt-BR">Melhore sua própria oferta</source>
+<seg-source><mrk mid="0" mtype="seg">Melhore sua própria oferta</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu35" xml:space="preserve">
+<source xml:lang="pt-BR">Conforme você for ajudando a atingirem seus objetivos os valores vão aumentando, escada de valor</source>
+<seg-source><mrk mid="0" mtype="seg">Conforme você for ajudando a atingirem seus objetivos os valores vão aumentando, escada de valor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu36" xml:space="preserve">
+<source xml:lang="pt-BR">Sua escada de valor deve ter apenas 1 nova oportunidade, mais que isso as pessoas vão perder a confiança na oportunidade</source>
+<seg-source><mrk mid="0" mtype="seg">Sua escada de valor deve ter apenas 1 nova oportunidade, mais que isso as pessoas vão perder a confiança na oportunidade</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu37" xml:space="preserve">
+<source xml:lang="pt-BR">Saiba como montar sua escada de valor aqui: Link para outro arquivo</source>
+<seg-source><mrk mid="0" mtype="seg">Saiba como montar sua escada de valor aqui: Link para outro arquivo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

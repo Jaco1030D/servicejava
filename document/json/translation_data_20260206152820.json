@@ -1,0 +1,261 @@
+[ {
+  "id" : "P244D057-tu1",
+  "source" : "2024 DECISION GUIDE\t6",
+  "target" : "2024 GUIA DE DECISÃO 6"
+}, {
+  "id" : "P244D057-tu2",
+  "source" : "SPOUSAL SURCHARGE",
+  "target" : "TAXA ADICIONAL PARA CÔNJUGE"
+}, {
+  "id" : "P244D057-tu3",
+  "source" : "If you enroll in a ZF medical plan, you have the option to add your legal spouse to coverage. If your spouse has medical coverage available through their employer, but does not enroll in it and is only covered by one of ZF’s medical plans, the spousal surcharge will apply.",
+  "target" : "Se você se inscrever em um plano de saúde da ZF, tem a opção de adicionar seu cônjuge legal à cobertura. Se seu cônjuge tiver cobertura médica disponível através de seu empregador, mas não se inscrever nela e estiver coberto apenas por um dos planos de saúde da ZF, a taxa adicional para cônjuges será aplicada."
+}, {
+  "id" : "P244D057-tu4",
+  "source" : "The surcharge will be deducted in the following amounts based on your pay schedule:",
+  "target" : "A sobretaxa será deduzida nos seguintes valores com base na sua programação de pagamento:"
+}, {
+  "id" : "P244D057-tu5",
+  "source" : "$2,000 Annual Surcharge",
+  "target" : "Taxa Anual de $2,000"
+}, {
+  "id" : "P244D057-tu6",
+  "source" : "$76.92 Bi-weekly",
+  "target" : "$76,92 Quinzenal"
+}, {
+  "id" : "P244D057-tu7",
+  "source" : "$38.46 Weekly",
+  "target" : "$38,46 Semanal"
+}, {
+  "id" : "P244D057-tu8",
+  "source" : "The spousal surcharge will remain in place for the full plan year unless you experience a qualified life status event during the year which would allow the spousal surcharge to be removed.",
+  "target" : "A sobretaxa para cônjuges permanecerá em vigor durante todo o ano do plano, a menos que você experimente um evento de mudança de status de vida qualificado durante o ano que permita a remoção da sobretaxa para cônjuges."
+}, {
+  "id" : "P244D057-tu9",
+  "source" : "TOBACCO SURCHARGE",
+  "target" : "TAXA ADICIONAL DE TABACO"
+}, {
+  "id" : "P244D057-tu10",
+  "source" : "If you enroll in a ZF medical plan, you must complete the Tobacco Surcharge attestation each year during Open Enrollment. You are considered a tobacco user if you are currently using nicotine or tobacco-based products such as cigarettes, cigars, pipes, e-cigarettes, vaping, snuff, chewing or dipping tobacco, snus, hookah, etc., in any amount. If you attest to being a nicotine or tobacco user, the tobacco surcharge will be applied.",
+  "target" : "Se você se inscrever em um plano de saúde ZF, deve completar a declaração de Sobretaxa por Tabaco a cada ano durante o Período de Inscrição Aberta. Você é considerado usuário de tabaco se estiver atualmente usando produtos à base de nicotina ou tabaco, como cigarros, charutos, cachimbos, cigarros eletrônicos, vaporizadores, rapé, tabaco de mascar ou de mergulho, snus, narguilé, etc., em qualquer quantidade. Se você declarar ser um usuário de nicotina ou tabaco, a sobretaxa por tabaco será aplicada."
+}, {
+  "id" : "P244D057-tu11",
+  "source" : "The surcharge will be deducted in the following amounts based on your pay schedule:",
+  "target" : "A sobretaxa será descontada nos seguintes valores com base na sua programação de pagamento:"
+}, {
+  "id" : "P244D057-tu12",
+  "source" : "$800 Annual Surcharge",
+  "target" : "Taxa Anual de $800"
+}, {
+  "id" : "P244D057-tu13",
+  "source" : "$30.77 Bi-weekly",
+  "target" : "$30,77 Quinzenal"
+}, {
+  "id" : "P244D057-tu14",
+  "source" : "$15.38 Weekly",
+  "target" : "$15,38 Semanal"
+}, {
+  "id" : "P244D057-tu15",
+  "source" : "The tobacco surcharge will remain in place for the full plan year. To have the surcharge stopped and refunded you must complete the 2Morrow tobacco cessation program. Participation in other tobacco cessation programs will not be accepted for the purposes of removing the tobacco surcharge.",
+  "target" : "A sobretaxa de tabaco permanecerá em vigor durante todo o ano do plano. Para que a sobretaxa seja cancelada e reembolsada, você deve concluir o programa de interrupção do tabaco 2Morrow. A participação em outros programas de interrupção do tabaco não será aceita para fins de remoção da sobretaxa de tabaco."
+}, {
+  "id" : "P244D057-tu16",
+  "source" : "If you have the tobacco surcharge applied due to not completing the tobacco user attestation during Open Enrollment, the tobacco surcharge cannot be stopped for the remainder of the year.",
+  "target" : "Se você tiver o acréscimo de tabaco aplicado devido à não conclusão da declaração de uso de tabaco durante o Período de Inscrição Aberta, o acréscimo de tabaco não poderá ser interrompido pelo restante do ano."
+}, {
+  "id" : "P244D057-tu17",
+  "source" : "2MORROW",
+  "target" : "2MORROW"
+}, {
+  "id" : "P244D057-tu18",
+  "source" : "NO COST TO YOU",
+  "target" : "SEM CUSTO PARA VOCÊ"
+}, {
+  "id" : "P179EED25-sub1",
+  "source" : "Textbox 1",
+  "target" : "Textbox 1"
+}, {
+  "id" : "P179EED25-sub2",
+  "source" : "Textbox 1",
+  "target" : "Textbox 1"
+}, {
+  "id" : "P179EED25-sub3",
+  "source" : "The spousal surcharge will",
+  "target" : "A sobretaxa de cônjuge irá"
+}, {
+  "id" : "P179EED25-sub4",
+  "source" : "NOT apply if your spouse:",
+  "target" : "NÃO se inscreva se seu cônjuge:"
+}, {
+  "id" : "P179EED25-sub5",
+  "source" : "Does not work",
+  "target" : "Não funciona"
+}, {
+  "id" : "P179EED25-sub6",
+  "source" : "Is not eligible for coverage through his/her employer",
+  "target" : "Não é elegível para cobertura através do seu empregador."
+}, {
+  "id" : "P179EED25-sub7",
+  "source" : "Is also employed by ZF",
+  "target" : "Também é empregado pela ZF."
+}, {
+  "id" : "P179EED25-sub8",
+  "source" : "Is enrolled in Medicare, a retiree or an",
+  "target" : "Está inscrito no Medicare, um aposentado ou um"
+}, {
+  "id" : "P179EED25-sub9",
+  "source" : "individual plan",
+  "target" : "plano individual"
+}, {
+  "id" : "P179EED25-sub10",
+  "source" : "Is enrolled in both their employer’s medical plan and a ZF medical plan (ZF’s medical plan is secondary)",
+  "target" : "Está inscrito no plano médico da empresa e em um plano médico da ZF (o plano médico da ZF é secundário)."
+}, {
+  "id" : "P244D057-tu19",
+  "source" : "2Morrow is an app-based program offered",
+  "target" : "2Morrow é um programa baseado em aplicativo oferecido"
+}, {
+  "id" : "P244D057-tu20",
+  "source" : "through Credence BCBS that supports an individual’s efforts to quit tobacco and nicotine use. If you attest to being a tobacco user and earn a 2Morrow Certificate of Completion between January 1 – October 31, 2024, the tobacco surcharge will be stopped and a refund for the amount withheld year-to-date will be processed.",
+  "target" : "através do Credence BCBS que apoia os esforços de um indivíduo para parar de usar tabaco e nicotina. Se você declarar ser um usuário de tabaco e obter um Certificado de Conclusão 2Morrow entre 1º de janeiro e 31 de outubro de 2024, a sobretaxa de tabaco será cancelada e um reembolso do valor retido até a data será processado."
+}, {
+  "id" : "P179EED3D-sub1",
+  "source" : "Group 2",
+  "target" : "Grupo 2"
+}, {
+  "id" : "P179EED3D-sub2",
+  "source" : "Group 2",
+  "target" : "Grupo 2"
+}, {
+  "id" : "P179EED3D-sub3",
+  "source" : "Image 3",
+  "target" : "Imagem 3"
+}, {
+  "id" : "P179EED3D-sub4",
+  "source" : "Image 4",
+  "target" : "Imagem 4"
+}, {
+  "id" : "P179EED3D-sub5",
+  "source" : "Image 5",
+  "target" : "Imagem 5"
+}, {
+  "id" : "P179EED3D-sub6",
+  "source" : "Image 6",
+  "target" : "Imagem 6"
+}, {
+  "id" : "P179EED3D-sub7",
+  "source" : "Graphic 7",
+  "target" : "Gráfico 7"
+}, {
+  "id" : "P179EED3D-sub8",
+  "source" : "Graphic 8",
+  "target" : "Gráfico 8"
+}, {
+  "id" : "P179EED3D-sub9",
+  "source" : "Graphic 9",
+  "target" : "Gráfico 9"
+}, {
+  "id" : "P179EED3D-sub10",
+  "source" : "Image 10",
+  "target" : "Imagem 10"
+}, {
+  "id" : "P179EED3D-sub11",
+  "source" : "Graphic 11",
+  "target" : "Gráfico 11"
+}, {
+  "id" : "P179EED3D-sub12",
+  "source" : "Graphic 12",
+  "target" : "Gráfico 12"
+}, {
+  "id" : "P179EED3D-sub13",
+  "source" : "Image 13",
+  "target" : "Imagem 13"
+}, {
+  "id" : "P179EED3D-sub14",
+  "source" : "Graphic 14",
+  "target" : "Gráfico 14"
+}, {
+  "id" : "P179EED3D-sub15",
+  "source" : "Graphic 15",
+  "target" : "Gráfico 15"
+}, {
+  "id" : "P179EED3D-sub16",
+  "source" : "Image 16",
+  "target" : "Imagem 16"
+}, {
+  "id" : "P179EED3D-sub17",
+  "source" : "Graphic 17",
+  "target" : "Gráfico 17"
+}, {
+  "id" : "P179EED3D-sub18",
+  "source" : "Image 18",
+  "target" : "Imagem 18"
+}, {
+  "id" : "P179EED3D-sub19",
+  "source" : "Image 19",
+  "target" : "Imagem 19"
+}, {
+  "id" : "P179EED3D-sub20",
+  "source" : "Image 20",
+  "target" : "Imagem 20"
+}, {
+  "id" : "P179EED3D-sub21",
+  "source" : "Graphic 21",
+  "target" : "Gráfico 21"
+}, {
+  "id" : "P179EED3D-sub22",
+  "source" : "Graphic 22",
+  "target" : "Gráfico 22"
+}, {
+  "id" : "P179EED3D-sub23",
+  "source" : "Graphic 23",
+  "target" : "Gráfico 23"
+}, {
+  "id" : "P179EED3D-sub24",
+  "source" : "Graphic 24",
+  "target" : "Gráfico 24"
+}, {
+  "id" : "P179EED3D-sub25",
+  "source" : "Image 25",
+  "target" : "Imagem 25"
+}, {
+  "id" : "P179EED3D-sub26",
+  "source" : "Graphic 26",
+  "target" : "Gráfico 26"
+}, {
+  "id" : "P179EED3D-sub27",
+  "source" : "Graphic 27",
+  "target" : "Gráfico 27"
+}, {
+  "id" : "P244D057-tu22",
+  "source" : "!\tIMPORTANT!",
+  "target" : "! IMPORTANTE!"
+}, {
+  "id" : "P244D057-tu23",
+  "source" : "If you enroll in a ZF medical plan, the Tobacco and Spousal Surcharge attestation(s) must be completed each year during Open Enrollment, or the surcharge(s) will automatically be applied.",
+  "target" : "Se você se inscrever em um plano médico da ZF, a(s) declaração(ões) de sobretaxa de tabaco e cônjuge devem ser preenchidas a cada ano durante o Período de Inscrição Aberta, ou a(s) sobretaxa(s) serão aplicadas automaticamente."
+}, {
+  "id" : "P244D057-tu24",
+  "source" : "An attestation screen will be shown after changing your",
+  "target" : "Uma tela de atestação será exibida após a alteração do seu"
+}, {
+  "id" : "P244D057-tu25",
+  "source" : "election using the medical benefit tile.",
+  "target" : "eleição usando o item de benefício médico."
+}, {
+  "id" : "P244D057-tu26",
+  "source" : "I have been smoke free for almost three months now! I’m soooo proud of myself! The journey has been difficult yet rewarding!",
+  "target" : "Estou livre de fumaça há quase três meses! Estou tão orgulhoso de mim mesmo! A jornada tem sido difícil, mas gratificante!"
+}, {
+  "id" : "P244D057-tu27",
+  "source" : "I breathe so much better now! My skin is",
+  "target" : "Eu respiro muito melhor agora! Minha pele está"
+}, {
+  "id" : "P244D057-tu28",
+  "source" : "glowing as the blood circulation has made it back to my skin, food tastes better, and most importantly, hearing my 8 year old son tell me how proud he is of me for quitting!”",
+  "target" : "brilhando à medida que a circulação sanguínea voltou à minha pele, a comida tem um gosto melhor e, o mais importante, ouvir meu filho de 8 anos me dizer o quanto ele está orgulhoso de mim por ter parado!”"
+}, {
+  "id" : "P244D057-tu29",
+  "source" : "- ZF Employee",
+  "target" : "- Funcionário da ZF"
+} ]

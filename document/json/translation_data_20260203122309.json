@@ -1,0 +1,333 @@
+[ {
+  "id" : "P244D057-tu1",
+  "source" : "Sample Document",
+  "target" : "Documento de Amostra"
+}, {
+  "id" : "P244D057-tu2",
+  "source" : "This document was created using accessibility techniques for headings, lists, image alternate text, tables, and columns. It should be completely accessible using assistive technologies such as screen readers.",
+  "target" : "Este documento foi criado utilizando técnicas de acessibilidade para cabeçalhos, listas, texto alternativo para imagens, tabelas e colunas. Ele deve ser completamente acessível usando tecnologias assistivas, como leitores de tela."
+}, {
+  "id" : "P244D057-tu3",
+  "source" : "Headings",
+  "target" : "Títulos"
+}, {
+  "id" : "P244D057-tu4",
+  "source" : "There are eight section headings in this document. At the beginning, \"Sample Document\" is a level 1 heading. The main section headings, such as \"Headings\" and \"Lists\" are level 2 headings. The Tables section contains two sub-headings, \"Simple Table\" and \"Complex Table,\" which are both level 3 headings.",
+  "target" : "Há oito cabeçalhos de seção neste documento. No início, \"Documento de Exemplo\" é um cabeçalho de nível 1. Os cabeçalhos principais, como \"Cabeçalhos\" e \"Listas\", são cabeçalhos de nível 2. A seção de Tabelas contém dois sub-cabeçalhos, \"Tabela Simples\" e \"Tabela Complexa\", que são ambos cabeçalhos de nível 3."
+}, {
+  "id" : "P244D057-tu5",
+  "source" : "Lists",
+  "target" : "Listas"
+}, {
+  "id" : "P244D057-tu6",
+  "source" : "The following outline of the sections of this document is an ordered (numbered) list with six items. The fifth item, \"Tables,\" contains a nested unordered (bulleted) list with two items.",
+  "target" : "O seguinte esboço das seções deste documento é uma lista ordenada (numerada) com seis itens. O quinto item, \"Tabelas,\" contém uma lista não ordenada (com marcadores) com dois itens."
+}, {
+  "id" : "P244D057-tu7",
+  "source" : "Headings",
+  "target" : "Cabeçalhos"
+}, {
+  "id" : "P244D057-tu8",
+  "source" : "Lists",
+  "target" : "Listas"
+}, {
+  "id" : "P244D057-tu9",
+  "source" : "Links",
+  "target" : "Links"
+}, {
+  "id" : "P244D057-tu10",
+  "source" : "Images",
+  "target" : "Imagens"
+}, {
+  "id" : "P244D057-tu11",
+  "source" : "Tables",
+  "target" : "Tabelas"
+}, {
+  "id" : "P244D057-tu12",
+  "source" : "Simple Tables",
+  "target" : "Tabelas Simples"
+}, {
+  "id" : "P244D057-tu13",
+  "source" : "Complex Tables",
+  "target" : "Tabelas Complexas"
+}, {
+  "id" : "P244D057-tu14",
+  "source" : "Columns",
+  "target" : "Colunas"
+}, {
+  "id" : "P244D057-tu15",
+  "source" : "Links",
+  "target" : "Links"
+}, {
+  "id" : "P244D057-tu16",
+  "source" : "In web documents, links can point different locations on the page, different pages, or even downloadable documents, such as Word documents or PDFs:",
+  "target" : "Em documentos da web, os links podem apontar para diferentes locais na página, diferentes páginas ou até mesmo documentos baixáveis, como documentos do Word ou PDFs:"
+}, {
+  "id" : "P244D057-tu17",
+  "source" : "Top of this PageSample DocumentSample Document (docx)",
+  "target" : "Topo desta PáginaDocumento de ExemploDocumento de Exemplo (docx)"
+}, {
+  "id" : "P244D057-tu18",
+  "source" : "Images",
+  "target" : "Imagens"
+}, {
+  "id" : "P244D057-tu19",
+  "source" : "Documents may contain images. For example, there is an image of the web accessibility symbol to the left of this paragraph. Its alternate text is \"Web Access Symbol\".",
+  "target" : "Os documentos podem conter imagens. Por exemplo, há uma imagem do símbolo de acessibilidade da web à esquerda deste parágrafo. Seu texto alternativo é \"Símbolo de Acesso à Web\"."
+}, {
+  "id" : "P179EED26-sub1",
+  "source" : "Picture 3",
+  "target" : "Imagem 3"
+}, {
+  "id" : "P179EED26-sub2",
+  "source" : "Picture 23",
+  "target" : "Imagem 23"
+}, {
+  "id" : "P244D057-tu20",
+  "source" : "Alt text should communicate what an image means, not how it looks.",
+  "target" : "O texto alternativo deve comunicar o que uma imagem significa, não como ela se parece."
+}, {
+  "id" : "P244D057-tu22",
+  "source" : "Some images, such as charts or graphs, require long descriptions, but not all document types allow that. In web pages, long descriptions may be provided in several ways: on the page below the image, via a link below the image, or via a link on the image.",
+  "target" : "Algumas imagens, como gráficos ou diagramas, exigem descrições longas, mas nem todos os tipos de documentos permitem isso. Em páginas da web, descrições longas podem ser fornecidas de várias maneiras: na página abaixo da imagem, por meio de um link abaixo da imagem ou por meio de um link na imagem."
+}, {
+  "id" : "P179EED3E-sub1",
+  "source" : "Picture 4",
+  "target" : "Imagem 4"
+}, {
+  "id" : "P179EED3E-sub2",
+  "source" : "Picture 24",
+  "target" : "Imagem 24"
+}, {
+  "id" : "P244D057-tu23",
+  "source" : "Tables",
+  "target" : "Mesas"
+}, {
+  "id" : "P244D057-tu24",
+  "source" : "Simple Tables",
+  "target" : "Tabelas Simples"
+}, {
+  "id" : "P244D057-tu25",
+  "source" : "Simple tables have a uniform number of columns and rows, without any merged cells:",
+  "target" : "Tabelas simples têm um número uniforme de colunas e linhas, sem células mescladas."
+}, {
+  "id" : "P244D057-tu26",
+  "source" : "Screen Reader",
+  "target" : "Leitor de tela"
+}, {
+  "id" : "P244D057-tu27",
+  "source" : "Responses",
+  "target" : "Respostas"
+}, {
+  "id" : "P244D057-tu28",
+  "source" : "Share",
+  "target" : "Compartilhar"
+}, {
+  "id" : "P244D057-tu29",
+  "source" : "JAWS",
+  "target" : "JAWS"
+}, {
+  "id" : "P244D057-tu30",
+  "source" : "853",
+  "target" : "853"
+}, {
+  "id" : "P244D057-tu31",
+  "source" : "49%",
+  "target" : "49%"
+}, {
+  "id" : "P244D057-tu32",
+  "source" : "NVDA",
+  "target" : "NVDA"
+}, {
+  "id" : "P244D057-tu33",
+  "source" : "238",
+  "target" : "238"
+}, {
+  "id" : "P244D057-tu34",
+  "source" : "14%",
+  "target" : "14%"
+}, {
+  "id" : "P244D057-tu35",
+  "source" : "Window-Eyes",
+  "target" : "Window-Eyes"
+}, {
+  "id" : "P244D057-tu36",
+  "source" : "214",
+  "target" : "214"
+}, {
+  "id" : "P244D057-tu37",
+  "source" : "12%",
+  "target" : "12%"
+}, {
+  "id" : "P244D057-tu38",
+  "source" : "System Access",
+  "target" : "Acesso ao Sistema"
+}, {
+  "id" : "P244D057-tu39",
+  "source" : "181",
+  "target" : "181"
+}, {
+  "id" : "P244D057-tu40",
+  "source" : "10%",
+  "target" : "10%"
+}, {
+  "id" : "P244D057-tu41",
+  "source" : "VoiceOver",
+  "target" : "VoiceOver"
+}, {
+  "id" : "P244D057-tu42",
+  "source" : "159",
+  "target" : "159"
+}, {
+  "id" : "P244D057-tu43",
+  "source" : "9%",
+  "target" : "9%"
+}, {
+  "id" : "P244D057-tu44",
+  "source" : "Complex Tables",
+  "target" : "Tabelas Complexas"
+}, {
+  "id" : "P244D057-tu45",
+  "source" : "The following is a complex table, using merged cells as headers for sections within the table. This can't be made accessible in all types of documents:",
+  "target" : "A seguir está uma tabela complexa, utilizando células mescladas como cabeçalhos para seções dentro da tabela. Isso não pode ser tornado acessível em todos os tipos de documentos:"
+}, {
+  "id" : "P244D057-tu46",
+  "source" : "May 2012",
+  "target" : "Maio de 2012"
+}, {
+  "id" : "P244D057-tu47",
+  "source" : "September 2010",
+  "target" : "Setembro de 2010"
+}, {
+  "id" : "P244D057-tu48",
+  "source" : "Screen Reader",
+  "target" : "Leitor de Tela"
+}, {
+  "id" : "P244D057-tu49",
+  "source" : "Responses",
+  "target" : "Respostas"
+}, {
+  "id" : "P244D057-tu50",
+  "source" : "Share",
+  "target" : "Compartilhar"
+}, {
+  "id" : "P244D057-tu51",
+  "source" : "Responses",
+  "target" : "Respostas"
+}, {
+  "id" : "P244D057-tu52",
+  "source" : "Share",
+  "target" : "Compartilhar"
+}, {
+  "id" : "P244D057-tu53",
+  "source" : "JAWS",
+  "target" : "JAWS"
+}, {
+  "id" : "P244D057-tu54",
+  "source" : "853",
+  "target" : "853"
+}, {
+  "id" : "P244D057-tu55",
+  "source" : "49%",
+  "target" : "49%"
+}, {
+  "id" : "P244D057-tu56",
+  "source" : "727",
+  "target" : "727"
+}, {
+  "id" : "P244D057-tu57",
+  "source" : "59%",
+  "target" : "59%"
+}, {
+  "id" : "P244D057-tu58",
+  "source" : "NVDA",
+  "target" : "NVDA"
+}, {
+  "id" : "P244D057-tu59",
+  "source" : "238",
+  "target" : "238"
+}, {
+  "id" : "P244D057-tu60",
+  "source" : "14%",
+  "target" : "14%"
+}, {
+  "id" : "P244D057-tu61",
+  "source" : "105",
+  "target" : "105"
+}, {
+  "id" : "P244D057-tu62",
+  "source" : "9%",
+  "target" : "9%"
+}, {
+  "id" : "P244D057-tu63",
+  "source" : "Window-Eyes",
+  "target" : "Window-Eyes"
+}, {
+  "id" : "P244D057-tu64",
+  "source" : "214",
+  "target" : "214"
+}, {
+  "id" : "P244D057-tu65",
+  "source" : "12%",
+  "target" : "12%"
+}, {
+  "id" : "P244D057-tu66",
+  "source" : "138",
+  "target" : "138"
+}, {
+  "id" : "P244D057-tu67",
+  "source" : "11%",
+  "target" : "11%"
+}, {
+  "id" : "P244D057-tu68",
+  "source" : "System Access",
+  "target" : "Acesso ao Sistema"
+}, {
+  "id" : "P244D057-tu69",
+  "source" : "181",
+  "target" : "181"
+}, {
+  "id" : "P244D057-tu70",
+  "source" : "10%",
+  "target" : "10%"
+}, {
+  "id" : "P244D057-tu71",
+  "source" : "58",
+  "target" : "58"
+}, {
+  "id" : "P244D057-tu72",
+  "source" : "5%",
+  "target" : "5%"
+}, {
+  "id" : "P244D057-tu73",
+  "source" : "VoiceOver",
+  "target" : "VoiceOver"
+}, {
+  "id" : "P244D057-tu74",
+  "source" : "159",
+  "target" : "159"
+}, {
+  "id" : "P244D057-tu75",
+  "source" : "9%",
+  "target" : "9%"
+}, {
+  "id" : "P244D057-tu76",
+  "source" : "120",
+  "target" : "120"
+}, {
+  "id" : "P244D057-tu77",
+  "source" : "10%",
+  "target" : "10%"
+}, {
+  "id" : "P244D057-tu78",
+  "source" : "",
+  "target" : "Please provide the text you would like translated to PT-BR."
+}, {
+  "id" : "P244D057-tu79",
+  "source" : "Columns",
+  "target" : "Colunas"
+}, {
+  "id" : "P244D057-tu80",
+  "source" : "This is an example of columns. With columns, the page is split into two or more horizontal sections. Unlike tables, in which you usually read across a row and then down to the next, in columns, you read down a column and then across to the next.When columns are not created correctly, screen readers may run lines together, reading the first line of the first column, then the first line of the second column, then the second line of the first column, and so on. Obviously, that is not accessible.",
+  "target" : "Este é um exemplo de colunas. Com colunas, a página é dividida em duas ou mais seções horizontais. Ao contrário das tabelas, nas quais você geralmente lê uma linha e depois desce para a próxima, nas colunas, você lê para baixo em uma coluna e depois atravessa para a próxima. Quando as colunas não são criadas corretamente, os leitores de tela podem juntar linhas, lendo a primeira linha da primeira coluna, depois a primeira linha da segunda coluna, depois a segunda linha da primeira coluna, e assim por diante. Obviamente, isso não é acessível."
+} ]

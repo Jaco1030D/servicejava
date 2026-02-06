@@ -23,6 +23,9 @@ import org.apache.poi.xwpf.usermodel.XWPFTableRow;
 import org.apache.xmlbeans.XmlObject;
 import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTText;
 
+
+import org.apache.poi.xwpf.usermodel.*;
+import org.openxmlformats.schemas.wordprocessingml.x2006.main.*;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -383,25 +386,55 @@ public class DocumentXmlProcessor {
                         SegmentData segment = segmentMap.get(foundId);
                         
                         if (segment != null) {
-                            // Obtém o tamanho da fonte usando método robusto
-                            double currentFontSize = extractFontSizeRobust(run);
+                            // Obtém o tamanho da fonte usando método robusto (verifica run e parágrafo)
+                            Double fontSizeResult = FontExtractor.getFontSize(run, paragraph);
+                            double currentFontSize = (fontSizeResult != null && fontSizeResult > 0) ? fontSizeResult : 11.0;
                             
-                            // Obtém a família da fonte usando método robusto
-                            String fontFamily = extractFontFamilyRobust(run);
+                            // Obtém a família da fonte usando método robusto (verifica run e parágrafo)
+                            String fontFamily = FontExtractor.getFontFamily(run, paragraph);
+                            if (fontFamily == null || fontFamily.isEmpty()) {
+                                fontFamily = "Arial";
+                            }
                             
-                            System.out.println("Font size (extraído): " + currentFontSize);
-                            System.out.println("Font family (extraído): " + fontFamily);
-                            System.out.println("Source: " + segment.source);
                             System.out.print("----------------------------------------------\n");
+                            System.out.println("Font size (extraído): " + currentFontSize);
+                            
+                            // Validação de segurança
+                            if (currentFontSize <= 0 || Double.isNaN(currentFontSize) || Double.isInfinite(currentFontSize)) {
+                                System.err.println("AVISO: Tamanho de fonte inválido detectado: " + currentFontSize + " - usando fallback 11.0");
+                                currentFontSize = 11.0;
+                            }
                             
                             // Calcula o fator multiplicativo baseado na discrepância visual
                             double fontSizeFactor = calculateFontSize(segment.source, segment.target, fontFamily, currentFontSize);
                             
+                            // Validação do fator
+                            if (fontSizeFactor <= 0 || Double.isNaN(fontSizeFactor) || Double.isInfinite(fontSizeFactor)) {
+                                System.err.println("AVISO: Fator de fonte inválido detectado: " + fontSizeFactor);
+                                System.err.println("  - Source: \"" + segment.source + "\"");
+                                System.err.println("  - Target: \"" + segment.target + "\"");
+                                System.err.println("  - FontSize atual: " + currentFontSize);
+                                System.err.println("  - FontFamily: " + fontFamily);
+                                System.err.println("  - Usando fallback 1.0");
+                                fontSizeFactor = 1.0;
+                            }
+                            
                             // Calcula o novo tamanho aplicando o fator
                             double newFontSize = currentFontSize * fontSizeFactor;
                             
+                            // Log detalhado se houver problema
+                            if (newFontSize < 6.0 && fontSizeFactor > 0) {
+                                System.out.println("DEBUG: Cálculo detalhado:");
+                                System.out.println("  - Fonte atual: " + currentFontSize + "pt");
+                                System.out.println("  - Fator aplicado: " + fontSizeFactor);
+                                System.out.println("  - Resultado: " + newFontSize + "pt");
+                                System.out.println("  - Source width: " + (segment.source != null ? segment.source.length() : "null"));
+                                System.out.println("  - Target width: " + (segment.target != null ? segment.target.length() : "null"));
+                            }
+                            
                             // Garante um tamanho mínimo de 6pt
                             if (newFontSize < 6.0) {
+                                System.out.println("AVISO: Tamanho calculado (" + newFontSize + "pt) abaixo do mínimo, aplicando 6.0pt");
                                 newFontSize = 6.0;
                             }
                             
@@ -412,6 +445,7 @@ public class DocumentXmlProcessor {
                             ));
                             
                             // Aplica o novo tamanho da fonte
+                           
                             run.setFontSize((int) Math.round(newFontSize));
                             
                             count++;
@@ -505,20 +539,22 @@ public class DocumentXmlProcessor {
     
     /**
      * Método robusto para extrair o tamanho da fonte de um run.
-     * Tenta múltiplas formas em ordem de prioridade.
+     * Tenta múltiplas formas em ordem de prioridade, incluindo verificação no parágrafo pai.
      * 
      * @param run Run do qual extrair o tamanho da fonte
+     * @param paragraph Parágrafo pai do run (para verificar herança)
      * @return Tamanho da fonte em pontos (double), ou 11.0 como fallback
      */
-    private double extractFontSizeRobust(XWPFRun run) {
+    
+    private double extractFontSizeRobust(XWPFRun run, XWPFParagraph paragraph) {
         try {
-            // 1ª tentativa: getFontSizeAsDouble() - API moderna
+            // 1ª tentativa: getFontSizeAsDouble() - API moderna (no run)
             Double fontSizeDouble = run.getFontSizeAsDouble();
             if (fontSizeDouble != null && fontSizeDouble > 0) {
                 return fontSizeDouble;
             }
             
-            // 2ª tentativa: Via CTR (baixo nível XML) - busca w:sz
+            // 2ª tentativa: Via CTR (baixo nível XML) - busca w:sz no run
             if (run.getCTR() != null && run.getCTR().getRPr() != null) {
                 try {
                     XmlObject[] szArray = run.getCTR().getRPr().selectPath(
@@ -537,7 +573,7 @@ public class DocumentXmlProcessor {
                     // Ignora e continua
                 }
                 
-                // Tenta w:szCs (complex scripts)
+                // Tenta w:szCs (complex scripts) no run
                 try {
                     XmlObject[] szCsArray = run.getCTR().getRPr().selectPath(
                         "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:szCs/@w:val"
@@ -556,11 +592,56 @@ public class DocumentXmlProcessor {
                 }
             }
             
-            // 3ª tentativa: getFontSize() - método deprecated mas pode ter valor
+            // 3ª tentativa: getFontSize() - método deprecated mas pode ter valor (no run)
             @SuppressWarnings("deprecation")
             int fontSizeInt = run.getFontSize();
             if (fontSizeInt > 0) {
                 return (double) fontSizeInt;
+            }
+            
+            // 4ª tentativa: Verificar no parágrafo (herança)
+            if (paragraph != null) {
+                try {
+                    // Tenta obter do parágrafo via XML (w:pPr/w:rPr/w:sz)
+                    if (paragraph.getCTP() != null && paragraph.getCTP().getPPr() != null) {
+                        try {
+                            XmlObject[] pSzArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:sz/@w:val"
+                            );
+                            if (pSzArray != null && pSzArray.length > 0) {
+                                String pSzValue = pSzArray[0].getDomNode().getNodeValue();
+                                if (pSzValue != null && !pSzValue.isEmpty()) {
+                                    double pFontSize = Double.parseDouble(pSzValue) / 2.0;
+                                    if (pFontSize > 0) {
+                                        return pFontSize;
+                                    }
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
+                        }
+                        
+                        // Tenta w:szCs no parágrafo
+                        try {
+                            XmlObject[] pSzCsArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:szCs/@w:val"
+                            );
+                            if (pSzCsArray != null && pSzCsArray.length > 0) {
+                                String pSzCsValue = pSzCsArray[0].getDomNode().getNodeValue();
+                                if (pSzCsValue != null && !pSzCsValue.isEmpty()) {
+                                    double pFontSizeCs = Double.parseDouble(pSzCsValue) / 2.0;
+                                    if (pFontSizeCs > 0) {
+                                        return pFontSizeCs;
+                                    }
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
+                        }
+                    }
+                } catch (Exception e) {
+                    // Ignora e continua
+                }
             }
             
         } catch (Exception e) {
@@ -573,12 +654,13 @@ public class DocumentXmlProcessor {
     
     /**
      * Método robusto para extrair a família/estilo da fonte de um run.
-     * Tenta múltiplas formas em ordem de prioridade.
+     * Tenta múltiplas formas em ordem de prioridade, incluindo verificação no parágrafo pai.
      * 
      * @param run Run do qual extrair a família da fonte
+     * @param paragraph Parágrafo pai do run (para verificar herança)
      * @return Nome da família da fonte, ou "Arial" como fallback
      */
-    private String extractFontFamilyRobust(XWPFRun run) {
+    private String extractFontFamilyRobust(XWPFRun run, XWPFParagraph paragraph) {
         try {
             // 1ª tentativa: getFontFamily() - API moderna
             String fontFamily = run.getFontFamily();
@@ -642,6 +724,76 @@ public class DocumentXmlProcessor {
                         String csFont = csArray[0].getDomNode().getNodeValue();
                         if (csFont != null && !csFont.isEmpty()) {
                             return csFont;
+                        }
+                    }
+                } catch (Exception e) {
+                    // Ignora e continua
+                }
+            }
+            
+            // 3ª tentativa: Verificar no parágrafo (herança)
+            if (paragraph != null) {
+                try {
+                    // Tenta obter do parágrafo via XML (w:pPr/w:rPr/w:rFonts)
+                    if (paragraph.getCTP() != null && paragraph.getCTP().getPPr() != null) {
+                        // Tenta w:ascii no parágrafo
+                        try {
+                            XmlObject[] pAsciiArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:rFonts/@w:ascii"
+                            );
+                            if (pAsciiArray != null && pAsciiArray.length > 0) {
+                                String pAsciiFont = pAsciiArray[0].getDomNode().getNodeValue();
+                                if (pAsciiFont != null && !pAsciiFont.isEmpty()) {
+                                    return pAsciiFont;
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
+                        }
+                        
+                        // Tenta w:hAnsi no parágrafo
+                        try {
+                            XmlObject[] pHAnsiArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:rFonts/@w:hAnsi"
+                            );
+                            if (pHAnsiArray != null && pHAnsiArray.length > 0) {
+                                String pHAnsiFont = pHAnsiArray[0].getDomNode().getNodeValue();
+                                if (pHAnsiFont != null && !pHAnsiFont.isEmpty()) {
+                                    return pHAnsiFont;
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
+                        }
+                        
+                        // Tenta w:eastAsia no parágrafo
+                        try {
+                            XmlObject[] pEastAsiaArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:rFonts/@w:eastAsia"
+                            );
+                            if (pEastAsiaArray != null && pEastAsiaArray.length > 0) {
+                                String pEastAsiaFont = pEastAsiaArray[0].getDomNode().getNodeValue();
+                                if (pEastAsiaFont != null && !pEastAsiaFont.isEmpty()) {
+                                    return pEastAsiaFont;
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
+                        }
+                        
+                        // Tenta w:cs no parágrafo
+                        try {
+                            XmlObject[] pCsArray = paragraph.getCTP().getPPr().selectPath(
+                                "declare namespace w='http://schemas.openxmlformats.org/wordprocessingml/2006/main' .//w:rPr/w:rFonts/@w:cs"
+                            );
+                            if (pCsArray != null && pCsArray.length > 0) {
+                                String pCsFont = pCsArray[0].getDomNode().getNodeValue();
+                                if (pCsFont != null && !pCsFont.isEmpty()) {
+                                    return pCsFont;
+                                }
+                            }
+                        } catch (Exception e) {
+                            // Ignora e continua
                         }
                     }
                 } catch (Exception e) {

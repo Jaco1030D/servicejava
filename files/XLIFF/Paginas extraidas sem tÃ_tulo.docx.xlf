@@ -19,7 +19,7 @@
 </trans-unit>
 <trans-unit id="P244D057-tu3" xml:space="preserve">
 <source xml:lang="en-US">If you enroll in a ZF medical plan, you have the option to add your legal spouse to coverage. If your spouse has medical coverage available through their employer, but does not enroll in it and is only covered by one of ZF’s medical plans, the spousal surcharge will apply.</source>
-<seg-source><mrk mid="0" mtype="seg">If you enroll in a ZF medical plan, you have the option to add your legal spouse to coverage.</mrk><mrk mid="1" mtype="seg"> If your spouse has medical coverage available through their employer, but does not enroll in it and is only covered by one of ZF’s medical plans, the spousal surcharge will apply.</mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">If you enroll in a ZF medical plan, you have the option to add your legal spouse to coverage. If your spouse has medical coverage available through their employer, but does not enroll in it and is only covered by one of ZF’s medical plans, the spousal surcharge will apply.</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu4" xml:space="preserve">
@@ -54,7 +54,7 @@
 </trans-unit>
 <trans-unit id="P244D057-tu10" xml:space="preserve">
 <source xml:lang="en-US">If you enroll in a ZF medical plan, you must complete the Tobacco Surcharge attestation each year during Open Enrollment. You are considered a tobacco user if you are currently using nicotine or tobacco-based products such as cigarettes, cigars, pipes, e-cigarettes, vaping, snuff, chewing or dipping tobacco, snus, hookah, etc., in any amount. If you attest to being a nicotine or tobacco user, the tobacco surcharge will be applied.</source>
-<seg-source><mrk mid="0" mtype="seg">If you enroll in a ZF medical plan, you must complete the Tobacco Surcharge attestation each year during Open Enrollment.</mrk><mrk mid="1" mtype="seg"> You are considered a tobacco user if you are currently using nicotine or tobacco-based products such as cigarettes, cigars, pipes, e-cigarettes, vaping, snuff, chewing or dipping tobacco, snus, hookah, etc., in any amount.</mrk><mrk mid="2" mtype="seg"> If you attest to being a nicotine or tobacco user, the tobacco surcharge will be applied.</mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">If you enroll in a ZF medical plan, you must complete the Tobacco Surcharge attestation each year during Open Enrollment. You are considered a tobacco user if you are currently using nicotine or tobacco-based products such as cigarettes, cigars, pipes, e-cigarettes, vaping, snuff, chewing or dipping tobacco, snus, hookah, etc., in any amount. If you attest to being a nicotine or tobacco user, the tobacco surcharge will be applied.</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu11" xml:space="preserve">
@@ -79,7 +79,7 @@
 </trans-unit>
 <trans-unit id="P244D057-tu15" xml:space="preserve">
 <source xml:lang="en-US">The tobacco surcharge will remain in place for the full plan year. To have the surcharge stopped and refunded you must complete the 2Morrow tobacco cessation program. Participation in other tobacco cessation programs will not be accepted for the purposes of removing the tobacco surcharge.</source>
-<seg-source><mrk mid="0" mtype="seg">The tobacco surcharge will remain in place for the full plan year.</mrk><mrk mid="1" mtype="seg"> To have the surcharge stopped and refunded you must complete the 2Morrow tobacco cessation program.</mrk><mrk mid="2" mtype="seg"> Participation in other tobacco cessation programs will not be accepted for the purposes of removing the tobacco surcharge.</mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">The tobacco surcharge will remain in place for the full plan year. To have the surcharge stopped and refunded you must complete the 2Morrow tobacco cessation program. Participation in other tobacco cessation programs will not be accepted for the purposes of removing the tobacco surcharge.</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu16" xml:space="preserve">
@@ -98,41 +98,51 @@
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P179EED25-sub1" xml:space="preserve">
+<source xml:lang="en-US">Textbox 1</source>
+<seg-source><mrk mid="0" mtype="seg">Textbox 1</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED25-sub2" xml:space="preserve">
+<source xml:lang="en-US">Textbox 1</source>
+<seg-source><mrk mid="0" mtype="seg">Textbox 1</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED25-sub3" xml:space="preserve">
 <source xml:lang="en-US">The spousal surcharge will</source>
 <seg-source><mrk mid="0" mtype="seg">The spousal surcharge will</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub2" xml:space="preserve">
+<trans-unit id="P179EED25-sub4" xml:space="preserve">
 <source xml:lang="en-US">NOT apply if your spouse:</source>
 <seg-source><mrk mid="0" mtype="seg">NOT apply if your spouse:</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub3" xml:space="preserve">
+<trans-unit id="P179EED25-sub5" xml:space="preserve">
 <source xml:lang="en-US">Does not work</source>
 <seg-source><mrk mid="0" mtype="seg">Does not work</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub4" xml:space="preserve">
+<trans-unit id="P179EED25-sub6" xml:space="preserve">
 <source xml:lang="en-US">Is not eligible for coverage through his/her employer</source>
 <seg-source><mrk mid="0" mtype="seg">Is not eligible for coverage through his/her employer</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub5" xml:space="preserve">
+<trans-unit id="P179EED25-sub7" xml:space="preserve">
 <source xml:lang="en-US">Is also employed by ZF</source>
 <seg-source><mrk mid="0" mtype="seg">Is also employed by ZF</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub6" xml:space="preserve">
+<trans-unit id="P179EED25-sub8" xml:space="preserve">
 <source xml:lang="en-US">Is enrolled in Medicare, a retiree or an</source>
 <seg-source><mrk mid="0" mtype="seg">Is enrolled in Medicare, a retiree or an</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub7" xml:space="preserve">
+<trans-unit id="P179EED25-sub9" xml:space="preserve">
 <source xml:lang="en-US">individual plan</source>
 <seg-source><mrk mid="0" mtype="seg">individual plan</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
-<trans-unit id="P179EED25-sub8" xml:space="preserve">
+<trans-unit id="P179EED25-sub10" xml:space="preserve">
 <source xml:lang="en-US">	Is enrolled in both their employer’s medical plan and a ZF medical plan (ZF’s medical plan is secondary)</source>
 <seg-source><mrk mid="0" mtype="seg">	Is enrolled in both their employer’s medical plan and a ZF medical plan (ZF’s medical plan is secondary)</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
@@ -144,12 +154,151 @@
 </trans-unit>
 <trans-unit id="P244D057-tu20" xml:space="preserve">
 <source xml:lang="en-US">through Credence BCBS that supports an individual’s efforts to quit tobacco and nicotine use. If you attest to being a tobacco user and earn a 2Morrow Certificate of Completion between <g id="1">January 1 – October 31, 2024</g>, the tobacco surcharge will be stopped and a refund for the amount withheld year-to-date will be processed.</source>
-<seg-source><mrk mid="0" mtype="seg">through Credence BCBS that supports an individual’s efforts to quit tobacco and nicotine use.</mrk><mrk mid="1" mtype="seg"> If you attest to being a tobacco user and earn a 2Morrow Certificate of Completion between <g id="1">January 1 – October 31, 2024</g>, the tobacco surcharge will be stopped and a refund for the amount withheld year-to-date will be processed.</mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">through Credence BCBS that supports an individual’s efforts to quit tobacco and nicotine use. If you attest to being a tobacco user and earn a 2Morrow Certificate of Completion between <g id="1">January 1 – October 31, 2024</g>, the tobacco surcharge will be stopped and a refund for the amount withheld year-to-date will be processed.</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu21" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub1" xml:space="preserve">
+<source xml:lang="en-US">Group 2</source>
+<seg-source><mrk mid="0" mtype="seg">Group 2</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub2" xml:space="preserve">
+<source xml:lang="en-US">Group 2</source>
+<seg-source><mrk mid="0" mtype="seg">Group 2</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub3" xml:space="preserve">
+<source xml:lang="en-US">Image 3</source>
+<seg-source><mrk mid="0" mtype="seg">Image 3</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub4" xml:space="preserve">
+<source xml:lang="en-US">Image 4</source>
+<seg-source><mrk mid="0" mtype="seg">Image 4</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub5" xml:space="preserve">
+<source xml:lang="en-US">Image 5</source>
+<seg-source><mrk mid="0" mtype="seg">Image 5</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub6" xml:space="preserve">
+<source xml:lang="en-US">Image 6</source>
+<seg-source><mrk mid="0" mtype="seg">Image 6</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub7" xml:space="preserve">
+<source xml:lang="en-US">Graphic 7</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 7</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub8" xml:space="preserve">
+<source xml:lang="en-US">Graphic 8</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 8</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub9" xml:space="preserve">
+<source xml:lang="en-US">Graphic 9</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 9</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub10" xml:space="preserve">
+<source xml:lang="en-US">Image 10</source>
+<seg-source><mrk mid="0" mtype="seg">Image 10</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub11" xml:space="preserve">
+<source xml:lang="en-US">Graphic 11</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 11</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub12" xml:space="preserve">
+<source xml:lang="en-US">Graphic 12</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 12</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub13" xml:space="preserve">
+<source xml:lang="en-US">Image 13</source>
+<seg-source><mrk mid="0" mtype="seg">Image 13</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub14" xml:space="preserve">
+<source xml:lang="en-US">Graphic 14</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 14</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub15" xml:space="preserve">
+<source xml:lang="en-US">Graphic 15</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 15</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub16" xml:space="preserve">
+<source xml:lang="en-US">Image 16</source>
+<seg-source><mrk mid="0" mtype="seg">Image 16</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub17" xml:space="preserve">
+<source xml:lang="en-US">Graphic 17</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 17</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub18" xml:space="preserve">
+<source xml:lang="en-US">Image 18</source>
+<seg-source><mrk mid="0" mtype="seg">Image 18</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub19" xml:space="preserve">
+<source xml:lang="en-US">Image 19</source>
+<seg-source><mrk mid="0" mtype="seg">Image 19</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub20" xml:space="preserve">
+<source xml:lang="en-US">Image 20</source>
+<seg-source><mrk mid="0" mtype="seg">Image 20</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub21" xml:space="preserve">
+<source xml:lang="en-US">Graphic 21</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 21</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub22" xml:space="preserve">
+<source xml:lang="en-US">Graphic 22</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 22</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub23" xml:space="preserve">
+<source xml:lang="en-US">Graphic 23</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 23</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub24" xml:space="preserve">
+<source xml:lang="en-US">Graphic 24</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 24</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub25" xml:space="preserve">
+<source xml:lang="en-US">Image 25</source>
+<seg-source><mrk mid="0" mtype="seg">Image 25</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub26" xml:space="preserve">
+<source xml:lang="en-US">Graphic 26</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 26</mrk></seg-source>
+<target xml:lang="pt-BR"></target>
+</trans-unit>
+<trans-unit id="P179EED3D-sub27" xml:space="preserve">
+<source xml:lang="en-US">Graphic 27</source>
+<seg-source><mrk mid="0" mtype="seg">Graphic 27</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu22" xml:space="preserve">
 <source xml:lang="en-US">!	<g id="1">IMPORTANT!</g></source>
-<seg-source><mrk mid="0" mtype="seg">!</mrk><mrk mid="1" mtype="seg">	<g id="1">IMPORTANT!</g></mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">!	<g id="1">IMPORTANT!</g></mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu23" xml:space="preserve">
@@ -168,13 +317,13 @@
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu26" xml:space="preserve">
-<source xml:lang="en-US"><bx id="1"/>I have been smoke free for almost three months now! I’m soooo proud of myself! <ex id="1"/><g id="2">The journey has been difficult yet rewarding!</g></source>
-<seg-source><mrk mid="0" mtype="seg"><bx id="1"/>I have been smoke free for almost three months now!</mrk><mrk mid="1" mtype="seg"> I’m soooo proud of myself!</mrk><mrk mid="2" mtype="seg"> <ex id="1"/><g id="2">The journey has been difficult yet rewarding!</g></mrk></seg-source>
+<source xml:lang="en-US"><g id="1">I have been smoke free for almost three months now! I’m soooo proud of myself! </g><g id="2">The journey has been difficult yet rewarding!</g></source>
+<seg-source><mrk mid="0" mtype="seg"><g id="1">I have been smoke free for almost three months now! I’m soooo proud of myself! </g><g id="2">The journey has been difficult yet rewarding!</g></mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu27" xml:space="preserve">
 <source xml:lang="en-US">I breathe so much better now! My skin is</source>
-<seg-source><mrk mid="0" mtype="seg">I breathe so much better now!</mrk><mrk mid="1" mtype="seg"> My skin is</mrk></seg-source>
+<seg-source><mrk mid="0" mtype="seg">I breathe so much better now! My skin is</mrk></seg-source>
 <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="P244D057-tu28" xml:space="preserve">

@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.io.DocxHandler;
+import com.magmatranslation.xliffconverter.io.ExcelHandler;
 import com.magmatranslation.xliffconverter.io.XliffHandler;
 
 import net.sf.okapi.common.Event;
@@ -18,7 +19,7 @@ public class FileReaderWithOkapi {
         System.out.println(config.typeFile);
         System.out.println("Redução de fonte: " + reduceFont);
         
-        List<Event> contentDocx = null;
+        List<Event> contentFile = null;
         String jsonFileName = null;
 
         switch (config.typeFile) {
@@ -27,10 +28,15 @@ public class FileReaderWithOkapi {
 
                 DocxHandler docxHandler = new DocxHandler();
                 
-                contentDocx = docxHandler.readDocxFile(config);  
-
-                System.out.println("entrou em docx");
+                contentFile = docxHandler.readDocxFile(config);  
                 
+            }
+            case "EXCEL" -> {
+
+                ExcelHandler excelHandler = new ExcelHandler();
+                
+                contentFile = excelHandler.readExcelFile(config);  
+            
             }
             case "XLIFF" -> {
                 
@@ -46,12 +52,12 @@ public class FileReaderWithOkapi {
                 System.out.println("entrou em xliff");
                 System.out.println("Arquivo JSON gerado: " + jsonFileName);
                 
-                contentDocx = eventsDocx;
+                contentFile = eventsDocx;
             }
 
         }
 
         // Retorna o resultado com eventos e nome do arquivo JSON
-        return new ExtractionResult(contentDocx, jsonFileName);
+        return new ExtractionResult(contentFile, jsonFileName);
     }
 }
