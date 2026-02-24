@@ -13,6 +13,8 @@ public class FileValidator {
     static {
         // Configuração das extensões suportadas por tipo de arquivo
         SUPPORTED_EXTENSIONS.put("DOCX", Arrays.asList(".docx", ".doc"));
+        SUPPORTED_EXTENSIONS.put("EXCEL", Arrays.asList(".xlsx", ".xls", ".csv"));
+        SUPPORTED_EXTENSIONS.put("PPTX", Arrays.asList(".pptx", ".ppt"));
         SUPPORTED_EXTENSIONS.put("XLIFF", Arrays.asList(".xlf", ".xliff"));
         SUPPORTED_EXTENSIONS.put("XML", Arrays.asList(".xml"));
         SUPPORTED_EXTENSIONS.put("TXT", Arrays.asList(".txt"));

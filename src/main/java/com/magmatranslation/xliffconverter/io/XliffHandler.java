@@ -8,6 +8,7 @@ import java.util.regex.Pattern;
 
 import com.magmatranslation.xliffconverter.config.FileProcessorConfig;
 import com.magmatranslation.xliffconverter.core.Base64Handler;
+import com.magmatranslation.xliffconverter.utils.FileUtils;
 
 import net.sf.okapi.common.Event;
 import net.sf.okapi.common.LocaleId;
@@ -22,11 +23,19 @@ public class XliffHandler {
         LocaleId srcLoc = LocaleId.fromString(config.langSource);
         LocaleId trgLoc = LocaleId.fromString(config.langTarget);
 
-        String pathXLIFF = config.filePathOutput + "\\XLIFF\\" + config.file.getName() + ".xlf";
-        
+        if (eventList == null) {
+            eventList = new ArrayList<>();
+        }
+        String originalFileExtension = FileUtils.getOriginalFileExtension(config.file.getName());
+
+
+        String pathXLIFF = config.filePathOutput + "\\XLIFF\\" + FileUtils.getOriginalFileName(config.file.getName()) + ".xlf";
+
+        System.out.println("pathXLIFF: " + pathXLIFF);
         try (XLIFFWriter writer = new XLIFFWriter()) {
             
-            writer.create(pathXLIFF, null, srcLoc, trgLoc, null, "word/document.xml", null);
+            
+            writer.create(pathXLIFF, null, srcLoc, trgLoc, null, originalFileExtension, null);
             
             String fileBase64 = Base64Handler.createBase64(config.file);
             

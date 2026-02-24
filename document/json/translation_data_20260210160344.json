@@ -1,0 +1,13 @@
+[ {
+  "id" : "P147242AB-tu1",
+  "source" : "First Name",
+  "target" : "Primeiro nome"
+}, {
+  "id" : "P147242AB-tu2",
+  "source" : "Last Name",
+  "target" : "Sobrenome"
+}, {
+  "id" : "P147242AB-tu3",
+  "source" : "Gender",
+  "target" : "Genero"
+} ]

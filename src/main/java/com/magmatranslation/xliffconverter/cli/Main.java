@@ -17,8 +17,8 @@ import com.magmatranslation.xliffconverter.core.DocumentXmlProcessor;
 import com.magmatranslation.xliffconverter.core.ExtractionResult;
 import com.magmatranslation.xliffconverter.core.FileReaderWithOkapi;
 import com.magmatranslation.xliffconverter.core.XmlHandler;
-import com.magmatranslation.xliffconverter.io.DocxHandler;
 import com.magmatranslation.xliffconverter.io.XliffHandler;
+import com.magmatranslation.xliffconverter.utils.FileUtils;
 import com.magmatranslation.xliffconverter.utils.WrapperConfigProcessor;
 
 import net.sf.okapi.common.Event;
@@ -58,6 +58,8 @@ public class Main
             //-----------------------------------------------------------------------------------------------
             // Extrair os eventos do arquivo
 
+            System.out.println("Extraindo eventos do arquivo");
+            System.out.println(fileProcessorConfig.typeFile);
 			ExtractionResult result = fileReader.extractFileEvents(fileProcessorConfig);
 
 			List<Event> eventsFile = result.getEvents();
@@ -70,7 +72,7 @@ public class Main
             String pathXLIFF = xliffHandler.createXLIFF(fileProcessorConfig, eventsFile);
 
 			Path XLIFFToSend = Paths.get(pathXLIFF);
-			
+
             //-----------------------------------------------------------------------------------------------
             // Retornar o arquivo XLIFF
             
@@ -126,7 +128,7 @@ public class Main
             
             String jsonFileName = result.getJsonFileName();
 
-            DocxHandler.saveDocx(eventsFile, fileProcessorConfig);
+            FileUtils.saveGenericFile(eventsFile, fileProcessorConfig);
 
             Path FileToSend = Paths.get(fileProcessorConfig.filePathOutput);
 

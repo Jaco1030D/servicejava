@@ -80,6 +80,7 @@ c. Three.</okpsrx:sample>
           <beforebreak>[?!]\)\uE105\s*</beforebreak>
           <afterbreak>\p{L}</afterbreak>
         </rule>
+        
         <!--The most important rule: split on ICU hints-->
         <rule break="yes">
           <beforebreak>\uE105\s*</beforebreak>
@@ -90,6 +91,16 @@ c. Three.</okpsrx:sample>
           <beforebreak>(\p{Ps}|\p{Pi})\uE105\s*\d+(\p{Pe}|\p{Pf})</beforebreak>
           <afterbreak/>
         </rule>
+        <rule break="yes">
+          <beforebreak>[?!]\s+</beforebreak>
+          <afterbreak>\p{Lu}</afterbreak>
+        </rule>
+
+        <rule break="yes">
+          <beforebreak>\.\s+</beforebreak>
+          <afterbreak>\p{Lu}</afterbreak>
+        </rule>
+        
         <!--ICU doesn't split sentences like "2 bananas. 3 tomatoes." Pay attention: this introduces a new major break not caused by the \uE105 char, must take into account in abbreviations exception, especially in abbreviations before numbers and single letter abbreviations-->
         <rule break="yes">
           <beforebreak>\D\.\s*</beforebreak>
@@ -267,3 +278,46 @@ c. Three.</okpsrx:sample>
     </maprules>
   </body>
 </srx>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- REgras sugeridas pelo cursor -->
+        

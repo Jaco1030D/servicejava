@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="uytrfdghjkugfdhjkX_10.xlsx" source-language="pt-BR" target-language="en-US" datatype="x-docx">
+<header><reference><internal-file form="base64"> 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 </internal-file></reference></header>
+<body>
+</body>
+</file>
+<file original="xlsx" source-language="pt-BR" target-language="en-US" datatype="x-undefined">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!B1" xml:space="preserve">
+<source xml:lang="pt-BR">First Name</source>
+<seg-source><mrk mid="0" mtype="seg">First Name</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!C1" xml:space="preserve">
+<source xml:lang="pt-BR">Last Name</source>
+<seg-source><mrk mid="0" mtype="seg">Last Name</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!D1" xml:space="preserve">
+<source xml:lang="pt-BR">Gender</source>
+<seg-source><mrk mid="0" mtype="seg">Gender</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!E1" xml:space="preserve">
+<source xml:lang="pt-BR">Country</source>
+<seg-source><mrk mid="0" mtype="seg">Country</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Sheet1!F1" xml:space="preserve">
+<source xml:lang="pt-BR">Age</source>
+<seg-source><mrk mid="0" mtype="seg">Age</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Sheet1!G1" xml:space="preserve">
+<source xml:lang="pt-BR">Date</source>
+<seg-source><mrk mid="0" mtype="seg">Date</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Sheet1!H1" xml:space="preserve">
+<source xml:lang="pt-BR">Id</source>
+<seg-source><mrk mid="0" mtype="seg">Id</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Sheet1!B2" xml:space="preserve">
+<source xml:lang="pt-BR">Dulce</source>
+<seg-source><mrk mid="0" mtype="seg">Dulce</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Sheet1!C2" xml:space="preserve">
+<source xml:lang="pt-BR">Abril</source>
+<seg-source><mrk mid="0" mtype="seg">Abril</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Sheet1!D2" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Sheet1!E2" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Sheet1!G2" xml:space="preserve">
+<source xml:lang="pt-BR">15/10/2017</source>
+<seg-source><mrk mid="0" mtype="seg">15/10/2017</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Sheet1!B3" xml:space="preserve">
+<source xml:lang="pt-BR">Mara</source>
+<seg-source><mrk mid="0" mtype="seg">Mara</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Sheet1!C3" xml:space="preserve">
+<source xml:lang="pt-BR">Hashimoto</source>
+<seg-source><mrk mid="0" mtype="seg">Hashimoto</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Sheet1!D3" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Sheet1!E3" xml:space="preserve">
+<source xml:lang="pt-BR">Great Britain</source>
+<seg-source><mrk mid="0" mtype="seg">Great Britain</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Sheet1!G3" xml:space="preserve">
+<source xml:lang="pt-BR">16/08/2016</source>
+<seg-source><mrk mid="0" mtype="seg">16/08/2016</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Sheet1!B4" xml:space="preserve">
+<source xml:lang="pt-BR">Philip</source>
+<seg-source><mrk mid="0" mtype="seg">Philip</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Sheet1!C4" xml:space="preserve">
+<source xml:lang="pt-BR">Gent</source>
+<seg-source><mrk mid="0" mtype="seg">Gent</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Sheet1!D4" xml:space="preserve">
+<source xml:lang="pt-BR">Male</source>
+<seg-source><mrk mid="0" mtype="seg">Male</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Sheet1!E4" xml:space="preserve">
+<source xml:lang="pt-BR">France</source>
+<seg-source><mrk mid="0" mtype="seg">France</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Sheet1!G4" xml:space="preserve">
+<source xml:lang="pt-BR">21/05/2015</source>
+<seg-source><mrk mid="0" mtype="seg">21/05/2015</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Sheet1!B5" xml:space="preserve">
+<source xml:lang="pt-BR">Kathleen</source>
+<seg-source><mrk mid="0" mtype="seg">Kathleen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Sheet1!C5" xml:space="preserve">
+<source xml:lang="pt-BR">Hanner</source>
+<seg-source><mrk mid="0" mtype="seg">Hanner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Sheet1!D5" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="Sheet1!E5" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Sheet1!G5" xml:space="preserve">
+<source xml:lang="pt-BR">15/10/2017</source>
+<seg-source><mrk mid="0" mtype="seg">15/10/2017</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="Sheet1!B6" xml:space="preserve">
+<source xml:lang="pt-BR">Nereida</source>
+<seg-source><mrk mid="0" mtype="seg">Nereida</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Sheet1!C6" xml:space="preserve">
+<source xml:lang="pt-BR">Magwood</source>
+<seg-source><mrk mid="0" mtype="seg">Magwood</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="Sheet1!D6" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Sheet1!E6" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="Sheet1!G6" xml:space="preserve">
+<source xml:lang="pt-BR">16/08/2016</source>
+<seg-source><mrk mid="0" mtype="seg">16/08/2016</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="Sheet1!B7" xml:space="preserve">
+<source xml:lang="pt-BR">Gaston</source>
+<seg-source><mrk mid="0" mtype="seg">Gaston</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="Sheet1!C7" xml:space="preserve">
+<source xml:lang="pt-BR">Brumm</source>
+<seg-source><mrk mid="0" mtype="seg">Brumm</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="Sheet1!D7" xml:space="preserve">
+<source xml:lang="pt-BR">Male</source>
+<seg-source><mrk mid="0" mtype="seg">Male</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="Sheet1!E7" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="Sheet1!G7" xml:space="preserve">
+<source xml:lang="pt-BR">21/05/2015</source>
+<seg-source><mrk mid="0" mtype="seg">21/05/2015</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="Sheet1!B8" xml:space="preserve">
+<source xml:lang="pt-BR">Etta</source>
+<seg-source><mrk mid="0" mtype="seg">Etta</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="Sheet1!C8" xml:space="preserve">
+<source xml:lang="pt-BR">Hurn</source>
+<seg-source><mrk mid="0" mtype="seg">Hurn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="Sheet1!D8" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="Sheet1!E8" xml:space="preserve">
+<source xml:lang="pt-BR">Great Britain</source>
+<seg-source><mrk mid="0" mtype="seg">Great Britain</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="Sheet1!G8" xml:space="preserve">
+<source xml:lang="pt-BR">15/10/2017</source>
+<seg-source><mrk mid="0" mtype="seg">15/10/2017</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="Sheet1!B9" xml:space="preserve">
+<source xml:lang="pt-BR">Earlean</source>
+<seg-source><mrk mid="0" mtype="seg">Earlean</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="Sheet1!C9" xml:space="preserve">
+<source xml:lang="pt-BR">Melgar</source>
+<seg-source><mrk mid="0" mtype="seg">Melgar</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="Sheet1!D9" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="Sheet1!E9" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="Sheet1!G9" xml:space="preserve">
+<source xml:lang="pt-BR">16/08/2016</source>
+<seg-source><mrk mid="0" mtype="seg">16/08/2016</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="Sheet1!B10" xml:space="preserve">
+<source xml:lang="pt-BR">Vincenza</source>
+<seg-source><mrk mid="0" mtype="seg">Vincenza</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="Sheet1!C10" xml:space="preserve">
+<source xml:lang="pt-BR">Weiland</source>
+<seg-source><mrk mid="0" mtype="seg">Weiland</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" resname="Sheet1!D10" xml:space="preserve">
+<source xml:lang="pt-BR">Female</source>
+<seg-source><mrk mid="0" mtype="seg">Female</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="Sheet1!E10" xml:space="preserve">
+<source xml:lang="pt-BR">United States</source>
+<seg-source><mrk mid="0" mtype="seg">United States</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" resname="Sheet1!G10" xml:space="preserve">
+<source xml:lang="pt-BR">21/05/2015</source>
+<seg-source><mrk mid="0" mtype="seg">21/05/2015</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="wd-spectools-word-sample-04_9574140441562893811.docx" source-language="pt-BR" target-language="en-US" datatype="x-docx">
+<header><reference><internal-file form="base64"> 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 </internal-file></reference></header>
+<body>
+</body>
+</file>
+<file original="docx" source-language="pt-BR" target-language="en-US" datatype="x-undefined">
+<body>
+<trans-unit id="P244D057-tu1" xml:space="preserve">
+<source xml:lang="pt-BR">?&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">?&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu2" xml:space="preserve">
+<source xml:lang="pt-BR">Word Specification Sample&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Word Specification Sample&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu3" xml:space="preserve">
+<source xml:lang="pt-BR">Working Draft 04, 16 August 2002&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Working Draft 04, 16 August 2002&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu4" xml:space="preserve">
+<source xml:lang="pt-BR">Document identifier:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Document identifier:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu5" xml:space="preserve">
+<source xml:lang="pt-BR">wd-spectools-word-sample-04&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">wd-spectools-word-sample-04&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu6" xml:space="preserve">
+<source xml:lang="pt-BR">Location:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Location:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu7" xml:space="preserve">
+<source xml:lang="pt-BR">?HYPERLINK "http://www.oasis-open.org/spectools/docs/"??http://www.oasis-open.org/spectools/docs/?&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">?HYPERLINK "http://www.oasis-open.org/spectools/docs/"??http://www.oasis-open.org/spectools/docs/?&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu8" xml:space="preserve">
+<source xml:lang="pt-BR">Editor:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Editor:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu9" xml:space="preserve">
+<source xml:lang="pt-BR">[List your editors here; check whether “Editor” header should be plural]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[List your editors here; check whether “Editor” header should be plural]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu10" xml:space="preserve">
+<source xml:lang="pt-BR">Eve Maler, Sun Microsystems &lt;? HYPERLINK "mailto:eve.maler@sun.com" ??eve.maler@sun.com?>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Eve Maler, Sun Microsystems &lt;? </mrk><mrk mid="1" mtype="seg">HYPERLINK "mailto:eve.maler@sun.com" ??eve.maler@sun.com?>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu11" xml:space="preserve">
+<source xml:lang="pt-BR">Contributors:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Contributors:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu12" xml:space="preserve">
+<source xml:lang="pt-BR">[List your contributors here]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[List your contributors here]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu13" xml:space="preserve">
+<source xml:lang="pt-BR">[Optionally list them in the Acknowledgments appendix instead]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[Optionally list them in the Acknowledgments appendix instead]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu14" xml:space="preserve">
+<source xml:lang="pt-BR">Karl Best, OASIS&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Karl Best, OASIS&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu15" xml:space="preserve">
+<source xml:lang="pt-BR">Norman Walsh, Sun Microsystems&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Norman Walsh, Sun Microsystems&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu16" xml:space="preserve">
+<source xml:lang="pt-BR">Abstract:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Abstract:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu17" xml:space="preserve">
+<source xml:lang="pt-BR">[Supply your own summary of the technical purpose of the document.] This document provides a working MS Word 2000 sample from which you can start editing your own OASIS-published document. Instructions are provided as italic text in brackets, which should be deleted before publication. Full instructions are provided in the body of the document.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[Supply your own summary of the technical purpose of the document.] This document provides a working MS Word 2000 sample from which you can start editing your own OASIS-published document. </mrk><mrk mid="1" mtype="seg">Instructions are provided as italic text in brackets, which should be deleted before publication. </mrk><mrk mid="2" mtype="seg">Full instructions are provided in the body of the document.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu18" xml:space="preserve">
+<source xml:lang="pt-BR">Status:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Status:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu19" xml:space="preserve">
+<source xml:lang="pt-BR">[Describe the status and stability of the specification and where to send comments.] This document is updated periodically on no particular schedule. Send comments to the editor.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[Describe the status and stability of the specification and where to send comments.] This document is updated periodically on no particular schedule. </mrk><mrk mid="1" mtype="seg">Send comments to the editor.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu20" xml:space="preserve">
+<source xml:lang="pt-BR">[This is boilerplate; to use, fix the hyperlinks:] Committee members should send comments on this specification to the ? HYPERLINK "mailto:xxx@lists.oasis-open.org" ??xxx@lists.oasis-open.org? list. Others should subscribe to and send comments to the ?HYPERLINK "mailto:xxx-comment@lists.oasis-open.org"??xxx-comment@lists.oasis-open.org? list. To subscribe, send an email message to ?HYPERLINK "mailto:xxx-comment-request@lists.oasis-open.org?body=subscribe"??xxx-comment-request@lists.oasis-open.org? with the word "subscribe" as the body of the message.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[This is boilerplate; to use, fix the hyperlinks:] Committee members should send comments on this specification to the ? </mrk><mrk mid="1" mtype="seg">HYPERLINK "mailto:xxx@lists.oasis-open.org" ??xxx@lists.oasis-open.org? list. </mrk><mrk mid="2" mtype="seg">Others should subscribe to and send comments to the ?HYPERLINK "mailto:xxx-comment@lists.oasis-open.org"??xxx-comment@lists.oasis-open.org? list. </mrk><mrk mid="3" mtype="seg">To subscribe, send an email message to ?HYPERLINK "mailto:xxx-comment-request@lists.oasis-open.org?body=subscribe"??xxx-comment-request@lists.oasis-open.org? with the word "subscribe" as the body of the message.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu21" xml:space="preserve">
+<source xml:lang="pt-BR">[This is boilerplate; to use, fix the hyperlinks:] For information on whether any patents have been disclosed that may be essential to implementing this specification, and any offers of patent licensing terms, please refer to the Intellectual Property Rights section of the XXX TC web page (?HYPERLINK "http://www.oasis-open.org/committees/xxx/"??http://www.oasis-open.org/committees/xxx/?).&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[This is boilerplate; to use, fix the hyperlinks:] For information on whether any patents have been disclosed that may be essential to implementing this specification, and any offers of patent licensing terms, please refer to the Intellectual Property Rights section of the XXX TC web page (?HYPERLINK "http://www.oasis-open.org/committees/xxx/"??http://www.oasis-open.org/committees/xxx/?).&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu22" xml:space="preserve">
+<source xml:lang="pt-BR">[If a Committee Specification or OASIS Standard:] The errata page for this specification is at ? HYPERLINK "http://www.oasis-open.org/committees/xxx/yyy" ??http://www.oasis-open.org/committees/xxx/yyy?.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[If a Committee Specification or OASIS Standard:] The errata page for this specification is at ? </mrk><mrk mid="1" mtype="seg">HYPERLINK "http://www.oasis-open.org/committees/xxx/yyy" ??http://www.oasis-open.org/committees/xxx/yyy?.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu23" xml:space="preserve">
+<source xml:lang="pt-BR">?</source>
+<seg-source><mrk mid="0" mtype="seg">?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu24" xml:space="preserve">
+<source xml:lang="pt-BR">Table of Contents&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Table of Contents&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu25" xml:space="preserve">
+<source xml:lang="pt-BR">? TOC \o "1-3" \h \z ?? HYPERLINK \l "_Toc12011599" ??Introduction	? PAGEREF _Toc12011599 \h ??3??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">TOC \o "1-3" \h \z ?? </mrk><mrk mid="2" mtype="seg">HYPERLINK \l "_Toc12011599" ??Introduction	? </mrk><mrk mid="3" mtype="seg">PAGEREF _Toc12011599 \h ??3??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu26" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011600" ??1.1 Terminology	? PAGEREF _Toc12011600 \h ??3??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011600" ??1.1 Terminology	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011600 \h ??3??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu27" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011601" ??2<g id="1">	</g>Word Styles	? PAGEREF _Toc12011601 \h ??4??<g id="2">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011601" ??2<g id="1">	</g>Word Styles	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011601 \h ??4??<g id="2">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu28" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011602" ??2.1 Overall Style	? PAGEREF _Toc12011602 \h ??4??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011602" ??2.1 Overall Style	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011602 \h ??4??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu29" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011603" ??2.2 Title Page	? PAGEREF _Toc12011603 \h ??4??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011603" ??2.2 Title Page	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011603 \h ??4??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu30" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011604" ??2.3 Headings	? PAGEREF _Toc12011604 \h ??4??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011604" ??2.3 Headings	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011604 \h ??4??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu31" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011605" ??2.4 Paragraphs	? PAGEREF _Toc12011605 \h ??4??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011605" ??2.4 Paragraphs	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011605 \h ??4??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu32" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011606" ??2.5 Lists	? PAGEREF _Toc12011606 \h ??4??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011606" ??2.5 Lists	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011606 \h ??4??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu33" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011607" ??2.6 Tables	? PAGEREF _Toc12011607 \h ??5??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011607" ??2.6 Tables	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011607 \h ??5??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu34" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011608" ??2.7 Code Examples	? PAGEREF _Toc12011608 \h ??5??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011608" ??2.7 Code Examples	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011608 \h ??5??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu35" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011609" ??2.8 Character Styles	? PAGEREF _Toc12011609 \h ??5??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011609" ??2.8 Character Styles	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011609 \h ??5??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu36" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011610" ??3<g id="1">	</g>References	? PAGEREF _Toc12011610 \h ??6??<g id="2">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011610" ??3<g id="1">	</g>References	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011610 \h ??6??<g id="2">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu37" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011611" ??3.1 Normative	? PAGEREF _Toc12011611 \h ??6??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011611" ??3.1 Normative	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011611 \h ??6??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu38" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011612" ??Appendix A. Acknowledgments	? PAGEREF _Toc12011612 \h ??7??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011612" ??Appendix A. Acknowledgments	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011612 \h ??7??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu39" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011613" ??Appendix B. Revision History	? PAGEREF _Toc12011613 \h ??8??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011613" ??Appendix B. Revision History	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011613 \h ??8??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu40" xml:space="preserve">
+<source xml:lang="pt-BR">? HYPERLINK \l "_Toc12011614" ??Appendix C. Notices	? PAGEREF _Toc12011614 \h ??9??<g id="1">&#13;</g></source>
+<seg-source><mrk mid="0" mtype="seg">? </mrk><mrk mid="1" mtype="seg">HYPERLINK \l "_Toc12011614" ??Appendix C. Notices	? </mrk><mrk mid="2" mtype="seg">PAGEREF _Toc12011614 \h ??9??<g id="1">&#13;</g></mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu41" xml:space="preserve">
+<source xml:lang="pt-BR">?&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">?&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu42" xml:space="preserve">
+<source xml:lang="pt-BR">Introduction&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Introduction&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu43" xml:space="preserve">
+<source xml:lang="pt-BR">[Provide an introductory chapter, indicating if any parts of it are non-normative.]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[Provide an introductory chapter, indicating if any parts of it are non-normative.]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu44" xml:space="preserve">
+<source xml:lang="pt-BR">Terminology&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Terminology&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu45" xml:space="preserve">
+<source xml:lang="pt-BR">[The following is boilerplate. Most specifications will need this and the corresponding bibliography entry.] The key words must, must not, required, shall, shall not, should, should not, recommended, may, and optional in this document are to be interpreted as described in ? REF rfc2119 \h ??[RFC2119]?.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[The following is boilerplate. </mrk><mrk mid="1" mtype="seg">Most specifications will need this and the corresponding bibliography entry.] The key words must, must not, required, shall, shall not, should, should not, recommended, may, and optional in this document are to be interpreted as described in ? </mrk><mrk mid="2" mtype="seg">REF rfc2119 \h ??[RFC2119]?.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu46" xml:space="preserve">
+<source xml:lang="pt-BR">Word Styles&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Word Styles&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu47" xml:space="preserve">
+<source xml:lang="pt-BR">[This section is provided to explain and demonstrate the styles available in the Word template attached to this sample document. It is important to use the styles provided in the template consistently and to avoid defining new styles or using raw formatting.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[This section is provided to explain and demonstrate the styles available in the Word template attached to this sample document. </mrk><mrk mid="1" mtype="seg">It is important to use the styles provided in the template consistently and to avoid defining new styles or using raw formatting.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu48" xml:space="preserve">
+<source xml:lang="pt-BR">Delete this entire section when using this sample document to begin writing a new specification.]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Delete this entire section when using this sample document to begin writing a new specification.]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu49" xml:space="preserve">
+<source xml:lang="pt-BR">Overall Style&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Overall Style&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu50" xml:space="preserve">
+<source xml:lang="pt-BR">The paper size is set to Letter, which is 8 ½ x 11. You may change this to A4 or whatever other size suits your needs.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The paper size is set to Letter, which is 8 ½ x 11. </mrk><mrk mid="1" mtype="seg">You may change this to A4 or whatever other size suits your needs.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu51" xml:space="preserve">
+<source xml:lang="pt-BR">The document identifier and publication date information in the footer needs to be updated every time you publish.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The document identifier and publication date information in the footer needs to be updated every time you publish.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu52" xml:space="preserve">
+<source xml:lang="pt-BR">Line numbers are enabled by default for easy reference by specification commenters. You may turn line numbering off.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Line numbers are enabled by default for easy reference by specification commenters. </mrk><mrk mid="1" mtype="seg">You may turn line numbering off.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu53" xml:space="preserve">
+<source xml:lang="pt-BR">Title Page&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Title Page&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu54" xml:space="preserve">
+<source xml:lang="pt-BR">The title page is designed to fit a lot of metadata compactly. If you wish to create a “true” title page, you may insert a page break after the subtitle.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The title page is designed to fit a lot of metadata compactly. </mrk><mrk mid="1" mtype="seg">If you wish to create a “true” title page, you may insert a page break after the subtitle.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu55" xml:space="preserve">
+<source xml:lang="pt-BR">Headings&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Headings&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu56" xml:space="preserve">
+<source xml:lang="pt-BR">Heading 1 through Heading 9 and AppendixHeading have been defined with a special appearance. Headings are numbered and appear in the Table of Contents. Pressing Return after a heading inserts a Normal paragraph style directly after.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Heading 1 through Heading 9 and AppendixHeading have been defined with a special appearance. </mrk><mrk mid="1" mtype="seg">Headings are numbered and appear in the Table of Contents. </mrk><mrk mid="2" mtype="seg">Pressing Return after a heading inserts a Normal paragraph style directly after.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu57" xml:space="preserve">
+<source xml:lang="pt-BR">This template sets Heading 1 and AppendixHeading to start on a new page. You may set the Heading 1 style not to start on a new page if you wish. Major headings have a horizontal rule above them.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">This template sets Heading 1 and AppendixHeading to start on a new page. </mrk><mrk mid="1" mtype="seg">You may set the Heading 1 style not to start on a new page if you wish. </mrk><mrk mid="2" mtype="seg">Major headings have a horizontal rule above them.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu58" xml:space="preserve">
+<source xml:lang="pt-BR">Paragraphs&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Paragraphs&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu59" xml:space="preserve">
+<source xml:lang="pt-BR">The font in the Normal paragraph style is 10-pt Arial. You may change this to 11-pt Times New Roman if you prefer a serif font; changing these two settings should change all the other relevant styles.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The font in the Normal paragraph style is 10-pt Arial. </mrk><mrk mid="1" mtype="seg">You may change this to 11-pt Times New Roman if you prefer a serif font; changing these two settings should change all the other relevant styles.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu60" xml:space="preserve">
+<source xml:lang="pt-BR">Lists&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Lists&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu61" xml:space="preserve">
+<source xml:lang="pt-BR">The Definition term and Definition paragraph styles are defined specially for this template. They produce a definition list with a hanging appearance. Pressing Return after one inserts the other directly after.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The Definition term and Definition paragraph styles are defined specially for this template. </mrk><mrk mid="1" mtype="seg">They produce a definition list with a hanging appearance. </mrk><mrk mid="2" mtype="seg">Pressing Return after one inserts the other directly after.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu62" xml:space="preserve">
+<source xml:lang="pt-BR">Definition term&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Definition term&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu63" xml:space="preserve">
+<source xml:lang="pt-BR">Definition for the term.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Definition for the term.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu64" xml:space="preserve">
+<source xml:lang="pt-BR">Use List bullet for first-level bulleted lists. Use List bullet 2 for second-level bulleted lists. Use List continue for continued paragraphs in list items.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Use List bullet for first-level bulleted lists. </mrk><mrk mid="1" mtype="seg">Use List bullet 2 for second-level bulleted lists. </mrk><mrk mid="2" mtype="seg">Use List continue for continued paragraphs in list items.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu65" xml:space="preserve">
+<source xml:lang="pt-BR">List bullet&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">List bullet&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu66" xml:space="preserve">
+<source xml:lang="pt-BR">List continue.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">List continue.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu67" xml:space="preserve">
+<source xml:lang="pt-BR">List bullet 2&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">List bullet 2&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu68" xml:space="preserve">
+<source xml:lang="pt-BR">List continue 2.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">List continue 2.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu69" xml:space="preserve">
+<source xml:lang="pt-BR">For bibliography lists, use the Ref paragraph style.  Use the Ref term character style for the bracketed text that serves as the bibliography entry key, and make each reference term into a bookmark for use as references from the text. For example, ? REF rfc2119 \h ??[RFC2119]? is a generated cross-reference to the IETF RFC 2119 bibliography entry in Section ? REF _Ref7502892 \r \h ??3.1? of this sample.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">For bibliography lists, use the Ref paragraph style.  </mrk><mrk mid="1" mtype="seg">Use the Ref term character style for the bracketed text that serves as the bibliography entry key, and make each reference term into a bookmark for use as references from the text. </mrk><mrk mid="2" mtype="seg">For example, ? </mrk><mrk mid="3" mtype="seg">REF rfc2119 \h ??[RFC2119]? is a generated cross-reference to the IETF RFC 2119 bibliography entry in Section ? </mrk><mrk mid="4" mtype="seg">REF _Ref7502892 \r \h ??3.1? of this sample.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu70" xml:space="preserve">
+<source xml:lang="pt-BR">Tables&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Tables&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu71" xml:space="preserve">
+<source xml:lang="pt-BR">Use the following style for most tables: [To be supplied; suggestions welcome!]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Use the following style for most tables: [To be supplied; suggestions welcome!]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu72" xml:space="preserve">
+<source xml:lang="pt-BR">Code Examples&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Code Examples&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu73" xml:space="preserve">
+<source xml:lang="pt-BR">For schema code and other normative code, use the Code paragraph style. It fits 71 characters. For example:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">For schema code and other normative code, use the Code paragraph style. </mrk><mrk mid="1" mtype="seg">It fits 71 characters. </mrk><mrk mid="2" mtype="seg">For example:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu74" xml:space="preserve">
+<source xml:lang="pt-BR">12345678901234567890123456789012345678901234567890123456789012345678901&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">12345678901234567890123456789012345678901234567890123456789012345678901&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu75" xml:space="preserve">
+<source xml:lang="pt-BR">         1         2         3         4         5         6         7&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">         1         2         3         4         5         6         7&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu76" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;simpleType name="DecisionType">&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;simpleType name="DecisionType">&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu77" xml:space="preserve">
+<source xml:lang="pt-BR">    &lt;restriction base="string">&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">    &lt;restriction base="string">&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu78" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Permit"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Permit"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu79" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Deny"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Deny"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu80" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Indeterminate"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Indeterminate"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu81" xml:space="preserve">
+<source xml:lang="pt-BR">    &lt;/restriction>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">    &lt;/restriction>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu82" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;/simpleType>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;/simpleType>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu83" xml:space="preserve">
+<source xml:lang="pt-BR">Use the Code small style if the code has very long lines. It fits 80 characters. For example:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Use the Code small style if the code has very long lines. </mrk><mrk mid="1" mtype="seg">It fits 80 characters. </mrk><mrk mid="2" mtype="seg">For example:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu84" xml:space="preserve">
+<source xml:lang="pt-BR">12345678901234567890123456789012345678901234567890123456789012345678901234567890&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">12345678901234567890123456789012345678901234567890123456789012345678901234567890&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu85" xml:space="preserve">
+<source xml:lang="pt-BR">         1         2         3         4         5         6         7         8&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">         1         2         3         4         5         6         7         8&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu86" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;simpleType name="DecisionType">&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;simpleType name="DecisionType">&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu87" xml:space="preserve">
+<source xml:lang="pt-BR">    &lt;restriction base="string">&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">    &lt;restriction base="string">&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu88" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Permit"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Permit"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu89" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Deny"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Deny"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu90" xml:space="preserve">
+<source xml:lang="pt-BR">        &lt;enumeration value="Indeterminate"/>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">        &lt;enumeration value="Indeterminate"/>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu91" xml:space="preserve">
+<source xml:lang="pt-BR">    &lt;/restriction>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">    &lt;/restriction>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu92" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;/simpleType>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;/simpleType>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu93" xml:space="preserve">
+<source xml:lang="pt-BR">For non-normative examples, use the Example paragraph style. For example:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">For non-normative examples, use the Example paragraph style. </mrk><mrk mid="1" mtype="seg">For example:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu94" xml:space="preserve">
+<source xml:lang="pt-BR">GET http://&lt;host name and path>?TARGET=&lt;Target>...&lt;HTTP-Version>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">GET http://&lt;host name and path>?TARGET=&lt;Target>...&lt;HTTP-Version>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu95" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;other HTTP 1.0 or 1.1 components>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;other HTTP 1.0 or 1.1 components>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu96" xml:space="preserve">
+<source xml:lang="pt-BR">Use the Example small style if the example has very long lines. For example:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Use the Example small style if the example has very long lines. </mrk><mrk mid="1" mtype="seg">For example:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu97" xml:space="preserve">
+<source xml:lang="pt-BR">GET http://&lt;host name and path>?TARGET=&lt;Target>...&lt;HTTP-Version>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">GET http://&lt;host name and path>?TARGET=&lt;Target>...&lt;HTTP-Version>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu98" xml:space="preserve">
+<source xml:lang="pt-BR">&lt;other HTTP 1.0 or 1.1 components>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;other HTTP 1.0 or 1.1 components>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu99" xml:space="preserve">
+<source xml:lang="pt-BR">Character Styles&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Character Styles&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu100" xml:space="preserve">
+<source xml:lang="pt-BR">This template defines several character styles for general text use:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">This template defines several character styles for general text use:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu101" xml:space="preserve">
+<source xml:lang="pt-BR">Element style (shortcut Ctrl-Shift-E) for <g id="1">&lt;NativeElement></g> names and <g id="2">&lt;ns:ForeignElement></g> names; add the angle brackets yourself&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Element style (shortcut Ctrl-Shift-E) for <g id="1">&lt;NativeElement></g> names and <g id="2">&lt;ns:ForeignElement></g> names; add the angle brackets yourself&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu102" xml:space="preserve">
+<source xml:lang="pt-BR">Attribute style (shortcut Ctrl-Shift-A) for <g id="1">attributeNames</g>&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Attribute style (shortcut Ctrl-Shift-A) for <g id="1">attributeNames</g>&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu103" xml:space="preserve">
+<source xml:lang="pt-BR">Datatype style (shortcut Ctrl-Shift-Alt-D) for <g id="1">DataType</g> names&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Datatype style (shortcut Ctrl-Shift-Alt-D) for <g id="1">DataType</g> names&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu104" xml:space="preserve">
+<source xml:lang="pt-BR">Keyword style (shortcut Ctrl-Shift-K) for OtherKeyword names&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Keyword style (shortcut Ctrl-Shift-K) for OtherKeyword names&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu105" xml:space="preserve">
+<source xml:lang="pt-BR">Variable style (shortcut Ctrl-Shift-Alt-V) for variable names&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Variable style (shortcut Ctrl-Shift-Alt-V) for variable names&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu106" xml:space="preserve">
+<source xml:lang="pt-BR">References&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">References&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu107" xml:space="preserve">
+<source xml:lang="pt-BR">Normative&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Normative&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu108" xml:space="preserve">
+<source xml:lang="pt-BR">[RFC2119]	S. Bradner, Key words for use in RFCs to Indicate Requirement Levels, ? HYPERLINK "http://www.ietf.org/rfc/rfc2119.txt" ??http://www.ietf.org/rfc/rfc2119.txt?, IETF RFC 2119, March 1997.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[RFC2119]	S. Bradner, Key words for use in RFCs to Indicate Requirement Levels, ? </mrk><mrk mid="1" mtype="seg">HYPERLINK "http://www.ietf.org/rfc/rfc2119.txt" ??http://www.ietf.org/rfc/rfc2119.txt?, IETF RFC 2119, March 1997.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu109" xml:space="preserve">
+<source xml:lang="pt-BR">Acknowledgments&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Acknowledgments&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu110" xml:space="preserve">
+<source xml:lang="pt-BR">The following individuals were members of the committee during the development of this specification:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The following individuals were members of the committee during the development of this specification:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu111" xml:space="preserve">
+<source xml:lang="pt-BR">Jane Doe, Example Corp.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Jane Doe, Example Corp.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu112" xml:space="preserve">
+<source xml:lang="pt-BR">A. Nonymous (chair), Example Corp.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">A. Nonymous (chair), Example Corp.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu113" xml:space="preserve">
+<source xml:lang="pt-BR">John Smith, Example Corp.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">John Smith, Example Corp.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu114" xml:space="preserve">
+<source xml:lang="pt-BR">Karl Best, OASIS&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Karl Best, OASIS&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu115" xml:space="preserve">
+<source xml:lang="pt-BR">John Doe, Other Examples, Inc.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">John Doe, Other Examples, Inc.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu116" xml:space="preserve">
+<source xml:lang="pt-BR">Eve Maler, Sun Microsystems&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Eve Maler, Sun Microsystems&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu117" xml:space="preserve">
+<source xml:lang="pt-BR">Norman Walsh, Sun Microsystems&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Norman Walsh, Sun Microsystems&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu118" xml:space="preserve">
+<source xml:lang="pt-BR">In addition, the following people made contributions to this specification:&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">In addition, the following people made contributions to this specification:&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu119" xml:space="preserve">
+<source xml:lang="pt-BR">Joe Blow, Example Corp.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Joe Blow, Example Corp.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu120" xml:space="preserve">
+<source xml:lang="pt-BR">Revision History&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Revision History&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu121" xml:space="preserve">
+<source xml:lang="pt-BR">[This appendix is optional, but helpful. It should be removed for specifications that are at OASIS Standard level.]&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">[This appendix is optional, but helpful. </mrk><mrk mid="1" mtype="seg">It should be removed for specifications that are at OASIS Standard level.]&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu122" xml:space="preserve">
+<source xml:lang="pt-BR">Rev?</source>
+<seg-source><mrk mid="0" mtype="seg">Rev?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu123" xml:space="preserve">
+<source xml:lang="pt-BR">Date?</source>
+<seg-source><mrk mid="0" mtype="seg">Date?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu124" xml:space="preserve">
+<source xml:lang="pt-BR">By Whom?</source>
+<seg-source><mrk mid="0" mtype="seg">By Whom?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu125" xml:space="preserve">
+<source xml:lang="pt-BR">What?</source>
+<seg-source><mrk mid="0" mtype="seg">What?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu126" xml:space="preserve">
+<source xml:lang="pt-BR">?</source>
+<seg-source><mrk mid="0" mtype="seg">?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu127" xml:space="preserve">
+<source xml:lang="pt-BR">wd-00?</source>
+<seg-source><mrk mid="0" mtype="seg">wd-00?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu128" xml:space="preserve">
+<source xml:lang="pt-BR">2002-04-26?</source>
+<seg-source><mrk mid="0" mtype="seg">2002-04-26?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu129" xml:space="preserve">
+<source xml:lang="pt-BR">Eve Maler?</source>
+<seg-source><mrk mid="0" mtype="seg">Eve Maler?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu130" xml:space="preserve">
+<source xml:lang="pt-BR">Initial version?</source>
+<seg-source><mrk mid="0" mtype="seg">Initial version?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu131" xml:space="preserve">
+<source xml:lang="pt-BR">?</source>
+<seg-source><mrk mid="0" mtype="seg">?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu132" xml:space="preserve">
+<source xml:lang="pt-BR">wd-03?</source>
+<seg-source><mrk mid="0" mtype="seg">wd-03?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu133" xml:space="preserve">
+<source xml:lang="pt-BR">2002-06-12?</source>
+<seg-source><mrk mid="0" mtype="seg">2002-06-12?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu134" xml:space="preserve">
+<source xml:lang="pt-BR">Eve Maler?</source>
+<seg-source><mrk mid="0" mtype="seg">Eve Maler?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu135" xml:space="preserve">
+<source xml:lang="pt-BR">Incorporates decision to put IPR boilerplate in the Status section and comments from Drummond Group.?</source>
+<seg-source><mrk mid="0" mtype="seg">Incorporates decision to put IPR boilerplate in the Status section and comments from Drummond Group.?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu136" xml:space="preserve">
+<source xml:lang="pt-BR">?</source>
+<seg-source><mrk mid="0" mtype="seg">?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu137" xml:space="preserve">
+<source xml:lang="pt-BR">Wd-04?</source>
+<seg-source><mrk mid="0" mtype="seg">Wd-04?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu138" xml:space="preserve">
+<source xml:lang="pt-BR">2002-08-16?</source>
+<seg-source><mrk mid="0" mtype="seg">2002-08-16?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu139" xml:space="preserve">
+<source xml:lang="pt-BR">Eve Maler?</source>
+<seg-source><mrk mid="0" mtype="seg">Eve Maler?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu140" xml:space="preserve">
+<source xml:lang="pt-BR">Updated the copyright statements to meet legal requirements.?</source>
+<seg-source><mrk mid="0" mtype="seg">Updated the copyright statements to meet legal requirements.?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu141" xml:space="preserve">
+<source xml:lang="pt-BR">?</source>
+<seg-source><mrk mid="0" mtype="seg">?</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu142" xml:space="preserve">
+<source xml:lang="pt-BR">&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu143" xml:space="preserve">
+<source xml:lang="pt-BR">Notices&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Notices&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu144" xml:space="preserve">
+<source xml:lang="pt-BR">OASIS takes no position regarding the validity or scope of any intellectual property or other rights that might be claimed to pertain to the implementation or use of the technology described in this document or the extent to which any license under such rights might or might not be available; neither does it represent that it has made any effort to identify any such rights. Information on OASIS's procedures with respect to rights in OASIS specifications can be found at the OASIS website. Copies of claims of rights made available for publication and any assurances of licenses to be made available, or the result of an attempt made to obtain a general license or permission for the use of such proprietary rights by implementors or users of this specification, can be obtained from the OASIS Executive Director.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">OASIS takes no position regarding the validity or scope of any intellectual property or other rights that might be claimed to pertain to the implementation or use of the technology described in this document or the extent to which any license under such rights might or might not be available; neither does it represent that it has made any effort to identify any such rights. </mrk><mrk mid="1" mtype="seg">Information on OASIS's procedures with respect to rights in OASIS specifications can be found at the OASIS website. </mrk><mrk mid="2" mtype="seg">Copies of claims of rights made available for publication and any assurances of licenses to be made available, or the result of an attempt made to obtain a general license or permission for the use of such proprietary rights by implementors or users of this specification, can be obtained from the OASIS Executive Director.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu145" xml:space="preserve">
+<source xml:lang="pt-BR">OASIS invites any interested party to bring to its attention any copyrights, patents or patent applications, or other proprietary rights which may cover technology that may be required to implement this specification. Please address the information to the OASIS Executive Director.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">OASIS invites any interested party to bring to its attention any copyrights, patents or patent applications, or other proprietary rights which may cover technology that may be required to implement this specification. </mrk><mrk mid="1" mtype="seg">Please address the information to the OASIS Executive Director.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu146" xml:space="preserve">
+<source xml:lang="pt-BR">Copyright  © OASIS Open 2002. All Rights Reserved.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">Copyright  © OASIS Open 2002. </mrk><mrk mid="1" mtype="seg">All Rights Reserved.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu147" xml:space="preserve">
+<source xml:lang="pt-BR">This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself does not be modified in any way, such as by removing the copyright notice or references to OASIS, except as needed for the purpose of developing OASIS specifications, in which case the procedures for copyrights defined in the OASIS Intellectual Property Rights document must be followed, or as required to translate it into languages other than English.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. </mrk><mrk mid="1" mtype="seg">However, this document itself does not be modified in any way, such as by removing the copyright notice or references to OASIS, except as needed for the purpose of developing OASIS specifications, in which case the procedures for copyrights defined in the OASIS Intellectual Property Rights document must be followed, or as required to translate it into languages other than English.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu148" xml:space="preserve">
+<source xml:lang="pt-BR">The limited permissions granted above are perpetual and will not be revoked by OASIS or its successors or assigns.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">The limited permissions granted above are perpetual and will not be revoked by OASIS or its successors or assigns.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P244D057-tu149" xml:space="preserve">
+<source xml:lang="pt-BR">This document and the information contained herein is provided on an “AS IS” basis and OASIS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.&#13;</source>
+<seg-source><mrk mid="0" mtype="seg">This document and the information contained herein is provided on an “AS IS” basis and OASIS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.&#13;</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

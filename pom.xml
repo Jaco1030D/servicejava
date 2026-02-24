@@ -90,6 +90,13 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.5</version>
 		</dependency>
+		
+		<!-- Apache POI para formatos antigos (XLS, PPT) -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-scratchpad</artifactId>
+			<version>5.2.5</version>
+		</dependency>
    </dependencies>
    <build>
 		<plugins>

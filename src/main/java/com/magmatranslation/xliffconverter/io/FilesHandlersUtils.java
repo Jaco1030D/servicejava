@@ -8,6 +8,8 @@ import net.sf.okapi.common.filters.IFilter;
 import net.sf.okapi.filters.openxml.ConditionalParameters;
 import net.sf.okapi.lib.segmentation.SRXDocument;
 
+
+//Classe com o objetivo de agrupar metodos que lidam com regras e filtros
 public class FilesHandlersUtils {
 
     public static void configFilter(IFilter filter, String filePath) {

@@ -18,11 +18,11 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 import com.magmatranslation.xliffconverter.BodyRequests.CreateXliffFromDocx;
-import com.magmatranslation.xliffconverter.cli.DocxMain;
 import com.magmatranslation.xliffconverter.cli.Main;
 import com.magmatranslation.xliffconverter.exceptions.InvalidFileTypeException;
 import com.magmatranslation.xliffconverter.services.storage.StorageFileNotFoundException;
 import com.magmatranslation.xliffconverter.services.storage.StorageService;
+import com.magmatranslation.xliffconverter.utils.FileUtils;
 import com.magmatranslation.xliffconverter.validators.FileValidator;
 import com.magmatranslation.xliffconverter.validators.FileValidator.ValidationResult;
 
@@ -38,6 +38,7 @@ public class MainController {
         FILE_TYPE_MAP.put(".doc", "DOCX");
         FILE_TYPE_MAP.put(".xlsx", "EXCEL");
         FILE_TYPE_MAP.put(".xls", "EXCEL");
+        FILE_TYPE_MAP.put(".csv", "EXCEL");
         FILE_TYPE_MAP.put(".pptx", "PPTX");
         FILE_TYPE_MAP.put(".ppt", "PPTX");
     }
@@ -79,6 +80,7 @@ public class MainController {
             "CREATEFILEXLIFF"                      // index 7 - action
         };
 
+        String FileNameToSend = FileUtils.getOriginalFileName(file.getOriginalFilename()) + ".xlf";
         // Validação do tipo de arquivo
         ValidationResult validationResult = FileValidator.validateFileType(
             fileType,
@@ -96,12 +98,11 @@ public class MainController {
 
         System.out.println("Criando XLIFF para arquivo tipo: " + fileType);
 
-        // Método principal - usa DocxMain que funciona para todos os tipos OpenXML
         Resource resource = Main.createXLIFF(customArgs);
         
         return ResponseEntity.ok()
             .contentType(MediaType.APPLICATION_OCTET_STREAM)
-            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + file.getOriginalFilename() + ".xlf\"")
+            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" +FileNameToSend+"\"")
             .body(resource);
     }
 
@@ -142,17 +143,18 @@ public class MainController {
         String filePath = "upload-dir" + File.separator + file.getOriginalFilename();
         customArgs[5] = filePath;
 
+        String originalExtension = FileUtils.getSecondFileOriginalAttribute(filePath);
+
         System.out.println("Traduzindo XLIFF com redução de fonte: " + reduceFont);
 
         // Método principal
-        Resource resource = DocxMain.translateDocxWithXLIFF(customArgs, filePath, reduceFont);
+        Resource resource = Main.translateFileWithXLIFF(customArgs, filePath, reduceFont);
         
         // Detecta a extensão do arquivo original a partir do XLIFF
-        String originalExtension = detectOriginalExtensionFromXliff(file.getOriginalFilename());
         
         return ResponseEntity.ok()
             .contentType(MediaType.APPLICATION_OCTET_STREAM)
-            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + extractOriginalFileName(file.getOriginalFilename()) + originalExtension + "\"")
+            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + extractOriginalFileName(file.getOriginalFilename()) + "." + originalExtension + "\"")
             .body(resource);
     }
 
@@ -192,15 +194,6 @@ public class MainController {
         return name;
     }
 
-    /**
-     * Tenta detectar a extensão original do arquivo a partir do nome do XLIFF
-     * Por padrão retorna .docx, mas pode ser melhorado para detectar outros tipos
-     */
-    private String detectOriginalExtensionFromXliff(String xliffFilename) {
-        // Por enquanto retorna .docx como padrão
-        // Isso pode ser melhorado lendo o XLIFF para detectar o tipo original
-        return ".docx";
-    }
 
     @ExceptionHandler(StorageFileNotFoundException.class)
     public ResponseEntity<?> handleStorageFileNotFound(StorageFileNotFoundException exc) {

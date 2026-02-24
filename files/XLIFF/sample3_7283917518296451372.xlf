@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="sample3_7283917518296451372.xlsx" source-language="pt-BR" target-language="en-US" datatype="x-docx">
+<header><reference><internal-file form="base64"> UEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbLVTy27CMBD8lcjXKjb0UFUVgUMfxxap9ANce5NY+CWvofD3XQc4lFKJCnHyY2ZnZlf2ZLZxtlpDQhN8w8Z8xCrwKmjju4Z9LF7qe1Zhll5LGzw0bAvIZtPJYhsBK6r12LA+5/ggBKoenEQeInhC2pCczHRMnYhSLWUH4nY0uhMq+Aw+17losOnkCVq5srl63N0X6YbJGK1RMlMssfb6SLTeC/IEduBgbyLeEIFVzxtS2bVDKDJxhsNxYTlT3RsNJhkN/4oW2tYo0EGtHJVwKKoadB0TEVM2sM85lym/SkeCgshzQlGQNL/E+zAWFRKcZViIFzkedYsxgdTYA2RnOfYygX7PiV7T7xAbK34Qrpgjb+2JKZQAA3LNCdDKnTT+lPtXSMvPEJbX8y8Ow/4v+wFEMSzjQw4xfO/pN1BLBwiRLCi8OwEAAB0EAABQSwMEFAAICAgA6nlRXAAAAAAAAAAAAAAAAAsAAABfcmVscy8ucmVsc62SwUoDMRCGXyXMvZttBRFp2osIvYnUBxiT2d2wm0xIRt2+vcGLtmxBweMwM9//Mcl2P4dJvVMunqOBddOComjZ+dgbeDk+ru5AFcHocOJIBk5UYL/bPtOEUlfK4FNRlRGLgUEk3Wtd7EABS8OJYu10nANKLXOvE9oRe9Kbtr3V+ScDzpnq4Azkg1uDOmLuSQzMk/7gPL4yj03F1sYp0W9Cueu8pQe2b4GiLGRfTIBedtl8uzi2T5nrJqb03zI0C0VHbpVqAmXx9eJXjG4WjCxn+pvS9UfRgQQdCn5RL4T02R/YfQJQSwcIbjIIS+UAAABKAgAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAAQAAAAZG9jUHJvcHMvYXBwLnhtbE2OwQrCMBBE74L/EHJvt3oQkTSlIIIne9APCOnWBppNSFbp55uTepwZ5vFUt/pFvDFlF6iVu7qRAsmG0dGzlY/7pTrKTm83akghYmKHWZQH5VbOzPEEkO2M3uS6zFSWKSRvuMT0hDBNzuI52JdHYtg3zQFwZaQRxyp+gVKrPsbFWcNFQvfRFKQYblcF/72Cn4P+AFBLBwg2boMhkwAAALgAAABQSwMEFAAICAgA6nlRXAAAAAAAAAAAAAAAABEAAABkb2NQcm9wcy9jb3JlLnhtbG2QXUvDMBSG/0rIfZukwzlC2yHKQFAcWHF4F5JjW2w+SKLd/r1pnRXUuyTvcx5O3nJ71AP6AB96ayrMcooRGGlVb9oKPzW7bINRiMIoMVgDFT5BwNu6lI5L62HvrQMfewgoeUzg0lW4i9FxQoLsQIuQJ8Kk8NV6LWK6+pY4Id9EC6SgdE00RKFEFGQSZm4x4rNSyUXp3v0wC5QkMIAGEwNhOSM/bASvw78Dc7KQx9Av1DiO+biaubQRI4f7u8d5+aw3098l4Lo8q7n0ICIolAQ8nlyq5Dt5Xl3fNDtcF7RYZ7TI2GXDNpxd8IK+lOTX/CT8OltfX6VCOkD7h9uJW55L8qfm+hNQSwcIBPx9ngYBAACxAQAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAAUAAAAeGwvc2hhcmVkU3RyaW5ncy54bWyVXE1z2zgSvW/V/gcVLzNz0Dj+ku2pRLu2/DWJlXFF3qh2LlsQCYmwSEADgFLoX7/doOw47CasuSWQTQGN7n7vdTf9/l/fyqK3ltYpoz8k+7++S3pSpyZTevEh+c/Ddf80+dfwn/9475zvpabS/kMyGBwnvUqrvyo52q7snyQ9eJB2H5Lc+9Vve3suzWUp3K9mJTV8Mje2FB7+axd7bmWlyFwupS+LvYN37wZ7pVA6Gb53avjeD1X2fs8P3+/h/5qVubLO/0+LUrY/KUTHB/DlqmgvPprZ/7zyBfnp1JQroev2crLfXvliZtL69uq9sEtHnvko0qUz+t/ymyhXhcSzky9Ibo31Kq0KX1nl2g9Gm/7mViKVHxIwmpN2LZMh3ENZSpsqUSQJfeIXBdcpdnvSVBRLaXtCZ71PcOMJfd5Be+Gz8KJQxIKXQitZECNkpoTnVvJJlPWLIWD/7Z+7ggMtwPHq3qoQWsPvgE9osZCl1L5n5nOVStv+pWuFXmZ7d554THLYXvlock3WpF4qTTb9KOdzK+uzo/jV3VuzsAKvYjdju9p5WTpq42sr9LJQund/NyIfHlFn81bB5bfXp2KhqY38RhQujx3k3HlrtKHHGD7kBkK4f1NJSxxqeNxeGBm4N+IXF2Yjid2XwkoNxtgI62Nbu5PCoi/0MuXETBXK1z1dWUe+5UHUhbH9G2EZwySD9spXUUhL94ouAgHbXrYh5k8PYv6bJHdqZoVVov3rHc4gUpHJUqXUG+7kRrn+RJVGk89OyJZFSc8xKiAftRfVo9HSvZxBS5LFJgZTSg/3CHbMqT9A8lNooJAvJoYGTnJKnimsyNuLY7h2peUTSRbg17mw2eukydh6BOkP4Ad8IZNrWZhVyBEbY5d0y0kylbum1UspmqM9GAurTDI8I8erniBbUXcMD2ivwrFqAWa14NGx84EX44n2vPzmVSF7Xqa5NoVZUIAY3sPj6u772H9HtqbI9z1Y4rTDKjW6kHXMXZLkoqp3zX1WesBjDq7ObRkSUDv4Ox50Yc2muaULK7KauaRkn6D2JDWe7D/NEXHNCm4EviWXqYmmIpMKDxyp18AS42i3qmgTjo4z3AEpegpnCNfHnGGfwO6lWBM3m5TKk+By8FywjCzkqyhiru/aYA5WaW/l6jTvcK9bsUGA7I/hbPTM+xRkRQqsEKCM7JV/glwL7TKwaHSnwuVo+Uw6xUHcl0o99W+sXBjLMDiCnx8NhCxFT9ifEiWT/pfoJlJvtj8QD4lLk3qzY0wA3wGiVvRWVqTAASV1g88LiDDd+12n1EMI/p5rnxvKYUcVGJlkhs2iegJPjqZZtVZFbwKbhb31RAZEDgxhBT3fdp994GMMauwT+J14CVFHDH1X65S487Iu0GCQoqLhea5VCabUFXAjDFPOl6XVEBsQeXd3I7JJgqwX8CCvJbEngyfDlbQYJiXClyxi+5xI3+nHDYnpTOb7BFzvQfcUnZ7cXofbBGqN3gC/pZwTUXsq25tZwyAq0E8PcjHGAvYpTuZiQ+57rDykXZI0h0DOvuFF2f0o5bo3wAeRCOufXE84B1cuNBOSUxCaNPV0xOStKIpwsCmoVSBgjCCikIoUgNgp0DjizXkl4uAP8qqyEiSexi01kNMhf26rRS4hNxvI5OTYBwQEgXWlFdlRQCByA2gRH5euoH7m0jlwWNRuytNHJ8k1PJxecBeym3orRYPpONMTVLwDXUDUm4CLy0X9BtsdvYjoPdiDyoBxIft1FeympinuQsIle9//UjnH+OwBgcIHUIbEsBeCI6mZWCskvR65Ycw5/oBEE1wCNqr0Gu4oUN8ZyEf61EkOgjxzfRQ7+qliMsUBwcbRd07Ei0GS+ZZgjDrmJ6NcFdmWZHh4rlgxuXkqgd5Y1L/UkQnQXYFMIBwAdJClimIGHCcT+4OYI4xVtlFzGkHJtSlI+u/w3UbRPCcOzzlvckBw8DMWxUhUmwWl46+46uG7mIc8QKpbKyzmAa0wWZWGBBLJjqxk7jhloNHhkDdGP4FbPbHnJFB6VagnMZOUqz4/hhxXQCCgspNPMde60msFygFjAAICU2ZV8KfkFHHHIT+LNXy7Cce8AiSFI7OnJGiMlTzKHkXDyqwojYuiGahC//rOQh2M0xlfX3B8twPdwwlcOA4qFC6tErj+CBSBhPrUGFJma0ojxoaS4xvHc91IFkRd/8aU1BWSQ4K3W4JD+cCKBPGWkb2LxswX5ZZgH1HUNDElCSeyuqqpqnjmRS8sibH3IYHmT8LLoia+gxJOWCBC6sdCMocMaVqtnqEhpuhu4Ktc/wKzBGVuhwRgv6AyJmg3Av+w1NdncDH1IFo1/f07anVYPNibK+keEoi9AFWQ0W2MclhmxOa2urSxapH7GCL8/tDUXFQaCMFqBZHd5brT8LT+VM5mZMNUelZM5fxO0q5GYeoMOHo0pJCip2IGsJNauaGpFYKpfw6im9jnkCDqn5VWC4JEG5GhqoldZwidjorIsw7pnyOXZ4R1ckgQccwULi9ERR/+aHJ9Noht7TsS7s1VUe4BxZJmm2C5tLoleLtF+hcDcdEIIHRXDiAOaa2WFoiGl7BGLZMaWz8BYtioRkuSK71QWu6qbcAgKbYO+LbRBJGTbKWzgrXY1kqnoKqlZQ1AEHLcZGMmXlcl5TyN9wGtg6+J1odg76lC+r5roXemIDiyLkOwfZSujB+iv6FEVuSiZA1B8PWC6RMMJ0LPjSVprwB0LbcF84g3dGxwA+nesqcENG/n/05y21SYLyudCg7QkiOC0UC4qoy2YvgKUQk3V4PsBbPH/X0Ckj9VOxfYkK8CVcq481+YDfW5LgNU2jT12jHEEJaQWCMQWD9n6oxYx9UIKO0PvmG4RzE+Sc4jRbiOvf9QxeMMcSmLhcjMjnlPSsDvYIrQCecJTnJEeMRHwQDASDiP+a+93pSwN+ihcX946NCTXT036zkLXLnUzMSO9rxD4iSb1LcFONYChKxMVlIzwPOXQwB5w+1BIzmELiy4BIq3215/f6A7G4GTSayAMnum5YAa1AuN4kuZMvWG2lR6UQLvzeUmfp4RCOudgw9EMmiHN1LsEaE0Y2xvEM+CtLsBChhHk6ts9xTznVrQXd2KsjRYzvIZ7eoz1CdYjrCoMKFB6Y8WHmmu2LwhDM4tiL/XfdKuYmJQr9hqIFuleh5JRHvxs3BE388fmwGLaMUCHNIFht2heG+slLp/LzLUvWRzhGR8FFYSEL002qyZsooBzWg3kNLjwylph5iaCr3o31YzyB7kK48I6t9UXmFBlGhcTHdycBjbwliFXpHrrE9iE4xrbBwTaD7H0kp7UZaqqI+jhHpcFV4hbxKYivjJl+GNmoFD9jsmKY4JRD6o+ZwZvLqAuCE+D8lPvuL8jJUusG7kgPH85HopKECiJa6Vf1qF+Zll/1awWyTQhX1mWggc/qnw/AxvXQAuLmIZ5tXIV7RsdWsqLML3LxWmW05AHdMGLKgYNaf38qqAWKoMzvNGdR9Ah3e0jjz4PLUV8vSrdEOz4rbLxSLQMUGgSyyNU20byoakfLGQcBJ5fPRGuoHN9UQzbNbZzMfv3ZEeNwWL6NxIckzw6RJhnOYp5muHPjdvgdY1kGf1Y+PI2L3QxLGs2IWf3/F49xILWQ3+ig6td0zQ7MFk5HBNv4q/tHcn0dSTQrgUBn6/u+l4TGAKr5paM9Qa24sYkU+gslS8K3or7QoihweDJGFnHDrM+kdmAOy2zcZrgLiSlVbHBN/OU4guwteH63RLpmPO/1W5ClIO9r2QPChHfWOMPSjv+zjNRz89pqAGKZeWTYYgFOgUb9OANwfH0bveal3AEE29ZUDhzOVMdsbKPZMxy23LeYdOPZbXQGghW8Kg8tZwAywT402nTw5ooRfVA2HZBrIzxZEZFgn2T2JhfyON6yh9hJZ7v5kVJTA4ICD3SRaOWhErz3klrY/WX6bgebL39rhuSJTgWN9I5Axo99QaSgok5DjKnjaiFkW0Uor9H7Wt5v69SlGOoBmGw73azp/iZSscQDQ4vwNAzgz0omQDR1/vKtSCqzduJDQ4KFdfGBBsBB5BnAZvbHAQLdluxzu/m6L38yqv3XfzpNL90v6t0JJnB60HdBDpeX6DyRXMeK5V4MTf6ckbU7bMVMVboxy3ZiPZxlcyILh1I2ZIj+kbAlOG4q/kYlHPrXhSb237kh/56dh5+cK0Odei/YKu0g/yAO23nhWoBWsEApyTUH+hILygnQr0NzGIgjfkoK5mVJJwDYrOMuRzcy38iz0KQcsLiTKZDsUBalEVFjq1R/vxq7zKqjQ2lhN5ZyMMLTOMOFQ++zhgsXLM0PeAgO69ZFTkAnVyu/7CiSTQVg6hjYvQUGHhO7EnBHo/CeWZtuU0hzTdXvxr+XrqmVNFaoHvcsgX82K3omLYa5h3erEW2SXBXJZHeOCnZ9E8OZbIkUJWlHybpXlyf6INqdqcEIB9MMw40LgGat1eXC5ldKBmCnkNvKt3Y021Il9MkPSrsAs6txNGjrCJ9sOYF9u4f5lI6BBLf6QNk+3wGgJbX0RdMvJ+aop5e+1xq2aPooOAfwD9MIDQpPy0HeXod71vcEKrhiAzmL64r4H6HUez3DlAKrh92oj62Mh+I4M4LD0hcBRmN8hufBjFioJ8M6XW4SM04XuRMo1pnL8hWfIZ3EPFKKq0c2CDvZWwsQ4xFotw9CUl335Ccjkk7YKE0Lnn3uDa8vtCAd1evOXiN2YNyiQwV/fjKzBdTPaTLFd9Ns2dkFz9SeDUGzMRP0OdBdj0aqCLU/ahY9bZQz8lSXmC+oaYSb9dQ7gPXwCn75wW275l1VHcS05J6r3PgTMT/5ukeaky8nRICpBtV8+DMzH3Bpiq+9OKEoBTknev1txkTZCH7cVUlCKF0JIFvsv493utW+7+vTvGzgGekgw95npjIana2hRvdb9xWMUKxc2ThzTBDlWekqz8CV/JY6gbLRULYY0+2I/dzyiHjAspIuutqlkBAnquQPnjWwRpeIeYndHjJ2s7bI0R2NTcnlkTY2n6iiJsnXs55VpppoaAr8DVxdFZLHdspyb4RHvKyAs6bH0himxDqwKirGfWmGV0iJkTc0ABcyrgLiuLzI4tMJ4yLz9UNCOPU9RnjK86wFmtRX4a7R+MjF0ZCx61w+gyGtX1bwVtkyenBBeuEIlYltgJXkeHfz+8S7EApadlby7DjD7V/Z0vWbscYMhv1QvihljyMzOnBD4ajGyvroHrx5J5lwgJwwA/b1sOsKdf6B6e6Vzj0vQVSAI496iCqaN7SrqXJfLd6FD+S+IojAPdmj1W2M6htAh/CvyjZqh9ckZwCEsB7bV5jVuMd4I/GpBmoti5XKTlBhZX3MTNf4Ve8E2PM4JZEy/XNBmPgmnaq1aCNoEMchhtjIHQ7sq8Xa7ychPAf7yaK8mM0by8UtVvXtmgZyNg1/ydAJpBsOJwevT3XbrcNka596hl824Msy066WBroDxkX2PDFGa3r089NjQo5kEP5pvq6h3jm8kFed+tc94wswr/jEJTJAz+0VEDOaOiBt8GZVAPG+vEn9wiFOnemJAoZ0hNuHN1udO2AEs3fFOAyGP/8kFyRvDzvJCPbHHqjs6Dl+lS1OHlTRUlk+PnvP7YFe1YdGO0UMdRvwr31/NN3UDiAeLNveJ7RkD3vMKtMslgw+AgEGXsdeexqMeapdR74MKM+BpVJf5pDp4fntHZzbQQIFwLukG419wgSGHKKGRs2CNeG2vqPkwkvwxOsG/CJmcENG+DbWiq1FKenMTzJM6k2R2n4eBqZNHMgn00NY7XMS+jvyOA+Tw5114PNZmjKIdKkutCeuZvM3TssKnnvdCOH3e455wf/h9QSwcIlDfIDjcRAAABSAAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAANAAAAeGwvc3R5bGVzLnhtbKWSsW7DIBCG90p9B8Te4GSoosomQyVXnZNKXYk526hwWEAiu09fME6TTB063d3P/R+Hz+VuNJqcwXllsaLrVUEJYGOlwq6iH4f6aUt3/PGh9GHSsO8BAokO9BXtQxheGPNND0b4lR0A40lrnREhlq5jfnAgpE8mo9mmKJ6ZEQopL/FkahM8aewJQ0ULynjZWrwqa5oFXvpvchY6Kmm22NZYbR1RKGEEWdFt0lAYyF2vQqujUzNPGKWnLG+SME+69BmF1iWR5Vvm4KNJaf07xIZmgZeDCAEc1rEgS36YBqgoWoSMmfv+6JbCfb05Md045hAvPlon4xZu358lXmpoQzQ41fUpBjuwdBiCNTGRSnQWhU7Ii2NJIrYBrfdpdZ/tHXtsSd7Bu0yfn6TnX9I40JJmTC4S/5aW2f/GkrG9589odv3d+A9QSwcIrpGT1kUBAACjAgAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAAPAAAAeGwvd29ya2Jvb2sueG1sjY5BT8MwDIXvSPyHyHeWlCEEVdNdJqTdOAzuXuKu0ZqkirONn0/aqcCRk/3s58+v2Xz5QVwosYtBQ7VSICiYaF04avjYvz28wKa9v2uuMZ0OMZ5E8QfW0Oc81lKy6ckjr+JIoWy6mDzmItNR8pgILfdE2Q/yUaln6dEFuBHq9B9G7DpnaBvN2VPIN0iiAXNJy70bGdqfZO9JWMxUvaonDR0OTCDbZtp8Orryr3GSAk12F9rjQYOafPKPcc68VBHQk4a5r0Ck2lkNaWfXIObZrshqJixncnnUfgNQSwcIrQTJ+9oAAABeAQAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAAaAAAAeGwvX3JlbHMvd29ya2Jvb2sueG1sLnJlbHOtkU1rwzAMQP+K0X1x0sEYo24vY9BrP36AsJU4NLGNpbXLv6+7w9ZABzv0JIzwew+0XH+NgzpR5j4GA01Vg6Jgo+tDZ+Cw/3h6BcWCweEQAxmYiGG9Wm5pQClf2PeJVWEENuBF0pvWbD2NyFVMFMqmjXlEKc/c6YT2iB3pRV2/6HzLgDlTbZyBvHENqD3mjsQAe8zkdpJLGlcFXFZTov9oY9v2lt6j/RwpyB27nsFB349Z3MTINNDjK76pf+mff/XnmI/sieRaXkbz6JIfwTVGz669ugBQSwcIZ+uiqNUAAAA0AgAAUEsDBBQACAgIAOp5UVwAAAAAAAAAAAAAAAAYAAAAeGwvd29ya3NoZWV0cy9zaGVldDEueG1sjZ1LbxvJFYX3AfIfBO5jsd/dA0mDKUmksggQ5LWnLdoWRhIFkmPn54dUJrz0Od8FspPgr6td1VW3zj310NXP/355vvi23u6eNq/Xs+rDfHaxfv20eXx6/XI9++c/Fn8aZz/f/PEPV9832193X9fr/cXhgdfd9ezrfv/20+Xl7tPX9ctq92Hztn49/MvnzfZltT/8uv1yuXvbrleP7w+9PF/W83l/+bJ6ep3dXD0+vaxfj2+82K4/X89+qX56qObV7PLm6p3+19P6++7s54vjyz9uNr8ef/nz4/Xs8J/crz7+ff28/rRfH37fb39bH5++tMcX7/+fv24vHtefV7897/+2+f6wfvrydX+oa3eo7P9eebfar26utpvvF9vDvxz+i5+OP/xSHV50PdvNLnbHl95cfbuZX11+O7zo0+9EcaL6kbh1ov6RuHOi+ZG4d6L9kVg40Z2Iy0O9TpWrT5Wr7ZFeKufEIJVzYpTKOTFJ5ZyopJUXgEgzLwGRdn4ApOFGak6N1Pgz0vQFkE6aCRBp6ztApLHvAZHWXgAycRXbUxVb76DaywHRbg6I9nNAtKMDoj0dEGnuJSA9t0J3aoXOn5H2L4BI+98CIt39zpFGmvseEGnuBSA1V7E/VbH3Z6T9CyDS/reASPvfASLd/R4Qae4FICNXcThVcfBnpP2LI620/y0g0v53gEh3vwdEmnsBiDT3EpAkso+nVhj9GQ3tgGhsB0SDOyAa3R3pNLoDUnEVp1MVJ39G2r8AIu1/C4i0/x0g0t3vAZHmXgAizb0EJOnu1TwEytyf0g4PTK89nhjt8sRonydGOz0xbVLTMynmCqfvtKbA9FpTYAatKTCj1hSYSWvqzCAtvyRGWv6BmCTaV6HvKpBvGu+J0YAPjAUCKkeHCTE6TojRgUJMNlJCyFUujQYbKc6MNlKAsZECjI0UYGykAJONlNBzlcuf0UYKMDZSgLGRAoyNFGBspDgzzZOahmarXAVNldYUmFprCkyjNQWm1ZoC02lNgem1hwMzJK0R8q5ywTSN2hrATNoazlTzuTYHQZW2B0G1NghBSV5WhdKrXBhVc03NENLkDCFNzxDSBA0hTdEQSpK0KjRd5Sqp0jy5IGSGBEHmSRBktgRB5kwQlEjYKgRe5Xqo0qS5IKQ6FiGbwAhSLUuQ5soLhBI9W4eSq10VVZpBF4RU1CKkshYhnbER0ikbIZ2zEUom7TpEXw32mibUhSBNqW8R0nkbIZ24EdKZG6Fk6q7PLDmyqHTuRkgnb4R09kZIp2+EdP4mSNPqJULZyAjlVrsKqjTZLgjZyADIIgGWpDM9QjrVI5QYUXXot9q1UKXJeUFI3SiE1I8iSFP0e4TUk0IoyVPqUHG1q51KM/WCkGYqCKk5hZDaUwipQYVQFtRCp9UgeCxpJ8iydoQsqBFkQY0gC2oEqV+FULYWEXKuBlWkuXtByJYkCLJBTpAtTACk+fsCIVucICgbGaH5apBOlsIjZCODIBsZBNnIIMhGBkGjNgpBiRCuQxjWoK80Sy8EeaNQSTZ8CLLhQ5ANH4Js+BCUDJ8m1GMD+koT+oKQDh+EdPggpMOHoEmHD0KJJmhCGDagrzStLwipJkBI1TJCqpYRUrWMkKplhJKJpQn12IC+0uy+AFRrdn8LkA0MLEgdAITUAUAoW5k9W5p1eVWbA4CQLc8SZAu0BNkSLUG2SEtQEvia0IUNrcJq4ENIHQCE1AFASB0AhNQBQCiLaaELG1hMNQcAIYtpBFlMI8hiGkDmACCUxbTQhY0rp9ocAICstlSO2pkIaZaDkGY5CCVZThOCr3FJVNuKO0Ka5SCkWQ5Btu6OkGY5CMlnWiKUhbQQfI1LoloX4AtCFtIIspBGkIU0giykETRpowCkJsEDQtngCVXYuG6qzSRAyAQBQSYICDJBQJAJAoJMEBA0assRlO3+CenYugKrNf8vCNkWIIJsExBBtg0IIOtzWJLqaYTkQz0glISwNkRoC1v71CQoCGkIQ0hDGEFqCdwjpCEMIQ1hCDXacgQlPmcbSrUFxWer+Qipz4mQ+pwIqc+JkPqcBNmSPkK6po9QYgm0IXpb0I5mCSCk2S9CagkgpJYAQmoJIKSWAEKTthxAY7JY3J5tcwQVqklNIcj7HJVkcY4gi3ME2YZHgmzLI0FZCAuN3dKeRgthBFkII8hCGO2PtBAGtqppbCxJbTeEsjEWQrwFRau+QQHIzQUsSbUEQqolEFItgZBqCYQSc6ENvd6CojVzAaDGzAWE1F1ASG03hNR2QyibokKKt65DGzUOCkIWLgiyKYogm6IIsikKoCoLjyGgW1ePjRoHBSHdTYOQ5p8Iaf6JkOafCGXbvUP2dq75GjUOCkC2XQYLUnMBITUXCLLAh1CSH3WhVTs4ZGLmAkIa0wDylWUsST8vQvp5Eco+byjMzuVV4xv6CbIt/QTZpn6AfFs/Qbaxn6BkzupCF3Yuihrb3Y+Q6kKEVBcipLoQIdWFCCXTURdqrnO909hWf4Jssz9AroOxJDW7EVKzGyH5UEuEkjmrOzvDAqdC1JUoCOmchZANcoJ0zkJI5yyC1INYIpRFvlBzHR1YschHkEU+glTNIaRqDiFVcwipmkMoGz6h5joQRbYHgSDbg4CQqjmEVM0BZPvDsaDEV+1CzHWgiXTnQkFIfVWE1FdFSH1VhNTjQkh9VYKGRPF1ofg6EE5qUxSAPM3BkjQhRkgTYoQ0IUYoWU/qQ/H1oJy0gxWEdIUFIZV8CKnkA8jiABWU+R19KL4ehJP5HQipoEdIBT1CqvgQUsWHUKL4+lB8PQgnszIQUsWHkCo+gszKQEgVH0LZYc5QfD0IJ3MpELITnQBZBoMl6byGkPVngpLjDX0ovh40kZ1vQEgzNoBaO+CAkCo+hFTxIaSKDyH5UA8IZYEvZGHvwqlVl6IA5GtjWJLKQoRUFiKkspCgzMroz845uyZqzcpAyCIfQRb5CLLI9/8oPixJnV6EsvAYiq+nQ80WHgmy8EiQhUc6IG3hkSALjwTpYhVCuliFUJJV9SEeezjlrDZFQUizKoRs+BBkw4cgGz4AqSmxRCjJqvoQj71rsFZ3QRSELKYQpFkVQjb7EGRjjCDNqhDKLh8IhTm4Umv9/gGSczrGqCR1Lu4Q0ikKIZ2iEErSqiEk5gD30uhWiYKQplUIaVqFkKZVCGlahVCyVWIIiTnASWjbKkGQxVAsye6YIMhumSDI7pkgKIl8Q0jMwZVaq15GQUgjH0Ia+RDSyAeQn0TBkrLvGxJzAH2lhkcByHdRY0n2fQmy70uQfV+Csu8bwnAAfWXbMBCy70uQfV+C7PsSpDMbQZnjMYQwHEA6meMBkJ80wpLU8UBIHQ+E1PFAKBH+w9ltOCB4zPEAyNdssST7vgTZ94XXeX2ppGz8hlIb6MoaG78E6VY2hOz7EmTflyCrL0HZ9w0RNoBMsVMfCFm8IkgtAITU0SLITn0glIjOMfTVCDLFTn0gpKITILuuDAvSvA4g34KAJWW3OIW8GkGlqJtSELKrnEjvqJzEknT4IqThGaBunoTnMeTV6CqlU8ulIKR5O0KatyNk3xe26dnwRUjzdnxd1glCg40uZTozbxCyTkCQ3ehFkN3p5ZCf+gDIrvKht2UGzxg6bXS505nBA5DPa1iSBQKCNM4jZG1CUNYHQqeNLnc6OwmDkPUBgqwPEGR9ACDbrIKQ7tJDKPG/xxBzo2uiTi2fgpCKOYR0BwBCuuMBID82jiUl/vcYYm50TdSpL1QQUv+bIPWF7hBScwEhNRcQSsyF8ewSQ7gW0M7CIKTmAkJqLiCk5gJCai4glIjXMcTcSJcRqnhFSMUrQhbUCLKgBkdKbD0HS9JzGADZMfkHLCkJj1PIwgkWUe3CS4B8LxCWpGkOQqqTAPITLFiSru4T1CVz5BTicQINpj5JQUjFFEIqphBSMYWQLv8ilKxvTCEeJ5BXdhgHID9PiCXpHImQzpEEqZ+0QEjnSISSOXIK8TiBvlLzqCCkcyRCOkcipHMkQjpHIqSnRRBKAu0U6nECEaZneApCGmgB8g1hWJK6fFSSufRYki4kI5RYgVNIzAlEmO6CLAipFYiQxVCCLIYSpLkmQer5LBHK7hgOiTmBUlMXqCBkFw0TZD2FILtsmCC7bpggu3CYoGSRawodOoGcUxeoEKQu0C1CapIjZMOHIHVhEFKdglAmQUKsTqD5zKpBSDM0hGz2IchmH4d6TYAXCGUj4+z6bVdqvbowBSC/mwFLMnVBkKkLeJ1LLipJrRqEEglSzUOIHn/2B1WEEOV3dHBZdm0lUnZvJVC2ER+L0vtFlkwlHeb4R12ibeDCbLVaClH2pya4KLuwFym7spdeaL0GKTtrzm/Uw+ZMae+6PPuzNG+rL+u/rLZfnl53Fx83+/3m5fDch+Ma2OfNZr/eHn87SKGv69Xj6Zfn9ef9OzW72P737928/7zfvP3+7PHP5Zz+qM/NfwBQSwcI+QsAYx8NAAAIaAAAUEsBAhQAFAAICAgA6nlRXJEsKLw7AQAAHQQAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECFAAUAAgICADqeVFcbjIIS+UAAABKAgAACwAAAAAAAAAAAAAAAAB8AQAAX3JlbHMvLnJlbHNQSwECFAAUAAgICADqeVFcNm6DIZMAAAC4AAAAEAAAAAAAAAAAAAAAAACaAgAAZG9jUHJvcHMvYXBwLnhtbFBLAQIUABQACAgIAOp5UVwE/H2eBgEAALEBAAARAAAAAAAAAAAAAAAAAGsDAABkb2NQcm9wcy9jb3JlLnhtbFBLAQIUABQACAgIAOp5UVyUN8gONxEAAAFIAAAUAAAAAAAAAAAAAAAAALAEAAB4bC9zaGFyZWRTdHJpbmdzLnhtbFBLAQIUABQACAgIAOp5UVyukZPWRQEAAKMCAAANAAAAAAAAAAAAAAAAACkWAAB4bC9zdHlsZXMueG1sUEsBAhQAFAAICAgA6nlRXK0EyfvaAAAAXgEAAA8AAAAAAAAAAAAAAAAAqRcAAHhsL3dvcmtib29rLnhtbFBLAQIUABQACAgIAOp5UVxn66Ko1QAAADQCAAAaAAAAAAAAAAAAAAAAAMAYAAB4bC9fcmVscy93b3JrYm9vay54bWwucmVsc1BLAQIUABQACAgIAOp5UVz5CwBjHw0AAAhoAAAYAAAAAAAAAAAAAAAAAN0ZAAB4bC93b3Jrc2hlZXRzL3NoZWV0MS54bWxQSwUGAAAAAAkACQA/AgAAQicAAAAA </internal-file></reference></header>
+<body>
+</body>
+</file>
+<file original="xlsx" source-language="pt-BR" target-language="en-US" datatype="x-undefined">
+<body>
+<trans-unit id="P147242AB-tu1" resname="sheet1!A1" xml:space="preserve">
+<source xml:lang="pt-BR">id</source>
+<seg-source><mrk mid="0" mtype="seg">id</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="sheet1!B1" xml:space="preserve">
+<source xml:lang="pt-BR">first_name</source>
+<seg-source><mrk mid="0" mtype="seg">first_name</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="sheet1!C1" xml:space="preserve">
+<source xml:lang="pt-BR">last_name</source>
+<seg-source><mrk mid="0" mtype="seg">last_name</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="sheet1!D1" xml:space="preserve">
+<source xml:lang="pt-BR">email</source>
+<seg-source><mrk mid="0" mtype="seg">email</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="sheet1!E1" xml:space="preserve">
+<source xml:lang="pt-BR">job_title</source>
+<seg-source><mrk mid="0" mtype="seg">job_title</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="sheet1!F1" xml:space="preserve">
+<source xml:lang="pt-BR">company</source>
+<seg-source><mrk mid="0" mtype="seg">company</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="sheet1!A2" xml:space="preserve">
+<source xml:lang="pt-BR">"1</source>
+<seg-source><mrk mid="0" mtype="seg">"1</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="sheet1!B2" xml:space="preserve">
+<source xml:lang="pt-BR">Robert</source>
+<seg-source><mrk mid="0" mtype="seg">Robert</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="sheet1!C2" xml:space="preserve">
+<source xml:lang="pt-BR">Parks</source>
+<seg-source><mrk mid="0" mtype="seg">Parks</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="sheet1!D2" xml:space="preserve">
+<source xml:lang="pt-BR">cjackson@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">cjackson@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="sheet1!E2" xml:space="preserve">
+<source xml:lang="pt-BR">""Horticulturist</source>
+<seg-source><mrk mid="0" mtype="seg">""Horticulturist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="sheet1!F2" xml:space="preserve">
+<source xml:lang="pt-BR"> commercial""</source>
+<seg-source><mrk mid="0" mtype="seg"> commercial""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="sheet1!G2" xml:space="preserve">
+<source xml:lang="pt-BR">""Rivera</source>
+<seg-source><mrk mid="0" mtype="seg">""Rivera</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="sheet1!H2" xml:space="preserve">
+<source xml:lang="pt-BR"> Walker and King"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Walker and King"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="sheet1!A3" xml:space="preserve">
+<source xml:lang="pt-BR">2</source>
+<seg-source><mrk mid="0" mtype="seg">2</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="sheet1!B3" xml:space="preserve">
+<source xml:lang="pt-BR">Natalie</source>
+<seg-source><mrk mid="0" mtype="seg">Natalie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="sheet1!C3" xml:space="preserve">
+<source xml:lang="pt-BR">Daniels</source>
+<seg-source><mrk mid="0" mtype="seg">Daniels</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="sheet1!D3" xml:space="preserve">
+<source xml:lang="pt-BR">dominguezamy@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">dominguezamy@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="sheet1!E3" xml:space="preserve">
+<source xml:lang="pt-BR">Emergency planning/management officer</source>
+<seg-source><mrk mid="0" mtype="seg">Emergency planning/management officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="sheet1!F3" xml:space="preserve">
+<source xml:lang="pt-BR">Fischer Ltd</source>
+<seg-source><mrk mid="0" mtype="seg">Fischer Ltd</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="sheet1!A4" xml:space="preserve">
+<source xml:lang="pt-BR">"3</source>
+<seg-source><mrk mid="0" mtype="seg">"3</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="sheet1!B4" xml:space="preserve">
+<source xml:lang="pt-BR">John</source>
+<seg-source><mrk mid="0" mtype="seg">John</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="sheet1!C4" xml:space="preserve">
+<source xml:lang="pt-BR">Jenkins</source>
+<seg-source><mrk mid="0" mtype="seg">Jenkins</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="sheet1!D4" xml:space="preserve">
+<source xml:lang="pt-BR">jeffrey94@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">jeffrey94@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="sheet1!E4" xml:space="preserve">
+<source xml:lang="pt-BR">""Programmer</source>
+<seg-source><mrk mid="0" mtype="seg">""Programmer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="sheet1!F4" xml:space="preserve">
+<source xml:lang="pt-BR"> systems""</source>
+<seg-source><mrk mid="0" mtype="seg"> systems""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="sheet1!G4" xml:space="preserve">
+<source xml:lang="pt-BR">Franklin PLC"</source>
+<seg-source><mrk mid="0" mtype="seg">Franklin PLC"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="sheet1!A5" xml:space="preserve">
+<source xml:lang="pt-BR">4</source>
+<seg-source><mrk mid="0" mtype="seg">4</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="sheet1!B5" xml:space="preserve">
+<source xml:lang="pt-BR">Patricia</source>
+<seg-source><mrk mid="0" mtype="seg">Patricia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="sheet1!C5" xml:space="preserve">
+<source xml:lang="pt-BR">Wagner</source>
+<seg-source><mrk mid="0" mtype="seg">Wagner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="sheet1!D5" xml:space="preserve">
+<source xml:lang="pt-BR">twalsh@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">twalsh@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="sheet1!E5" xml:space="preserve">
+<source xml:lang="pt-BR">Astronomer</source>
+<seg-source><mrk mid="0" mtype="seg">Astronomer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="sheet1!F5" xml:space="preserve">
+<source xml:lang="pt-BR">Thomas-Guerra</source>
+<seg-source><mrk mid="0" mtype="seg">Thomas-Guerra</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="sheet1!A6" xml:space="preserve">
+<source xml:lang="pt-BR">5</source>
+<seg-source><mrk mid="0" mtype="seg">5</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="sheet1!B6" xml:space="preserve">
+<source xml:lang="pt-BR">Connie</source>
+<seg-source><mrk mid="0" mtype="seg">Connie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="sheet1!C6" xml:space="preserve">
+<source xml:lang="pt-BR">Bowen</source>
+<seg-source><mrk mid="0" mtype="seg">Bowen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="sheet1!D6" xml:space="preserve">
+<source xml:lang="pt-BR">karenstewart@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">karenstewart@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="sheet1!E6" xml:space="preserve">
+<source xml:lang="pt-BR">Learning disability nurse</source>
+<seg-source><mrk mid="0" mtype="seg">Learning disability nurse</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="sheet1!F6" xml:space="preserve">
+<source xml:lang="pt-BR">Taylor-Garcia</source>
+<seg-source><mrk mid="0" mtype="seg">Taylor-Garcia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="sheet1!A7" xml:space="preserve">
+<source xml:lang="pt-BR">"6</source>
+<seg-source><mrk mid="0" mtype="seg">"6</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="sheet1!B7" xml:space="preserve">
+<source xml:lang="pt-BR">Valerie</source>
+<seg-source><mrk mid="0" mtype="seg">Valerie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="sheet1!C7" xml:space="preserve">
+<source xml:lang="pt-BR">Johnson</source>
+<seg-source><mrk mid="0" mtype="seg">Johnson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="sheet1!D7" xml:space="preserve">
+<source xml:lang="pt-BR">robert82@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">robert82@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="sheet1!E7" xml:space="preserve">
+<source xml:lang="pt-BR">""Librarian</source>
+<seg-source><mrk mid="0" mtype="seg">""Librarian</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="sheet1!F7" xml:space="preserve">
+<source xml:lang="pt-BR"> academic""</source>
+<seg-source><mrk mid="0" mtype="seg"> academic""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="sheet1!G7" xml:space="preserve">
+<source xml:lang="pt-BR">Lewis-Simon"</source>
+<seg-source><mrk mid="0" mtype="seg">Lewis-Simon"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="sheet1!A8" xml:space="preserve">
+<source xml:lang="pt-BR">7</source>
+<seg-source><mrk mid="0" mtype="seg">7</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="sheet1!B8" xml:space="preserve">
+<source xml:lang="pt-BR">Jamie</source>
+<seg-source><mrk mid="0" mtype="seg">Jamie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="sheet1!C8" xml:space="preserve">
+<source xml:lang="pt-BR">Clark</source>
+<seg-source><mrk mid="0" mtype="seg">Clark</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" resname="sheet1!D8" xml:space="preserve">
+<source xml:lang="pt-BR">ijones@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">ijones@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="sheet1!E8" xml:space="preserve">
+<source xml:lang="pt-BR">Social researcher</source>
+<seg-source><mrk mid="0" mtype="seg">Social researcher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" resname="sheet1!F8" xml:space="preserve">
+<source xml:lang="pt-BR">Robinson and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Robinson and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu53" resname="sheet1!A9" xml:space="preserve">
+<source xml:lang="pt-BR">"8</source>
+<seg-source><mrk mid="0" mtype="seg">"8</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu54" resname="sheet1!B9" xml:space="preserve">
+<source xml:lang="pt-BR">Sarah</source>
+<seg-source><mrk mid="0" mtype="seg">Sarah</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu55" resname="sheet1!C9" xml:space="preserve">
+<source xml:lang="pt-BR">Martinez</source>
+<seg-source><mrk mid="0" mtype="seg">Martinez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu56" resname="sheet1!D9" xml:space="preserve">
+<source xml:lang="pt-BR">drichardson@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">drichardson@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu57" resname="sheet1!E9" xml:space="preserve">
+<source xml:lang="pt-BR">Community development worker</source>
+<seg-source><mrk mid="0" mtype="seg">Community development worker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu58" resname="sheet1!F9" xml:space="preserve">
+<source xml:lang="pt-BR">""West</source>
+<seg-source><mrk mid="0" mtype="seg">""West</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu59" resname="sheet1!G9" xml:space="preserve">
+<source xml:lang="pt-BR"> Dean and Torres"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Dean and Torres"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu60" resname="sheet1!A10" xml:space="preserve">
+<source xml:lang="pt-BR">9</source>
+<seg-source><mrk mid="0" mtype="seg">9</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu61" resname="sheet1!B10" xml:space="preserve">
+<source xml:lang="pt-BR">Suzanne</source>
+<seg-source><mrk mid="0" mtype="seg">Suzanne</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu62" resname="sheet1!C10" xml:space="preserve">
+<source xml:lang="pt-BR">Torres</source>
+<seg-source><mrk mid="0" mtype="seg">Torres</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu63" resname="sheet1!D10" xml:space="preserve">
+<source xml:lang="pt-BR">sonyaherring@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">sonyaherring@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu64" resname="sheet1!E10" xml:space="preserve">
+<source xml:lang="pt-BR">Garment/textile technologist</source>
+<seg-source><mrk mid="0" mtype="seg">Garment/textile technologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu65" resname="sheet1!F10" xml:space="preserve">
+<source xml:lang="pt-BR">Perry and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Perry and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu66" resname="sheet1!A11" xml:space="preserve">
+<source xml:lang="pt-BR">"10</source>
+<seg-source><mrk mid="0" mtype="seg">"10</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu67" resname="sheet1!B11" xml:space="preserve">
+<source xml:lang="pt-BR">Tim</source>
+<seg-source><mrk mid="0" mtype="seg">Tim</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu68" resname="sheet1!C11" xml:space="preserve">
+<source xml:lang="pt-BR">Tran</source>
+<seg-source><mrk mid="0" mtype="seg">Tran</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu69" resname="sheet1!D11" xml:space="preserve">
+<source xml:lang="pt-BR">uconley@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">uconley@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu70" resname="sheet1!E11" xml:space="preserve">
+<source xml:lang="pt-BR">""Buyer</source>
+<seg-source><mrk mid="0" mtype="seg">""Buyer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu71" resname="sheet1!F11" xml:space="preserve">
+<source xml:lang="pt-BR"> retail""</source>
+<seg-source><mrk mid="0" mtype="seg"> retail""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu72" resname="sheet1!G11" xml:space="preserve">
+<source xml:lang="pt-BR">""Armstrong</source>
+<seg-source><mrk mid="0" mtype="seg">""Armstrong</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu73" resname="sheet1!H11" xml:space="preserve">
+<source xml:lang="pt-BR"> Brown and Brady"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Brown and Brady"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu74" resname="sheet1!A12" xml:space="preserve">
+<source xml:lang="pt-BR">"11</source>
+<seg-source><mrk mid="0" mtype="seg">"11</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu75" resname="sheet1!B12" xml:space="preserve">
+<source xml:lang="pt-BR">Scott</source>
+<seg-source><mrk mid="0" mtype="seg">Scott</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu76" resname="sheet1!C12" xml:space="preserve">
+<source xml:lang="pt-BR">Clark</source>
+<seg-source><mrk mid="0" mtype="seg">Clark</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu77" resname="sheet1!D12" xml:space="preserve">
+<source xml:lang="pt-BR">christopherpacheco@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">christopherpacheco@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu78" resname="sheet1!E12" xml:space="preserve">
+<source xml:lang="pt-BR">Location manager</source>
+<seg-source><mrk mid="0" mtype="seg">Location manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu79" resname="sheet1!F12" xml:space="preserve">
+<source xml:lang="pt-BR">""Hill</source>
+<seg-source><mrk mid="0" mtype="seg">""Hill</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu80" resname="sheet1!G12" xml:space="preserve">
+<source xml:lang="pt-BR"> Lopez and Perry"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Lopez and Perry"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu81" resname="sheet1!A13" xml:space="preserve">
+<source xml:lang="pt-BR">12</source>
+<seg-source><mrk mid="0" mtype="seg">12</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu82" resname="sheet1!B13" xml:space="preserve">
+<source xml:lang="pt-BR">Dave</source>
+<seg-source><mrk mid="0" mtype="seg">Dave</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu83" resname="sheet1!C13" xml:space="preserve">
+<source xml:lang="pt-BR">Smith</source>
+<seg-source><mrk mid="0" mtype="seg">Smith</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu84" resname="sheet1!D13" xml:space="preserve">
+<source xml:lang="pt-BR">sandradeleon@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">sandradeleon@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu85" resname="sheet1!E13" xml:space="preserve">
+<source xml:lang="pt-BR">Forensic psychologist</source>
+<seg-source><mrk mid="0" mtype="seg">Forensic psychologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu86" resname="sheet1!F13" xml:space="preserve">
+<source xml:lang="pt-BR">Hawkins-Miller</source>
+<seg-source><mrk mid="0" mtype="seg">Hawkins-Miller</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu87" resname="sheet1!A14" xml:space="preserve">
+<source xml:lang="pt-BR">13</source>
+<seg-source><mrk mid="0" mtype="seg">13</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu88" resname="sheet1!B14" xml:space="preserve">
+<source xml:lang="pt-BR">Jacqueline</source>
+<seg-source><mrk mid="0" mtype="seg">Jacqueline</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu89" resname="sheet1!C14" xml:space="preserve">
+<source xml:lang="pt-BR">Miller</source>
+<seg-source><mrk mid="0" mtype="seg">Miller</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu90" resname="sheet1!D14" xml:space="preserve">
+<source xml:lang="pt-BR">evansdana@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">evansdana@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu91" resname="sheet1!E14" xml:space="preserve">
+<source xml:lang="pt-BR">Fashion designer</source>
+<seg-source><mrk mid="0" mtype="seg">Fashion designer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu92" resname="sheet1!F14" xml:space="preserve">
+<source xml:lang="pt-BR">Ruiz-Gregory</source>
+<seg-source><mrk mid="0" mtype="seg">Ruiz-Gregory</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu93" resname="sheet1!A15" xml:space="preserve">
+<source xml:lang="pt-BR">"14</source>
+<seg-source><mrk mid="0" mtype="seg">"14</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu94" resname="sheet1!B15" xml:space="preserve">
+<source xml:lang="pt-BR">Joanna</source>
+<seg-source><mrk mid="0" mtype="seg">Joanna</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu95" resname="sheet1!C15" xml:space="preserve">
+<source xml:lang="pt-BR">Williamson</source>
+<seg-source><mrk mid="0" mtype="seg">Williamson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu96" resname="sheet1!D15" xml:space="preserve">
+<source xml:lang="pt-BR">kristenwilliams@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">kristenwilliams@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu97" resname="sheet1!E15" xml:space="preserve">
+<source xml:lang="pt-BR">""Doctor</source>
+<seg-source><mrk mid="0" mtype="seg">""Doctor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu98" resname="sheet1!F15" xml:space="preserve">
+<source xml:lang="pt-BR"> general practice""</source>
+<seg-source><mrk mid="0" mtype="seg"> general practice""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu99" resname="sheet1!G15" xml:space="preserve">
+<source xml:lang="pt-BR">Nguyen Inc"</source>
+<seg-source><mrk mid="0" mtype="seg">Nguyen Inc"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu100" resname="sheet1!A16" xml:space="preserve">
+<source xml:lang="pt-BR">15</source>
+<seg-source><mrk mid="0" mtype="seg">15</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu101" resname="sheet1!B16" xml:space="preserve">
+<source xml:lang="pt-BR">Anthony</source>
+<seg-source><mrk mid="0" mtype="seg">Anthony</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu102" resname="sheet1!C16" xml:space="preserve">
+<source xml:lang="pt-BR">Cuevas</source>
+<seg-source><mrk mid="0" mtype="seg">Cuevas</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu103" resname="sheet1!D16" xml:space="preserve">
+<source xml:lang="pt-BR">wguzman@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">wguzman@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu104" resname="sheet1!E16" xml:space="preserve">
+<source xml:lang="pt-BR">Civil Service administrator</source>
+<seg-source><mrk mid="0" mtype="seg">Civil Service administrator</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu105" resname="sheet1!F16" xml:space="preserve">
+<source xml:lang="pt-BR">Nguyen-Fisher</source>
+<seg-source><mrk mid="0" mtype="seg">Nguyen-Fisher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu106" resname="sheet1!A17" xml:space="preserve">
+<source xml:lang="pt-BR">16</source>
+<seg-source><mrk mid="0" mtype="seg">16</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu107" resname="sheet1!B17" xml:space="preserve">
+<source xml:lang="pt-BR">Stephen</source>
+<seg-source><mrk mid="0" mtype="seg">Stephen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu108" resname="sheet1!C17" xml:space="preserve">
+<source xml:lang="pt-BR">Lynch</source>
+<seg-source><mrk mid="0" mtype="seg">Lynch</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu109" resname="sheet1!D17" xml:space="preserve">
+<source xml:lang="pt-BR">kyleserrano@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">kyleserrano@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu110" resname="sheet1!E17" xml:space="preserve">
+<source xml:lang="pt-BR">Animal nutritionist</source>
+<seg-source><mrk mid="0" mtype="seg">Animal nutritionist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu111" resname="sheet1!F17" xml:space="preserve">
+<source xml:lang="pt-BR">Hernandez LLC</source>
+<seg-source><mrk mid="0" mtype="seg">Hernandez LLC</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu112" resname="sheet1!A18" xml:space="preserve">
+<source xml:lang="pt-BR">17</source>
+<seg-source><mrk mid="0" mtype="seg">17</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu113" resname="sheet1!B18" xml:space="preserve">
+<source xml:lang="pt-BR">Brittney</source>
+<seg-source><mrk mid="0" mtype="seg">Brittney</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu114" resname="sheet1!C18" xml:space="preserve">
+<source xml:lang="pt-BR">West</source>
+<seg-source><mrk mid="0" mtype="seg">West</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu115" resname="sheet1!D18" xml:space="preserve">
+<source xml:lang="pt-BR">perkinsmichael@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">perkinsmichael@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu116" resname="sheet1!E18" xml:space="preserve">
+<source xml:lang="pt-BR">Set designer</source>
+<seg-source><mrk mid="0" mtype="seg">Set designer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu117" resname="sheet1!F18" xml:space="preserve">
+<source xml:lang="pt-BR">Taylor and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Taylor and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu118" resname="sheet1!A19" xml:space="preserve">
+<source xml:lang="pt-BR">18</source>
+<seg-source><mrk mid="0" mtype="seg">18</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu119" resname="sheet1!B19" xml:space="preserve">
+<source xml:lang="pt-BR">Pamela</source>
+<seg-source><mrk mid="0" mtype="seg">Pamela</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu120" resname="sheet1!C19" xml:space="preserve">
+<source xml:lang="pt-BR">Williams</source>
+<seg-source><mrk mid="0" mtype="seg">Williams</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu121" resname="sheet1!D19" xml:space="preserve">
+<source xml:lang="pt-BR">villanuevamelissa@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">villanuevamelissa@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu122" resname="sheet1!E19" xml:space="preserve">
+<source xml:lang="pt-BR">Air broker</source>
+<seg-source><mrk mid="0" mtype="seg">Air broker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu123" resname="sheet1!F19" xml:space="preserve">
+<source xml:lang="pt-BR">Patterson and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Patterson and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu124" resname="sheet1!A20" xml:space="preserve">
+<source xml:lang="pt-BR">"19</source>
+<seg-source><mrk mid="0" mtype="seg">"19</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu125" resname="sheet1!B20" xml:space="preserve">
+<source xml:lang="pt-BR">Shawn</source>
+<seg-source><mrk mid="0" mtype="seg">Shawn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu126" resname="sheet1!C20" xml:space="preserve">
+<source xml:lang="pt-BR">Mitchell</source>
+<seg-source><mrk mid="0" mtype="seg">Mitchell</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu127" resname="sheet1!D20" xml:space="preserve">
+<source xml:lang="pt-BR">alexander12@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">alexander12@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu128" resname="sheet1!E20" xml:space="preserve">
+<source xml:lang="pt-BR">Politician's assistant</source>
+<seg-source><mrk mid="0" mtype="seg">Politician's assistant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu129" resname="sheet1!F20" xml:space="preserve">
+<source xml:lang="pt-BR">""Wheeler</source>
+<seg-source><mrk mid="0" mtype="seg">""Wheeler</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu130" resname="sheet1!G20" xml:space="preserve">
+<source xml:lang="pt-BR"> Hall and Watson"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Hall and Watson"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu131" resname="sheet1!A21" xml:space="preserve">
+<source xml:lang="pt-BR">20</source>
+<seg-source><mrk mid="0" mtype="seg">20</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu132" resname="sheet1!B21" xml:space="preserve">
+<source xml:lang="pt-BR">Tanner</source>
+<seg-source><mrk mid="0" mtype="seg">Tanner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu133" resname="sheet1!C21" xml:space="preserve">
+<source xml:lang="pt-BR">Lewis</source>
+<seg-source><mrk mid="0" mtype="seg">Lewis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu134" resname="sheet1!D21" xml:space="preserve">
+<source xml:lang="pt-BR">khuang@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">khuang@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu135" resname="sheet1!E21" xml:space="preserve">
+<source xml:lang="pt-BR">Nature conservation officer</source>
+<seg-source><mrk mid="0" mtype="seg">Nature conservation officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu136" resname="sheet1!F21" xml:space="preserve">
+<source xml:lang="pt-BR">Hughes-Moore</source>
+<seg-source><mrk mid="0" mtype="seg">Hughes-Moore</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu137" resname="sheet1!A22" xml:space="preserve">
+<source xml:lang="pt-BR">"21</source>
+<seg-source><mrk mid="0" mtype="seg">"21</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu138" resname="sheet1!B22" xml:space="preserve">
+<source xml:lang="pt-BR">Marcus</source>
+<seg-source><mrk mid="0" mtype="seg">Marcus</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu139" resname="sheet1!C22" xml:space="preserve">
+<source xml:lang="pt-BR">Perry</source>
+<seg-source><mrk mid="0" mtype="seg">Perry</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu140" resname="sheet1!D22" xml:space="preserve">
+<source xml:lang="pt-BR">apreston@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">apreston@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu141" resname="sheet1!E22" xml:space="preserve">
+<source xml:lang="pt-BR">Professor Emeritus</source>
+<seg-source><mrk mid="0" mtype="seg">Professor Emeritus</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu142" resname="sheet1!F22" xml:space="preserve">
+<source xml:lang="pt-BR">""Ferrell</source>
+<seg-source><mrk mid="0" mtype="seg">""Ferrell</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu143" resname="sheet1!G22" xml:space="preserve">
+<source xml:lang="pt-BR"> Boyer and Lewis"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Boyer and Lewis"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu144" resname="sheet1!A23" xml:space="preserve">
+<source xml:lang="pt-BR">22</source>
+<seg-source><mrk mid="0" mtype="seg">22</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu145" resname="sheet1!B23" xml:space="preserve">
+<source xml:lang="pt-BR">Lisa</source>
+<seg-source><mrk mid="0" mtype="seg">Lisa</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu146" resname="sheet1!C23" xml:space="preserve">
+<source xml:lang="pt-BR">Williams</source>
+<seg-source><mrk mid="0" mtype="seg">Williams</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu147" resname="sheet1!D23" xml:space="preserve">
+<source xml:lang="pt-BR">jasonhaynes@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">jasonhaynes@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu148" resname="sheet1!E23" xml:space="preserve">
+<source xml:lang="pt-BR">Commercial/residential surveyor</source>
+<seg-source><mrk mid="0" mtype="seg">Commercial/residential surveyor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu149" resname="sheet1!F23" xml:space="preserve">
+<source xml:lang="pt-BR">Bennett-Russell</source>
+<seg-source><mrk mid="0" mtype="seg">Bennett-Russell</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu150" resname="sheet1!A24" xml:space="preserve">
+<source xml:lang="pt-BR">23</source>
+<seg-source><mrk mid="0" mtype="seg">23</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu151" resname="sheet1!B24" xml:space="preserve">
+<source xml:lang="pt-BR">Tammy</source>
+<seg-source><mrk mid="0" mtype="seg">Tammy</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu152" resname="sheet1!C24" xml:space="preserve">
+<source xml:lang="pt-BR">Barker</source>
+<seg-source><mrk mid="0" mtype="seg">Barker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu153" resname="sheet1!D24" xml:space="preserve">
+<source xml:lang="pt-BR">davidsonterri@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">davidsonterri@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu154" resname="sheet1!E24" xml:space="preserve">
+<source xml:lang="pt-BR">Operational investment banker</source>
+<seg-source><mrk mid="0" mtype="seg">Operational investment banker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu155" resname="sheet1!F24" xml:space="preserve">
+<source xml:lang="pt-BR">Shields-Valenzuela</source>
+<seg-source><mrk mid="0" mtype="seg">Shields-Valenzuela</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu156" resname="sheet1!A25" xml:space="preserve">
+<source xml:lang="pt-BR">24</source>
+<seg-source><mrk mid="0" mtype="seg">24</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu157" resname="sheet1!B25" xml:space="preserve">
+<source xml:lang="pt-BR">Christopher</source>
+<seg-source><mrk mid="0" mtype="seg">Christopher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu158" resname="sheet1!C25" xml:space="preserve">
+<source xml:lang="pt-BR">Thomas</source>
+<seg-source><mrk mid="0" mtype="seg">Thomas</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu159" resname="sheet1!D25" xml:space="preserve">
+<source xml:lang="pt-BR">pkelly@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">pkelly@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu160" resname="sheet1!E25" xml:space="preserve">
+<source xml:lang="pt-BR">Child psychotherapist</source>
+<seg-source><mrk mid="0" mtype="seg">Child psychotherapist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu161" resname="sheet1!F25" xml:space="preserve">
+<source xml:lang="pt-BR">Weaver PLC</source>
+<seg-source><mrk mid="0" mtype="seg">Weaver PLC</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu162" resname="sheet1!A26" xml:space="preserve">
+<source xml:lang="pt-BR">"25</source>
+<seg-source><mrk mid="0" mtype="seg">"25</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu163" resname="sheet1!B26" xml:space="preserve">
+<source xml:lang="pt-BR">Eric</source>
+<seg-source><mrk mid="0" mtype="seg">Eric</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu164" resname="sheet1!C26" xml:space="preserve">
+<source xml:lang="pt-BR">Ramirez</source>
+<seg-source><mrk mid="0" mtype="seg">Ramirez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu165" resname="sheet1!D26" xml:space="preserve">
+<source xml:lang="pt-BR">brenda16@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">brenda16@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu166" resname="sheet1!E26" xml:space="preserve">
+<source xml:lang="pt-BR">Midwife</source>
+<seg-source><mrk mid="0" mtype="seg">Midwife</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu167" resname="sheet1!F26" xml:space="preserve">
+<source xml:lang="pt-BR">""Foley</source>
+<seg-source><mrk mid="0" mtype="seg">""Foley</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu168" resname="sheet1!G26" xml:space="preserve">
+<source xml:lang="pt-BR"> Martin and Watts"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Martin and Watts"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu169" resname="sheet1!A27" xml:space="preserve">
+<source xml:lang="pt-BR">"26</source>
+<seg-source><mrk mid="0" mtype="seg">"26</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu170" resname="sheet1!B27" xml:space="preserve">
+<source xml:lang="pt-BR">Norma</source>
+<seg-source><mrk mid="0" mtype="seg">Norma</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu171" resname="sheet1!C27" xml:space="preserve">
+<source xml:lang="pt-BR">Hogan</source>
+<seg-source><mrk mid="0" mtype="seg">Hogan</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu172" resname="sheet1!D27" xml:space="preserve">
+<source xml:lang="pt-BR">christopher30@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">christopher30@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu173" resname="sheet1!E27" xml:space="preserve">
+<source xml:lang="pt-BR">Television production assistant</source>
+<seg-source><mrk mid="0" mtype="seg">Television production assistant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu174" resname="sheet1!F27" xml:space="preserve">
+<source xml:lang="pt-BR">""Garcia</source>
+<seg-source><mrk mid="0" mtype="seg">""Garcia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu175" resname="sheet1!G27" xml:space="preserve">
+<source xml:lang="pt-BR"> Scott and Gonzalez"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Scott and Gonzalez"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu176" resname="sheet1!A28" xml:space="preserve">
+<source xml:lang="pt-BR">"27</source>
+<seg-source><mrk mid="0" mtype="seg">"27</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu177" resname="sheet1!B28" xml:space="preserve">
+<source xml:lang="pt-BR">Elizabeth</source>
+<seg-source><mrk mid="0" mtype="seg">Elizabeth</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu178" resname="sheet1!C28" xml:space="preserve">
+<source xml:lang="pt-BR">Gonzalez</source>
+<seg-source><mrk mid="0" mtype="seg">Gonzalez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu179" resname="sheet1!D28" xml:space="preserve">
+<source xml:lang="pt-BR">carrielopez@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">carrielopez@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu180" resname="sheet1!E28" xml:space="preserve">
+<source xml:lang="pt-BR">Environmental consultant</source>
+<seg-source><mrk mid="0" mtype="seg">Environmental consultant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu181" resname="sheet1!F28" xml:space="preserve">
+<source xml:lang="pt-BR">""Clark</source>
+<seg-source><mrk mid="0" mtype="seg">""Clark</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu182" resname="sheet1!G28" xml:space="preserve">
+<source xml:lang="pt-BR"> Navarro and Elliott"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Navarro and Elliott"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu183" resname="sheet1!A29" xml:space="preserve">
+<source xml:lang="pt-BR">"28</source>
+<seg-source><mrk mid="0" mtype="seg">"28</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu184" resname="sheet1!B29" xml:space="preserve">
+<source xml:lang="pt-BR">Elizabeth</source>
+<seg-source><mrk mid="0" mtype="seg">Elizabeth</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu185" resname="sheet1!C29" xml:space="preserve">
+<source xml:lang="pt-BR">Horton</source>
+<seg-source><mrk mid="0" mtype="seg">Horton</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu186" resname="sheet1!D29" xml:space="preserve">
+<source xml:lang="pt-BR">anthonyramos@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">anthonyramos@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu187" resname="sheet1!E29" xml:space="preserve">
+<source xml:lang="pt-BR">Print production planner</source>
+<seg-source><mrk mid="0" mtype="seg">Print production planner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu188" resname="sheet1!F29" xml:space="preserve">
+<source xml:lang="pt-BR">""Villanueva</source>
+<seg-source><mrk mid="0" mtype="seg">""Villanueva</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu189" resname="sheet1!G29" xml:space="preserve">
+<source xml:lang="pt-BR"> Potts and Hill"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Potts and Hill"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu190" resname="sheet1!A30" xml:space="preserve">
+<source xml:lang="pt-BR">29</source>
+<seg-source><mrk mid="0" mtype="seg">29</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu191" resname="sheet1!B30" xml:space="preserve">
+<source xml:lang="pt-BR">James</source>
+<seg-source><mrk mid="0" mtype="seg">James</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu192" resname="sheet1!C30" xml:space="preserve">
+<source xml:lang="pt-BR">Wood</source>
+<seg-source><mrk mid="0" mtype="seg">Wood</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu193" resname="sheet1!D30" xml:space="preserve">
+<source xml:lang="pt-BR">robertorivera@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">robertorivera@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu194" resname="sheet1!E30" xml:space="preserve">
+<source xml:lang="pt-BR">Prison officer</source>
+<seg-source><mrk mid="0" mtype="seg">Prison officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu195" resname="sheet1!F30" xml:space="preserve">
+<source xml:lang="pt-BR">Brown-Gomez</source>
+<seg-source><mrk mid="0" mtype="seg">Brown-Gomez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu196" resname="sheet1!A31" xml:space="preserve">
+<source xml:lang="pt-BR">"30</source>
+<seg-source><mrk mid="0" mtype="seg">"30</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu197" resname="sheet1!B31" xml:space="preserve">
+<source xml:lang="pt-BR">William</source>
+<seg-source><mrk mid="0" mtype="seg">William</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu198" resname="sheet1!C31" xml:space="preserve">
+<source xml:lang="pt-BR">Pope</source>
+<seg-source><mrk mid="0" mtype="seg">Pope</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu199" resname="sheet1!D31" xml:space="preserve">
+<source xml:lang="pt-BR">michael00@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">michael00@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu200" resname="sheet1!E31" xml:space="preserve">
+<source xml:lang="pt-BR">Risk analyst</source>
+<seg-source><mrk mid="0" mtype="seg">Risk analyst</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu201" resname="sheet1!F31" xml:space="preserve">
+<source xml:lang="pt-BR">""Smith</source>
+<seg-source><mrk mid="0" mtype="seg">""Smith</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu202" resname="sheet1!G31" xml:space="preserve">
+<source xml:lang="pt-BR"> Wilson and Patterson"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Wilson and Patterson"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu203" resname="sheet1!A32" xml:space="preserve">
+<source xml:lang="pt-BR">31</source>
+<seg-source><mrk mid="0" mtype="seg">31</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu204" resname="sheet1!B32" xml:space="preserve">
+<source xml:lang="pt-BR">Katelyn</source>
+<seg-source><mrk mid="0" mtype="seg">Katelyn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu205" resname="sheet1!C32" xml:space="preserve">
+<source xml:lang="pt-BR">Smith</source>
+<seg-source><mrk mid="0" mtype="seg">Smith</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu206" resname="sheet1!D32" xml:space="preserve">
+<source xml:lang="pt-BR">leonarderickson@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">leonarderickson@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu207" resname="sheet1!E32" xml:space="preserve">
+<source xml:lang="pt-BR">Occupational psychologist</source>
+<seg-source><mrk mid="0" mtype="seg">Occupational psychologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu208" resname="sheet1!F32" xml:space="preserve">
+<source xml:lang="pt-BR">Gates-Blevins</source>
+<seg-source><mrk mid="0" mtype="seg">Gates-Blevins</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu209" resname="sheet1!A33" xml:space="preserve">
+<source xml:lang="pt-BR">32</source>
+<seg-source><mrk mid="0" mtype="seg">32</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu210" resname="sheet1!B33" xml:space="preserve">
+<source xml:lang="pt-BR">Rachel</source>
+<seg-source><mrk mid="0" mtype="seg">Rachel</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu211" resname="sheet1!C33" xml:space="preserve">
+<source xml:lang="pt-BR">Cameron</source>
+<seg-source><mrk mid="0" mtype="seg">Cameron</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu212" resname="sheet1!D33" xml:space="preserve">
+<source xml:lang="pt-BR">billy64@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">billy64@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu213" resname="sheet1!E33" xml:space="preserve">
+<source xml:lang="pt-BR">Investment analyst</source>
+<seg-source><mrk mid="0" mtype="seg">Investment analyst</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu214" resname="sheet1!F33" xml:space="preserve">
+<source xml:lang="pt-BR">Smith Ltd</source>
+<seg-source><mrk mid="0" mtype="seg">Smith Ltd</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu215" resname="sheet1!A34" xml:space="preserve">
+<source xml:lang="pt-BR">33</source>
+<seg-source><mrk mid="0" mtype="seg">33</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu216" resname="sheet1!B34" xml:space="preserve">
+<source xml:lang="pt-BR">Brandon</source>
+<seg-source><mrk mid="0" mtype="seg">Brandon</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu217" resname="sheet1!C34" xml:space="preserve">
+<source xml:lang="pt-BR">Chandler</source>
+<seg-source><mrk mid="0" mtype="seg">Chandler</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu218" resname="sheet1!D34" xml:space="preserve">
+<source xml:lang="pt-BR">richardwright@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">richardwright@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu219" resname="sheet1!E34" xml:space="preserve">
+<source xml:lang="pt-BR">IT technical support officer</source>
+<seg-source><mrk mid="0" mtype="seg">IT technical support officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu220" resname="sheet1!F34" xml:space="preserve">
+<source xml:lang="pt-BR">Wright-Webb</source>
+<seg-source><mrk mid="0" mtype="seg">Wright-Webb</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu221" resname="sheet1!A35" xml:space="preserve">
+<source xml:lang="pt-BR">34</source>
+<seg-source><mrk mid="0" mtype="seg">34</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu222" resname="sheet1!B35" xml:space="preserve">
+<source xml:lang="pt-BR">Julie</source>
+<seg-source><mrk mid="0" mtype="seg">Julie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu223" resname="sheet1!C35" xml:space="preserve">
+<source xml:lang="pt-BR">Lee</source>
+<seg-source><mrk mid="0" mtype="seg">Lee</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu224" resname="sheet1!D35" xml:space="preserve">
+<source xml:lang="pt-BR">lloydlisa@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">lloydlisa@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu225" resname="sheet1!E35" xml:space="preserve">
+<source xml:lang="pt-BR">Air cabin crew</source>
+<seg-source><mrk mid="0" mtype="seg">Air cabin crew</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu226" resname="sheet1!F35" xml:space="preserve">
+<source xml:lang="pt-BR">Gomez-Allen</source>
+<seg-source><mrk mid="0" mtype="seg">Gomez-Allen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu227" resname="sheet1!A36" xml:space="preserve">
+<source xml:lang="pt-BR">35</source>
+<seg-source><mrk mid="0" mtype="seg">35</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu228" resname="sheet1!B36" xml:space="preserve">
+<source xml:lang="pt-BR">Robert</source>
+<seg-source><mrk mid="0" mtype="seg">Robert</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu229" resname="sheet1!C36" xml:space="preserve">
+<source xml:lang="pt-BR">Zuniga</source>
+<seg-source><mrk mid="0" mtype="seg">Zuniga</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu230" resname="sheet1!D36" xml:space="preserve">
+<source xml:lang="pt-BR">wadkins@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">wadkins@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu231" resname="sheet1!E36" xml:space="preserve">
+<source xml:lang="pt-BR">Risk manager</source>
+<seg-source><mrk mid="0" mtype="seg">Risk manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu232" resname="sheet1!F36" xml:space="preserve">
+<source xml:lang="pt-BR">Williams-Anderson</source>
+<seg-source><mrk mid="0" mtype="seg">Williams-Anderson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu233" resname="sheet1!A37" xml:space="preserve">
+<source xml:lang="pt-BR">"36</source>
+<seg-source><mrk mid="0" mtype="seg">"36</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu234" resname="sheet1!B37" xml:space="preserve">
+<source xml:lang="pt-BR">Mark</source>
+<seg-source><mrk mid="0" mtype="seg">Mark</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu235" resname="sheet1!C37" xml:space="preserve">
+<source xml:lang="pt-BR">Bauer</source>
+<seg-source><mrk mid="0" mtype="seg">Bauer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu236" resname="sheet1!D37" xml:space="preserve">
+<source xml:lang="pt-BR">john96@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">john96@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu237" resname="sheet1!E37" xml:space="preserve">
+<source xml:lang="pt-BR">Television/film/video producer</source>
+<seg-source><mrk mid="0" mtype="seg">Television/film/video producer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu238" resname="sheet1!F37" xml:space="preserve">
+<source xml:lang="pt-BR">""Bennett</source>
+<seg-source><mrk mid="0" mtype="seg">""Bennett</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu239" resname="sheet1!G37" xml:space="preserve">
+<source xml:lang="pt-BR"> Roach and Smith"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Roach and Smith"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu240" resname="sheet1!A38" xml:space="preserve">
+<source xml:lang="pt-BR">"37</source>
+<seg-source><mrk mid="0" mtype="seg">"37</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu241" resname="sheet1!B38" xml:space="preserve">
+<source xml:lang="pt-BR">Jill</source>
+<seg-source><mrk mid="0" mtype="seg">Jill</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu242" resname="sheet1!C38" xml:space="preserve">
+<source xml:lang="pt-BR">Dillon</source>
+<seg-source><mrk mid="0" mtype="seg">Dillon</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu243" resname="sheet1!D38" xml:space="preserve">
+<source xml:lang="pt-BR">coryzamora@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">coryzamora@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu244" resname="sheet1!E38" xml:space="preserve">
+<source xml:lang="pt-BR">""Engineer</source>
+<seg-source><mrk mid="0" mtype="seg">""Engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu245" resname="sheet1!F38" xml:space="preserve">
+<source xml:lang="pt-BR"> electrical""</source>
+<seg-source><mrk mid="0" mtype="seg"> electrical""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu246" resname="sheet1!G38" xml:space="preserve">
+<source xml:lang="pt-BR">""Stanton</source>
+<seg-source><mrk mid="0" mtype="seg">""Stanton</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu247" resname="sheet1!H38" xml:space="preserve">
+<source xml:lang="pt-BR"> Logan and Werner"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Logan and Werner"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu248" resname="sheet1!A39" xml:space="preserve">
+<source xml:lang="pt-BR">"38</source>
+<seg-source><mrk mid="0" mtype="seg">"38</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu249" resname="sheet1!B39" xml:space="preserve">
+<source xml:lang="pt-BR">Michael</source>
+<seg-source><mrk mid="0" mtype="seg">Michael</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu250" resname="sheet1!C39" xml:space="preserve">
+<source xml:lang="pt-BR">Chapman</source>
+<seg-source><mrk mid="0" mtype="seg">Chapman</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu251" resname="sheet1!D39" xml:space="preserve">
+<source xml:lang="pt-BR">adkinsmiranda@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">adkinsmiranda@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu252" resname="sheet1!E39" xml:space="preserve">
+<source xml:lang="pt-BR">""Scientist</source>
+<seg-source><mrk mid="0" mtype="seg">""Scientist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu253" resname="sheet1!F39" xml:space="preserve">
+<source xml:lang="pt-BR"> biomedical""</source>
+<seg-source><mrk mid="0" mtype="seg"> biomedical""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu254" resname="sheet1!G39" xml:space="preserve">
+<source xml:lang="pt-BR">""Wagner</source>
+<seg-source><mrk mid="0" mtype="seg">""Wagner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu255" resname="sheet1!H39" xml:space="preserve">
+<source xml:lang="pt-BR"> Wright and Graham"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Wright and Graham"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu256" resname="sheet1!A40" xml:space="preserve">
+<source xml:lang="pt-BR">"39</source>
+<seg-source><mrk mid="0" mtype="seg">"39</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu257" resname="sheet1!B40" xml:space="preserve">
+<source xml:lang="pt-BR">Brian</source>
+<seg-source><mrk mid="0" mtype="seg">Brian</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu258" resname="sheet1!C40" xml:space="preserve">
+<source xml:lang="pt-BR">Sanford</source>
+<seg-source><mrk mid="0" mtype="seg">Sanford</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu259" resname="sheet1!D40" xml:space="preserve">
+<source xml:lang="pt-BR">lorimartinez@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">lorimartinez@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu260" resname="sheet1!E40" xml:space="preserve">
+<source xml:lang="pt-BR">""Engineer</source>
+<seg-source><mrk mid="0" mtype="seg">""Engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu261" resname="sheet1!F40" xml:space="preserve">
+<source xml:lang="pt-BR"> water""</source>
+<seg-source><mrk mid="0" mtype="seg"> water""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu262" resname="sheet1!G40" xml:space="preserve">
+<source xml:lang="pt-BR">""Woods</source>
+<seg-source><mrk mid="0" mtype="seg">""Woods</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu263" resname="sheet1!H40" xml:space="preserve">
+<source xml:lang="pt-BR"> May and Duncan"""</source>
+<seg-source><mrk mid="0" mtype="seg"> May and Duncan"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu264" resname="sheet1!A41" xml:space="preserve">
+<source xml:lang="pt-BR">"40</source>
+<seg-source><mrk mid="0" mtype="seg">"40</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu265" resname="sheet1!B41" xml:space="preserve">
+<source xml:lang="pt-BR">Claudia</source>
+<seg-source><mrk mid="0" mtype="seg">Claudia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu266" resname="sheet1!C41" xml:space="preserve">
+<source xml:lang="pt-BR">Fisher</source>
+<seg-source><mrk mid="0" mtype="seg">Fisher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu267" resname="sheet1!D41" xml:space="preserve">
+<source xml:lang="pt-BR">mistyturner@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">mistyturner@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu268" resname="sheet1!E41" xml:space="preserve">
+<source xml:lang="pt-BR">""Solicitor</source>
+<seg-source><mrk mid="0" mtype="seg">""Solicitor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu269" resname="sheet1!F41" xml:space="preserve">
+<source xml:lang="pt-BR"> Scotland""</source>
+<seg-source><mrk mid="0" mtype="seg"> Scotland""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu270" resname="sheet1!G41" xml:space="preserve">
+<source xml:lang="pt-BR">""Bowman</source>
+<seg-source><mrk mid="0" mtype="seg">""Bowman</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu271" resname="sheet1!H41" xml:space="preserve">
+<source xml:lang="pt-BR"> Munoz and Melendez"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Munoz and Melendez"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu272" resname="sheet1!A42" xml:space="preserve">
+<source xml:lang="pt-BR">"41</source>
+<seg-source><mrk mid="0" mtype="seg">"41</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu273" resname="sheet1!B42" xml:space="preserve">
+<source xml:lang="pt-BR">Anna</source>
+<seg-source><mrk mid="0" mtype="seg">Anna</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu274" resname="sheet1!C42" xml:space="preserve">
+<source xml:lang="pt-BR">Davenport</source>
+<seg-source><mrk mid="0" mtype="seg">Davenport</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu275" resname="sheet1!D42" xml:space="preserve">
+<source xml:lang="pt-BR">xmoran@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">xmoran@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu276" resname="sheet1!E42" xml:space="preserve">
+<source xml:lang="pt-BR">""Administrator</source>
+<seg-source><mrk mid="0" mtype="seg">""Administrator</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu277" resname="sheet1!F42" xml:space="preserve">
+<source xml:lang="pt-BR"> Civil Service""</source>
+<seg-source><mrk mid="0" mtype="seg"> Civil Service""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu278" resname="sheet1!G42" xml:space="preserve">
+<source xml:lang="pt-BR">""Delgado</source>
+<seg-source><mrk mid="0" mtype="seg">""Delgado</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu279" resname="sheet1!H42" xml:space="preserve">
+<source xml:lang="pt-BR"> Reeves and Roberson"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Reeves and Roberson"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu280" resname="sheet1!A43" xml:space="preserve">
+<source xml:lang="pt-BR">"42</source>
+<seg-source><mrk mid="0" mtype="seg">"42</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu281" resname="sheet1!B43" xml:space="preserve">
+<source xml:lang="pt-BR">Jason</source>
+<seg-source><mrk mid="0" mtype="seg">Jason</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu282" resname="sheet1!C43" xml:space="preserve">
+<source xml:lang="pt-BR">Castillo</source>
+<seg-source><mrk mid="0" mtype="seg">Castillo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu283" resname="sheet1!D43" xml:space="preserve">
+<source xml:lang="pt-BR">sandrawoods@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">sandrawoods@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu284" resname="sheet1!E43" xml:space="preserve">
+<source xml:lang="pt-BR">""Therapist</source>
+<seg-source><mrk mid="0" mtype="seg">""Therapist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu285" resname="sheet1!F43" xml:space="preserve">
+<source xml:lang="pt-BR"> art""</source>
+<seg-source><mrk mid="0" mtype="seg"> art""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu286" resname="sheet1!G43" xml:space="preserve">
+<source xml:lang="pt-BR">""Escobar</source>
+<seg-source><mrk mid="0" mtype="seg">""Escobar</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu287" resname="sheet1!H43" xml:space="preserve">
+<source xml:lang="pt-BR"> Levine and Williams"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Levine and Williams"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu288" resname="sheet1!A44" xml:space="preserve">
+<source xml:lang="pt-BR">"43</source>
+<seg-source><mrk mid="0" mtype="seg">"43</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu289" resname="sheet1!B44" xml:space="preserve">
+<source xml:lang="pt-BR">Anna</source>
+<seg-source><mrk mid="0" mtype="seg">Anna</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu290" resname="sheet1!C44" xml:space="preserve">
+<source xml:lang="pt-BR">Spencer</source>
+<seg-source><mrk mid="0" mtype="seg">Spencer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu291" resname="sheet1!D44" xml:space="preserve">
+<source xml:lang="pt-BR">qsmith@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">qsmith@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu292" resname="sheet1!E44" xml:space="preserve">
+<source xml:lang="pt-BR">""Sales professional</source>
+<seg-source><mrk mid="0" mtype="seg">""Sales professional</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu293" resname="sheet1!F44" xml:space="preserve">
+<source xml:lang="pt-BR"> IT""</source>
+<seg-source><mrk mid="0" mtype="seg"> IT""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu294" resname="sheet1!G44" xml:space="preserve">
+<source xml:lang="pt-BR">Crane LLC"</source>
+<seg-source><mrk mid="0" mtype="seg">Crane LLC"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu295" resname="sheet1!A45" xml:space="preserve">
+<source xml:lang="pt-BR">"44</source>
+<seg-source><mrk mid="0" mtype="seg">"44</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu296" resname="sheet1!B45" xml:space="preserve">
+<source xml:lang="pt-BR">Cynthia</source>
+<seg-source><mrk mid="0" mtype="seg">Cynthia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu297" resname="sheet1!C45" xml:space="preserve">
+<source xml:lang="pt-BR">Decker</source>
+<seg-source><mrk mid="0" mtype="seg">Decker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu298" resname="sheet1!D45" xml:space="preserve">
+<source xml:lang="pt-BR">youngmatthew@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">youngmatthew@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu299" resname="sheet1!E45" xml:space="preserve">
+<source xml:lang="pt-BR">Air broker</source>
+<seg-source><mrk mid="0" mtype="seg">Air broker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu300" resname="sheet1!F45" xml:space="preserve">
+<source xml:lang="pt-BR">""Coleman</source>
+<seg-source><mrk mid="0" mtype="seg">""Coleman</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu301" resname="sheet1!G45" xml:space="preserve">
+<source xml:lang="pt-BR"> Norris and Graham"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Norris and Graham"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu302" resname="sheet1!A46" xml:space="preserve">
+<source xml:lang="pt-BR">"45</source>
+<seg-source><mrk mid="0" mtype="seg">"45</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu303" resname="sheet1!B46" xml:space="preserve">
+<source xml:lang="pt-BR">William</source>
+<seg-source><mrk mid="0" mtype="seg">William</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu304" resname="sheet1!C46" xml:space="preserve">
+<source xml:lang="pt-BR">Moreno</source>
+<seg-source><mrk mid="0" mtype="seg">Moreno</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu305" resname="sheet1!D46" xml:space="preserve">
+<source xml:lang="pt-BR">ianward@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">ianward@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu306" resname="sheet1!E46" xml:space="preserve">
+<source xml:lang="pt-BR">""Editor</source>
+<seg-source><mrk mid="0" mtype="seg">""Editor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu307" resname="sheet1!F46" xml:space="preserve">
+<source xml:lang="pt-BR"> film/video""</source>
+<seg-source><mrk mid="0" mtype="seg"> film/video""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu308" resname="sheet1!G46" xml:space="preserve">
+<source xml:lang="pt-BR">Hammond Ltd"</source>
+<seg-source><mrk mid="0" mtype="seg">Hammond Ltd"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu309" resname="sheet1!A47" xml:space="preserve">
+<source xml:lang="pt-BR">46</source>
+<seg-source><mrk mid="0" mtype="seg">46</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu310" resname="sheet1!B47" xml:space="preserve">
+<source xml:lang="pt-BR">Matthew</source>
+<seg-source><mrk mid="0" mtype="seg">Matthew</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu311" resname="sheet1!C47" xml:space="preserve">
+<source xml:lang="pt-BR">Walker</source>
+<seg-source><mrk mid="0" mtype="seg">Walker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu312" resname="sheet1!D47" xml:space="preserve">
+<source xml:lang="pt-BR">jonathandawson@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">jonathandawson@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu313" resname="sheet1!E47" xml:space="preserve">
+<source xml:lang="pt-BR">Arts development officer</source>
+<seg-source><mrk mid="0" mtype="seg">Arts development officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu314" resname="sheet1!F47" xml:space="preserve">
+<source xml:lang="pt-BR">Horton Inc</source>
+<seg-source><mrk mid="0" mtype="seg">Horton Inc</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu315" resname="sheet1!A48" xml:space="preserve">
+<source xml:lang="pt-BR">47</source>
+<seg-source><mrk mid="0" mtype="seg">47</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu316" resname="sheet1!B48" xml:space="preserve">
+<source xml:lang="pt-BR">Erica</source>
+<seg-source><mrk mid="0" mtype="seg">Erica</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu317" resname="sheet1!C48" xml:space="preserve">
+<source xml:lang="pt-BR">Nash</source>
+<seg-source><mrk mid="0" mtype="seg">Nash</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu318" resname="sheet1!D48" xml:space="preserve">
+<source xml:lang="pt-BR">fjenkins@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">fjenkins@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu319" resname="sheet1!E48" xml:space="preserve">
+<source xml:lang="pt-BR">Transport planner</source>
+<seg-source><mrk mid="0" mtype="seg">Transport planner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu320" resname="sheet1!F48" xml:space="preserve">
+<source xml:lang="pt-BR">Green-Padilla</source>
+<seg-source><mrk mid="0" mtype="seg">Green-Padilla</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu321" resname="sheet1!A49" xml:space="preserve">
+<source xml:lang="pt-BR">48</source>
+<seg-source><mrk mid="0" mtype="seg">48</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu322" resname="sheet1!B49" xml:space="preserve">
+<source xml:lang="pt-BR">Jared</source>
+<seg-source><mrk mid="0" mtype="seg">Jared</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu323" resname="sheet1!C49" xml:space="preserve">
+<source xml:lang="pt-BR">Donovan</source>
+<seg-source><mrk mid="0" mtype="seg">Donovan</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu324" resname="sheet1!D49" xml:space="preserve">
+<source xml:lang="pt-BR">cooperwendy@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">cooperwendy@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu325" resname="sheet1!E49" xml:space="preserve">
+<source xml:lang="pt-BR">Ecologist</source>
+<seg-source><mrk mid="0" mtype="seg">Ecologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu326" resname="sheet1!F49" xml:space="preserve">
+<source xml:lang="pt-BR">Wang-Hubbard</source>
+<seg-source><mrk mid="0" mtype="seg">Wang-Hubbard</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu327" resname="sheet1!A50" xml:space="preserve">
+<source xml:lang="pt-BR">49</source>
+<seg-source><mrk mid="0" mtype="seg">49</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu328" resname="sheet1!B50" xml:space="preserve">
+<source xml:lang="pt-BR">Anthony</source>
+<seg-source><mrk mid="0" mtype="seg">Anthony</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu329" resname="sheet1!C50" xml:space="preserve">
+<source xml:lang="pt-BR">Gutierrez</source>
+<seg-source><mrk mid="0" mtype="seg">Gutierrez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu330" resname="sheet1!D50" xml:space="preserve">
+<source xml:lang="pt-BR">andre63@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">andre63@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu331" resname="sheet1!E50" xml:space="preserve">
+<source xml:lang="pt-BR">Minerals surveyor</source>
+<seg-source><mrk mid="0" mtype="seg">Minerals surveyor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu332" resname="sheet1!F50" xml:space="preserve">
+<source xml:lang="pt-BR">Ruiz LLC</source>
+<seg-source><mrk mid="0" mtype="seg">Ruiz LLC</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu333" resname="sheet1!A51" xml:space="preserve">
+<source xml:lang="pt-BR">50</source>
+<seg-source><mrk mid="0" mtype="seg">50</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu334" resname="sheet1!B51" xml:space="preserve">
+<source xml:lang="pt-BR">Ariel</source>
+<seg-source><mrk mid="0" mtype="seg">Ariel</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu335" resname="sheet1!C51" xml:space="preserve">
+<source xml:lang="pt-BR">Perry</source>
+<seg-source><mrk mid="0" mtype="seg">Perry</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu336" resname="sheet1!D51" xml:space="preserve">
+<source xml:lang="pt-BR">emily56@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">emily56@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu337" resname="sheet1!E51" xml:space="preserve">
+<source xml:lang="pt-BR">Multimedia programmer</source>
+<seg-source><mrk mid="0" mtype="seg">Multimedia programmer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu338" resname="sheet1!F51" xml:space="preserve">
+<source xml:lang="pt-BR">Gibson-Johnson</source>
+<seg-source><mrk mid="0" mtype="seg">Gibson-Johnson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu339" resname="sheet1!A52" xml:space="preserve">
+<source xml:lang="pt-BR">51</source>
+<seg-source><mrk mid="0" mtype="seg">51</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu340" resname="sheet1!B52" xml:space="preserve">
+<source xml:lang="pt-BR">Tiffany</source>
+<seg-source><mrk mid="0" mtype="seg">Tiffany</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu341" resname="sheet1!C52" xml:space="preserve">
+<source xml:lang="pt-BR">Bond</source>
+<seg-source><mrk mid="0" mtype="seg">Bond</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu342" resname="sheet1!D52" xml:space="preserve">
+<source xml:lang="pt-BR">jesse96@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">jesse96@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu343" resname="sheet1!E52" xml:space="preserve">
+<source xml:lang="pt-BR">Barrister's clerk</source>
+<seg-source><mrk mid="0" mtype="seg">Barrister's clerk</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu344" resname="sheet1!F52" xml:space="preserve">
+<source xml:lang="pt-BR">Fitzpatrick-Hanson</source>
+<seg-source><mrk mid="0" mtype="seg">Fitzpatrick-Hanson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu345" resname="sheet1!A53" xml:space="preserve">
+<source xml:lang="pt-BR">52</source>
+<seg-source><mrk mid="0" mtype="seg">52</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu346" resname="sheet1!B53" xml:space="preserve">
+<source xml:lang="pt-BR">Bradley</source>
+<seg-source><mrk mid="0" mtype="seg">Bradley</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu347" resname="sheet1!C53" xml:space="preserve">
+<source xml:lang="pt-BR">Zimmerman</source>
+<seg-source><mrk mid="0" mtype="seg">Zimmerman</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu348" resname="sheet1!D53" xml:space="preserve">
+<source xml:lang="pt-BR">gberg@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">gberg@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu349" resname="sheet1!E53" xml:space="preserve">
+<source xml:lang="pt-BR">Horticultural consultant</source>
+<seg-source><mrk mid="0" mtype="seg">Horticultural consultant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu350" resname="sheet1!F53" xml:space="preserve">
+<source xml:lang="pt-BR">Houston-Dickerson</source>
+<seg-source><mrk mid="0" mtype="seg">Houston-Dickerson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu351" resname="sheet1!A54" xml:space="preserve">
+<source xml:lang="pt-BR">"53</source>
+<seg-source><mrk mid="0" mtype="seg">"53</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu352" resname="sheet1!B54" xml:space="preserve">
+<source xml:lang="pt-BR">Jennifer</source>
+<seg-source><mrk mid="0" mtype="seg">Jennifer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu353" resname="sheet1!C54" xml:space="preserve">
+<source xml:lang="pt-BR">Castillo</source>
+<seg-source><mrk mid="0" mtype="seg">Castillo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu354" resname="sheet1!D54" xml:space="preserve">
+<source xml:lang="pt-BR">christophermiddleton@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">christophermiddleton@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu355" resname="sheet1!E54" xml:space="preserve">
+<source xml:lang="pt-BR">""Surveyor</source>
+<seg-source><mrk mid="0" mtype="seg">""Surveyor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu356" resname="sheet1!F54" xml:space="preserve">
+<source xml:lang="pt-BR"> planning and development""</source>
+<seg-source><mrk mid="0" mtype="seg"> planning and development""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu357" resname="sheet1!G54" xml:space="preserve">
+<source xml:lang="pt-BR">Taylor LLC"</source>
+<seg-source><mrk mid="0" mtype="seg">Taylor LLC"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu358" resname="sheet1!A55" xml:space="preserve">
+<source xml:lang="pt-BR">"54</source>
+<seg-source><mrk mid="0" mtype="seg">"54</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu359" resname="sheet1!B55" xml:space="preserve">
+<source xml:lang="pt-BR">David</source>
+<seg-source><mrk mid="0" mtype="seg">David</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu360" resname="sheet1!C55" xml:space="preserve">
+<source xml:lang="pt-BR">Gonzales</source>
+<seg-source><mrk mid="0" mtype="seg">Gonzales</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu361" resname="sheet1!D55" xml:space="preserve">
+<source xml:lang="pt-BR">george54@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">george54@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu362" resname="sheet1!E55" xml:space="preserve">
+<source xml:lang="pt-BR">Travel agency manager</source>
+<seg-source><mrk mid="0" mtype="seg">Travel agency manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu363" resname="sheet1!F55" xml:space="preserve">
+<source xml:lang="pt-BR">""Davis</source>
+<seg-source><mrk mid="0" mtype="seg">""Davis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu364" resname="sheet1!G55" xml:space="preserve">
+<source xml:lang="pt-BR"> Smith and Torres"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Smith and Torres"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu365" resname="sheet1!A56" xml:space="preserve">
+<source xml:lang="pt-BR">"55</source>
+<seg-source><mrk mid="0" mtype="seg">"55</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu366" resname="sheet1!B56" xml:space="preserve">
+<source xml:lang="pt-BR">Donald</source>
+<seg-source><mrk mid="0" mtype="seg">Donald</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu367" resname="sheet1!C56" xml:space="preserve">
+<source xml:lang="pt-BR">Davis</source>
+<seg-source><mrk mid="0" mtype="seg">Davis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu368" resname="sheet1!D56" xml:space="preserve">
+<source xml:lang="pt-BR">thoward@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">thoward@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu369" resname="sheet1!E56" xml:space="preserve">
+<source xml:lang="pt-BR">Furniture conservator/restorer</source>
+<seg-source><mrk mid="0" mtype="seg">Furniture conservator/restorer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu370" resname="sheet1!F56" xml:space="preserve">
+<source xml:lang="pt-BR">""Burns</source>
+<seg-source><mrk mid="0" mtype="seg">""Burns</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu371" resname="sheet1!G56" xml:space="preserve">
+<source xml:lang="pt-BR"> Peters and Garner"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Peters and Garner"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu372" resname="sheet1!A57" xml:space="preserve">
+<source xml:lang="pt-BR">56</source>
+<seg-source><mrk mid="0" mtype="seg">56</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu373" resname="sheet1!B57" xml:space="preserve">
+<source xml:lang="pt-BR">Todd</source>
+<seg-source><mrk mid="0" mtype="seg">Todd</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu374" resname="sheet1!C57" xml:space="preserve">
+<source xml:lang="pt-BR">Hughes</source>
+<seg-source><mrk mid="0" mtype="seg">Hughes</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu375" resname="sheet1!D57" xml:space="preserve">
+<source xml:lang="pt-BR">george07@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">george07@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu376" resname="sheet1!E57" xml:space="preserve">
+<source xml:lang="pt-BR">Location manager</source>
+<seg-source><mrk mid="0" mtype="seg">Location manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu377" resname="sheet1!F57" xml:space="preserve">
+<source xml:lang="pt-BR">Mccullough and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Mccullough and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu378" resname="sheet1!A58" xml:space="preserve">
+<source xml:lang="pt-BR">"57</source>
+<seg-source><mrk mid="0" mtype="seg">"57</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu379" resname="sheet1!B58" xml:space="preserve">
+<source xml:lang="pt-BR">Travis</source>
+<seg-source><mrk mid="0" mtype="seg">Travis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu380" resname="sheet1!C58" xml:space="preserve">
+<source xml:lang="pt-BR">Brown</source>
+<seg-source><mrk mid="0" mtype="seg">Brown</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu381" resname="sheet1!D58" xml:space="preserve">
+<source xml:lang="pt-BR">ortizmarisa@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">ortizmarisa@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu382" resname="sheet1!E58" xml:space="preserve">
+<source xml:lang="pt-BR">Herpetologist</source>
+<seg-source><mrk mid="0" mtype="seg">Herpetologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu383" resname="sheet1!F58" xml:space="preserve">
+<source xml:lang="pt-BR">""Miller</source>
+<seg-source><mrk mid="0" mtype="seg">""Miller</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu384" resname="sheet1!G58" xml:space="preserve">
+<source xml:lang="pt-BR"> Odonnell and Freeman"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Odonnell and Freeman"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu385" resname="sheet1!A59" xml:space="preserve">
+<source xml:lang="pt-BR">58</source>
+<seg-source><mrk mid="0" mtype="seg">58</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu386" resname="sheet1!B59" xml:space="preserve">
+<source xml:lang="pt-BR">William</source>
+<seg-source><mrk mid="0" mtype="seg">William</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu387" resname="sheet1!C59" xml:space="preserve">
+<source xml:lang="pt-BR">Acevedo</source>
+<seg-source><mrk mid="0" mtype="seg">Acevedo</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu388" resname="sheet1!D59" xml:space="preserve">
+<source xml:lang="pt-BR">vcastillo@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">vcastillo@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu389" resname="sheet1!E59" xml:space="preserve">
+<source xml:lang="pt-BR">Visual merchandiser</source>
+<seg-source><mrk mid="0" mtype="seg">Visual merchandiser</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu390" resname="sheet1!F59" xml:space="preserve">
+<source xml:lang="pt-BR">Merritt-Conner</source>
+<seg-source><mrk mid="0" mtype="seg">Merritt-Conner</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu391" resname="sheet1!A60" xml:space="preserve">
+<source xml:lang="pt-BR">59</source>
+<seg-source><mrk mid="0" mtype="seg">59</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu392" resname="sheet1!B60" xml:space="preserve">
+<source xml:lang="pt-BR">Garrett</source>
+<seg-source><mrk mid="0" mtype="seg">Garrett</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu393" resname="sheet1!C60" xml:space="preserve">
+<source xml:lang="pt-BR">Reed</source>
+<seg-source><mrk mid="0" mtype="seg">Reed</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu394" resname="sheet1!D60" xml:space="preserve">
+<source xml:lang="pt-BR">fernando25@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">fernando25@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu395" resname="sheet1!E60" xml:space="preserve">
+<source xml:lang="pt-BR">Community development worker</source>
+<seg-source><mrk mid="0" mtype="seg">Community development worker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu396" resname="sheet1!F60" xml:space="preserve">
+<source xml:lang="pt-BR">Martinez-Jones</source>
+<seg-source><mrk mid="0" mtype="seg">Martinez-Jones</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu397" resname="sheet1!A61" xml:space="preserve">
+<source xml:lang="pt-BR">60</source>
+<seg-source><mrk mid="0" mtype="seg">60</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu398" resname="sheet1!B61" xml:space="preserve">
+<source xml:lang="pt-BR">Ashley</source>
+<seg-source><mrk mid="0" mtype="seg">Ashley</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu399" resname="sheet1!C61" xml:space="preserve">
+<source xml:lang="pt-BR">Ellison</source>
+<seg-source><mrk mid="0" mtype="seg">Ellison</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu400" resname="sheet1!D61" xml:space="preserve">
+<source xml:lang="pt-BR">mitchellmichael@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">mitchellmichael@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu401" resname="sheet1!E61" xml:space="preserve">
+<source xml:lang="pt-BR">Air traffic controller</source>
+<seg-source><mrk mid="0" mtype="seg">Air traffic controller</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu402" resname="sheet1!F61" xml:space="preserve">
+<source xml:lang="pt-BR">Soto and Sons</source>
+<seg-source><mrk mid="0" mtype="seg">Soto and Sons</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu403" resname="sheet1!A62" xml:space="preserve">
+<source xml:lang="pt-BR">61</source>
+<seg-source><mrk mid="0" mtype="seg">61</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu404" resname="sheet1!B62" xml:space="preserve">
+<source xml:lang="pt-BR">Kevin</source>
+<seg-source><mrk mid="0" mtype="seg">Kevin</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu405" resname="sheet1!C62" xml:space="preserve">
+<source xml:lang="pt-BR">Cochran</source>
+<seg-source><mrk mid="0" mtype="seg">Cochran</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu406" resname="sheet1!D62" xml:space="preserve">
+<source xml:lang="pt-BR">brian17@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">brian17@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu407" resname="sheet1!E62" xml:space="preserve">
+<source xml:lang="pt-BR">Geoscientist</source>
+<seg-source><mrk mid="0" mtype="seg">Geoscientist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu408" resname="sheet1!F62" xml:space="preserve">
+<source xml:lang="pt-BR">Shaw-Patrick</source>
+<seg-source><mrk mid="0" mtype="seg">Shaw-Patrick</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu409" resname="sheet1!A63" xml:space="preserve">
+<source xml:lang="pt-BR">62</source>
+<seg-source><mrk mid="0" mtype="seg">62</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu410" resname="sheet1!B63" xml:space="preserve">
+<source xml:lang="pt-BR">Kelsey</source>
+<seg-source><mrk mid="0" mtype="seg">Kelsey</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu411" resname="sheet1!C63" xml:space="preserve">
+<source xml:lang="pt-BR">Gutierrez</source>
+<seg-source><mrk mid="0" mtype="seg">Gutierrez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu412" resname="sheet1!D63" xml:space="preserve">
+<source xml:lang="pt-BR">erichuerta@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">erichuerta@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu413" resname="sheet1!E63" xml:space="preserve">
+<source xml:lang="pt-BR">Waste management officer</source>
+<seg-source><mrk mid="0" mtype="seg">Waste management officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu414" resname="sheet1!F63" xml:space="preserve">
+<source xml:lang="pt-BR">Smith-Cox</source>
+<seg-source><mrk mid="0" mtype="seg">Smith-Cox</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu415" resname="sheet1!A64" xml:space="preserve">
+<source xml:lang="pt-BR">"63</source>
+<seg-source><mrk mid="0" mtype="seg">"63</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu416" resname="sheet1!B64" xml:space="preserve">
+<source xml:lang="pt-BR">Troy</source>
+<seg-source><mrk mid="0" mtype="seg">Troy</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu417" resname="sheet1!C64" xml:space="preserve">
+<source xml:lang="pt-BR">Benitez</source>
+<seg-source><mrk mid="0" mtype="seg">Benitez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu418" resname="sheet1!D64" xml:space="preserve">
+<source xml:lang="pt-BR">wayala@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">wayala@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu419" resname="sheet1!E64" xml:space="preserve">
+<source xml:lang="pt-BR">""Clinical scientist</source>
+<seg-source><mrk mid="0" mtype="seg">""Clinical scientist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu420" resname="sheet1!F64" xml:space="preserve">
+<source xml:lang="pt-BR"> histocompatibility and immunogenetics""</source>
+<seg-source><mrk mid="0" mtype="seg"> histocompatibility and immunogenetics""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu421" resname="sheet1!G64" xml:space="preserve">
+<source xml:lang="pt-BR">""Sandoval</source>
+<seg-source><mrk mid="0" mtype="seg">""Sandoval</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu422" resname="sheet1!H64" xml:space="preserve">
+<source xml:lang="pt-BR"> Jones and Sanchez"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Jones and Sanchez"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu423" resname="sheet1!A65" xml:space="preserve">
+<source xml:lang="pt-BR">64</source>
+<seg-source><mrk mid="0" mtype="seg">64</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu424" resname="sheet1!B65" xml:space="preserve">
+<source xml:lang="pt-BR">Michael</source>
+<seg-source><mrk mid="0" mtype="seg">Michael</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu425" resname="sheet1!C65" xml:space="preserve">
+<source xml:lang="pt-BR">Horn</source>
+<seg-source><mrk mid="0" mtype="seg">Horn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu426" resname="sheet1!D65" xml:space="preserve">
+<source xml:lang="pt-BR">eric62@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">eric62@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu427" resname="sheet1!E65" xml:space="preserve">
+<source xml:lang="pt-BR">Research scientist (physical sciences)</source>
+<seg-source><mrk mid="0" mtype="seg">Research scientist (physical sciences)</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu428" resname="sheet1!F65" xml:space="preserve">
+<source xml:lang="pt-BR">Lewis Ltd</source>
+<seg-source><mrk mid="0" mtype="seg">Lewis Ltd</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu429" resname="sheet1!A66" xml:space="preserve">
+<source xml:lang="pt-BR">"65</source>
+<seg-source><mrk mid="0" mtype="seg">"65</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu430" resname="sheet1!B66" xml:space="preserve">
+<source xml:lang="pt-BR">Alexander</source>
+<seg-source><mrk mid="0" mtype="seg">Alexander</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu431" resname="sheet1!C66" xml:space="preserve">
+<source xml:lang="pt-BR">Garcia</source>
+<seg-source><mrk mid="0" mtype="seg">Garcia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu432" resname="sheet1!D66" xml:space="preserve">
+<source xml:lang="pt-BR">rioschristopher@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">rioschristopher@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu433" resname="sheet1!E66" xml:space="preserve">
+<source xml:lang="pt-BR">Furniture conservator/restorer</source>
+<seg-source><mrk mid="0" mtype="seg">Furniture conservator/restorer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu434" resname="sheet1!F66" xml:space="preserve">
+<source xml:lang="pt-BR">""Lewis</source>
+<seg-source><mrk mid="0" mtype="seg">""Lewis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu435" resname="sheet1!G66" xml:space="preserve">
+<source xml:lang="pt-BR"> Hall and Howell"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Hall and Howell"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu436" resname="sheet1!A67" xml:space="preserve">
+<source xml:lang="pt-BR">"66</source>
+<seg-source><mrk mid="0" mtype="seg">"66</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu437" resname="sheet1!B67" xml:space="preserve">
+<source xml:lang="pt-BR">Gabrielle</source>
+<seg-source><mrk mid="0" mtype="seg">Gabrielle</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu438" resname="sheet1!C67" xml:space="preserve">
+<source xml:lang="pt-BR">Ward</source>
+<seg-source><mrk mid="0" mtype="seg">Ward</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu439" resname="sheet1!D67" xml:space="preserve">
+<source xml:lang="pt-BR">peggyfrazier@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">peggyfrazier@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu440" resname="sheet1!E67" xml:space="preserve">
+<source xml:lang="pt-BR">""Designer</source>
+<seg-source><mrk mid="0" mtype="seg">""Designer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu441" resname="sheet1!F67" xml:space="preserve">
+<source xml:lang="pt-BR"> multimedia""</source>
+<seg-source><mrk mid="0" mtype="seg"> multimedia""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu442" resname="sheet1!G67" xml:space="preserve">
+<source xml:lang="pt-BR">""Lee</source>
+<seg-source><mrk mid="0" mtype="seg">""Lee</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu443" resname="sheet1!H67" xml:space="preserve">
+<source xml:lang="pt-BR"> Cervantes and Davis"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Cervantes and Davis"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu444" resname="sheet1!A68" xml:space="preserve">
+<source xml:lang="pt-BR">"67</source>
+<seg-source><mrk mid="0" mtype="seg">"67</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu445" resname="sheet1!B68" xml:space="preserve">
+<source xml:lang="pt-BR">Sandra</source>
+<seg-source><mrk mid="0" mtype="seg">Sandra</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu446" resname="sheet1!C68" xml:space="preserve">
+<source xml:lang="pt-BR">Mcgee</source>
+<seg-source><mrk mid="0" mtype="seg">Mcgee</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu447" resname="sheet1!D68" xml:space="preserve">
+<source xml:lang="pt-BR">erica67@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">erica67@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu448" resname="sheet1!E68" xml:space="preserve">
+<source xml:lang="pt-BR">Pathologist</source>
+<seg-source><mrk mid="0" mtype="seg">Pathologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu449" resname="sheet1!F68" xml:space="preserve">
+<source xml:lang="pt-BR">""Allen</source>
+<seg-source><mrk mid="0" mtype="seg">""Allen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu450" resname="sheet1!G68" xml:space="preserve">
+<source xml:lang="pt-BR"> Mason and Mason"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Mason and Mason"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu451" resname="sheet1!A69" xml:space="preserve">
+<source xml:lang="pt-BR">"68</source>
+<seg-source><mrk mid="0" mtype="seg">"68</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu452" resname="sheet1!B69" xml:space="preserve">
+<source xml:lang="pt-BR">Bethany</source>
+<seg-source><mrk mid="0" mtype="seg">Bethany</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu453" resname="sheet1!C69" xml:space="preserve">
+<source xml:lang="pt-BR">Carr</source>
+<seg-source><mrk mid="0" mtype="seg">Carr</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu454" resname="sheet1!D69" xml:space="preserve">
+<source xml:lang="pt-BR">anthony41@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">anthony41@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu455" resname="sheet1!E69" xml:space="preserve">
+<source xml:lang="pt-BR">""Education officer</source>
+<seg-source><mrk mid="0" mtype="seg">""Education officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu456" resname="sheet1!F69" xml:space="preserve">
+<source xml:lang="pt-BR"> community""</source>
+<seg-source><mrk mid="0" mtype="seg"> community""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu457" resname="sheet1!G69" xml:space="preserve">
+<source xml:lang="pt-BR">Turner-Thompson"</source>
+<seg-source><mrk mid="0" mtype="seg">Turner-Thompson"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu458" resname="sheet1!A70" xml:space="preserve">
+<source xml:lang="pt-BR">69</source>
+<seg-source><mrk mid="0" mtype="seg">69</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu459" resname="sheet1!B70" xml:space="preserve">
+<source xml:lang="pt-BR">Kevin</source>
+<seg-source><mrk mid="0" mtype="seg">Kevin</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu460" resname="sheet1!C70" xml:space="preserve">
+<source xml:lang="pt-BR">Perez</source>
+<seg-source><mrk mid="0" mtype="seg">Perez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu461" resname="sheet1!D70" xml:space="preserve">
+<source xml:lang="pt-BR">greenmatthew@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">greenmatthew@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu462" resname="sheet1!E70" xml:space="preserve">
+<source xml:lang="pt-BR">Bonds trader</source>
+<seg-source><mrk mid="0" mtype="seg">Bonds trader</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu463" resname="sheet1!F70" xml:space="preserve">
+<source xml:lang="pt-BR">Graham-Gomez</source>
+<seg-source><mrk mid="0" mtype="seg">Graham-Gomez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu464" resname="sheet1!A71" xml:space="preserve">
+<source xml:lang="pt-BR">70</source>
+<seg-source><mrk mid="0" mtype="seg">70</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu465" resname="sheet1!B71" xml:space="preserve">
+<source xml:lang="pt-BR">Kaitlyn</source>
+<seg-source><mrk mid="0" mtype="seg">Kaitlyn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu466" resname="sheet1!C71" xml:space="preserve">
+<source xml:lang="pt-BR">White</source>
+<seg-source><mrk mid="0" mtype="seg">White</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu467" resname="sheet1!D71" xml:space="preserve">
+<source xml:lang="pt-BR">qking@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">qking@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu468" resname="sheet1!E71" xml:space="preserve">
+<source xml:lang="pt-BR">Higher education lecturer</source>
+<seg-source><mrk mid="0" mtype="seg">Higher education lecturer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu469" resname="sheet1!F71" xml:space="preserve">
+<source xml:lang="pt-BR">Moore-Thompson</source>
+<seg-source><mrk mid="0" mtype="seg">Moore-Thompson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu470" resname="sheet1!A72" xml:space="preserve">
+<source xml:lang="pt-BR">71</source>
+<seg-source><mrk mid="0" mtype="seg">71</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu471" resname="sheet1!B72" xml:space="preserve">
+<source xml:lang="pt-BR">Gabrielle</source>
+<seg-source><mrk mid="0" mtype="seg">Gabrielle</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu472" resname="sheet1!C72" xml:space="preserve">
+<source xml:lang="pt-BR">Jones</source>
+<seg-source><mrk mid="0" mtype="seg">Jones</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu473" resname="sheet1!D72" xml:space="preserve">
+<source xml:lang="pt-BR">todd92@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">todd92@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu474" resname="sheet1!E72" xml:space="preserve">
+<source xml:lang="pt-BR">Mechanical engineer</source>
+<seg-source><mrk mid="0" mtype="seg">Mechanical engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu475" resname="sheet1!F72" xml:space="preserve">
+<source xml:lang="pt-BR">Jones-Snow</source>
+<seg-source><mrk mid="0" mtype="seg">Jones-Snow</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu476" resname="sheet1!A73" xml:space="preserve">
+<source xml:lang="pt-BR">72</source>
+<seg-source><mrk mid="0" mtype="seg">72</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu477" resname="sheet1!B73" xml:space="preserve">
+<source xml:lang="pt-BR">Tommy</source>
+<seg-source><mrk mid="0" mtype="seg">Tommy</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu478" resname="sheet1!C73" xml:space="preserve">
+<source xml:lang="pt-BR">Myers</source>
+<seg-source><mrk mid="0" mtype="seg">Myers</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu479" resname="sheet1!D73" xml:space="preserve">
+<source xml:lang="pt-BR">kkey@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">kkey@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu480" resname="sheet1!E73" xml:space="preserve">
+<source xml:lang="pt-BR">Operational investment banker</source>
+<seg-source><mrk mid="0" mtype="seg">Operational investment banker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu481" resname="sheet1!F73" xml:space="preserve">
+<source xml:lang="pt-BR">Wallace Group</source>
+<seg-source><mrk mid="0" mtype="seg">Wallace Group</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu482" resname="sheet1!A74" xml:space="preserve">
+<source xml:lang="pt-BR">73</source>
+<seg-source><mrk mid="0" mtype="seg">73</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu483" resname="sheet1!B74" xml:space="preserve">
+<source xml:lang="pt-BR">James</source>
+<seg-source><mrk mid="0" mtype="seg">James</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu484" resname="sheet1!C74" xml:space="preserve">
+<source xml:lang="pt-BR">Vargas</source>
+<seg-source><mrk mid="0" mtype="seg">Vargas</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu485" resname="sheet1!D74" xml:space="preserve">
+<source xml:lang="pt-BR">davidjohnston@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">davidjohnston@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu486" resname="sheet1!E74" xml:space="preserve">
+<source xml:lang="pt-BR">Production manager</source>
+<seg-source><mrk mid="0" mtype="seg">Production manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu487" resname="sheet1!F74" xml:space="preserve">
+<source xml:lang="pt-BR">Oconnell-Gomez</source>
+<seg-source><mrk mid="0" mtype="seg">Oconnell-Gomez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu488" resname="sheet1!A75" xml:space="preserve">
+<source xml:lang="pt-BR">74</source>
+<seg-source><mrk mid="0" mtype="seg">74</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu489" resname="sheet1!B75" xml:space="preserve">
+<source xml:lang="pt-BR">Raymond</source>
+<seg-source><mrk mid="0" mtype="seg">Raymond</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu490" resname="sheet1!C75" xml:space="preserve">
+<source xml:lang="pt-BR">Wolf</source>
+<seg-source><mrk mid="0" mtype="seg">Wolf</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu491" resname="sheet1!D75" xml:space="preserve">
+<source xml:lang="pt-BR">jennifer42@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">jennifer42@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu492" resname="sheet1!E75" xml:space="preserve">
+<source xml:lang="pt-BR">Osteopath</source>
+<seg-source><mrk mid="0" mtype="seg">Osteopath</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu493" resname="sheet1!F75" xml:space="preserve">
+<source xml:lang="pt-BR">Navarro-Martinez</source>
+<seg-source><mrk mid="0" mtype="seg">Navarro-Martinez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu494" resname="sheet1!A76" xml:space="preserve">
+<source xml:lang="pt-BR">75</source>
+<seg-source><mrk mid="0" mtype="seg">75</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu495" resname="sheet1!B76" xml:space="preserve">
+<source xml:lang="pt-BR">Christopher</source>
+<seg-source><mrk mid="0" mtype="seg">Christopher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu496" resname="sheet1!C76" xml:space="preserve">
+<source xml:lang="pt-BR">Mullins</source>
+<seg-source><mrk mid="0" mtype="seg">Mullins</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu497" resname="sheet1!D76" xml:space="preserve">
+<source xml:lang="pt-BR">tyler57@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">tyler57@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu498" resname="sheet1!E76" xml:space="preserve">
+<source xml:lang="pt-BR">Architectural technologist</source>
+<seg-source><mrk mid="0" mtype="seg">Architectural technologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu499" resname="sheet1!F76" xml:space="preserve">
+<source xml:lang="pt-BR">Hughes Ltd</source>
+<seg-source><mrk mid="0" mtype="seg">Hughes Ltd</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu500" resname="sheet1!A77" xml:space="preserve">
+<source xml:lang="pt-BR">76</source>
+<seg-source><mrk mid="0" mtype="seg">76</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu501" resname="sheet1!B77" xml:space="preserve">
+<source xml:lang="pt-BR">Matthew</source>
+<seg-source><mrk mid="0" mtype="seg">Matthew</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu502" resname="sheet1!C77" xml:space="preserve">
+<source xml:lang="pt-BR">Potts</source>
+<seg-source><mrk mid="0" mtype="seg">Potts</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu503" resname="sheet1!D77" xml:space="preserve">
+<source xml:lang="pt-BR">tthomas@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">tthomas@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu504" resname="sheet1!E77" xml:space="preserve">
+<source xml:lang="pt-BR">Visual merchandiser</source>
+<seg-source><mrk mid="0" mtype="seg">Visual merchandiser</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu505" resname="sheet1!F77" xml:space="preserve">
+<source xml:lang="pt-BR">Russell Group</source>
+<seg-source><mrk mid="0" mtype="seg">Russell Group</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu506" resname="sheet1!A78" xml:space="preserve">
+<source xml:lang="pt-BR">77</source>
+<seg-source><mrk mid="0" mtype="seg">77</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu507" resname="sheet1!B78" xml:space="preserve">
+<source xml:lang="pt-BR">Stacie</source>
+<seg-source><mrk mid="0" mtype="seg">Stacie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu508" resname="sheet1!C78" xml:space="preserve">
+<source xml:lang="pt-BR">Lopez</source>
+<seg-source><mrk mid="0" mtype="seg">Lopez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu509" resname="sheet1!D78" xml:space="preserve">
+<source xml:lang="pt-BR">alexanderemily@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">alexanderemily@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu510" resname="sheet1!E78" xml:space="preserve">
+<source xml:lang="pt-BR">Theme park manager</source>
+<seg-source><mrk mid="0" mtype="seg">Theme park manager</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu511" resname="sheet1!F78" xml:space="preserve">
+<source xml:lang="pt-BR">Wilson-Prince</source>
+<seg-source><mrk mid="0" mtype="seg">Wilson-Prince</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu512" resname="sheet1!A79" xml:space="preserve">
+<source xml:lang="pt-BR">78</source>
+<seg-source><mrk mid="0" mtype="seg">78</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu513" resname="sheet1!B79" xml:space="preserve">
+<source xml:lang="pt-BR">Carly</source>
+<seg-source><mrk mid="0" mtype="seg">Carly</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu514" resname="sheet1!C79" xml:space="preserve">
+<source xml:lang="pt-BR">Atkins</source>
+<seg-source><mrk mid="0" mtype="seg">Atkins</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu515" resname="sheet1!D79" xml:space="preserve">
+<source xml:lang="pt-BR">michaellivingston@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">michaellivingston@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu516" resname="sheet1!E79" xml:space="preserve">
+<source xml:lang="pt-BR">Government social research officer</source>
+<seg-source><mrk mid="0" mtype="seg">Government social research officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu517" resname="sheet1!F79" xml:space="preserve">
+<source xml:lang="pt-BR">Kemp-White</source>
+<seg-source><mrk mid="0" mtype="seg">Kemp-White</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu518" resname="sheet1!A80" xml:space="preserve">
+<source xml:lang="pt-BR">79</source>
+<seg-source><mrk mid="0" mtype="seg">79</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu519" resname="sheet1!B80" xml:space="preserve">
+<source xml:lang="pt-BR">Katherine</source>
+<seg-source><mrk mid="0" mtype="seg">Katherine</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu520" resname="sheet1!C80" xml:space="preserve">
+<source xml:lang="pt-BR">Jenkins</source>
+<seg-source><mrk mid="0" mtype="seg">Jenkins</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu521" resname="sheet1!D80" xml:space="preserve">
+<source xml:lang="pt-BR">brittany30@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">brittany30@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu522" resname="sheet1!E80" xml:space="preserve">
+<source xml:lang="pt-BR">Arts development officer</source>
+<seg-source><mrk mid="0" mtype="seg">Arts development officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu523" resname="sheet1!F80" xml:space="preserve">
+<source xml:lang="pt-BR">Fisher-Anderson</source>
+<seg-source><mrk mid="0" mtype="seg">Fisher-Anderson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu524" resname="sheet1!A81" xml:space="preserve">
+<source xml:lang="pt-BR">80</source>
+<seg-source><mrk mid="0" mtype="seg">80</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu525" resname="sheet1!B81" xml:space="preserve">
+<source xml:lang="pt-BR">Shelly</source>
+<seg-source><mrk mid="0" mtype="seg">Shelly</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu526" resname="sheet1!C81" xml:space="preserve">
+<source xml:lang="pt-BR">Perez</source>
+<seg-source><mrk mid="0" mtype="seg">Perez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu527" resname="sheet1!D81" xml:space="preserve">
+<source xml:lang="pt-BR">nhoward@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">nhoward@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu528" resname="sheet1!E81" xml:space="preserve">
+<source xml:lang="pt-BR">Personal assistant</source>
+<seg-source><mrk mid="0" mtype="seg">Personal assistant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu529" resname="sheet1!F81" xml:space="preserve">
+<source xml:lang="pt-BR">Taylor-Johnson</source>
+<seg-source><mrk mid="0" mtype="seg">Taylor-Johnson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu530" resname="sheet1!A82" xml:space="preserve">
+<source xml:lang="pt-BR">"81</source>
+<seg-source><mrk mid="0" mtype="seg">"81</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu531" resname="sheet1!B82" xml:space="preserve">
+<source xml:lang="pt-BR">Philip</source>
+<seg-source><mrk mid="0" mtype="seg">Philip</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu532" resname="sheet1!C82" xml:space="preserve">
+<source xml:lang="pt-BR">Schmidt</source>
+<seg-source><mrk mid="0" mtype="seg">Schmidt</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu533" resname="sheet1!D82" xml:space="preserve">
+<source xml:lang="pt-BR">monicapatterson@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">monicapatterson@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu534" resname="sheet1!E82" xml:space="preserve">
+<source xml:lang="pt-BR">""Sales professional</source>
+<seg-source><mrk mid="0" mtype="seg">""Sales professional</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu535" resname="sheet1!F82" xml:space="preserve">
+<source xml:lang="pt-BR"> IT""</source>
+<seg-source><mrk mid="0" mtype="seg"> IT""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu536" resname="sheet1!G82" xml:space="preserve">
+<source xml:lang="pt-BR">Gray-Wu"</source>
+<seg-source><mrk mid="0" mtype="seg">Gray-Wu"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu537" resname="sheet1!A83" xml:space="preserve">
+<source xml:lang="pt-BR">"82</source>
+<seg-source><mrk mid="0" mtype="seg">"82</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu538" resname="sheet1!B83" xml:space="preserve">
+<source xml:lang="pt-BR">Evelyn</source>
+<seg-source><mrk mid="0" mtype="seg">Evelyn</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu539" resname="sheet1!C83" xml:space="preserve">
+<source xml:lang="pt-BR">Ellis</source>
+<seg-source><mrk mid="0" mtype="seg">Ellis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu540" resname="sheet1!D83" xml:space="preserve">
+<source xml:lang="pt-BR">camachomelanie@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">camachomelanie@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu541" resname="sheet1!E83" xml:space="preserve">
+<source xml:lang="pt-BR">IT technical support officer</source>
+<seg-source><mrk mid="0" mtype="seg">IT technical support officer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu542" resname="sheet1!F83" xml:space="preserve">
+<source xml:lang="pt-BR">""Hill</source>
+<seg-source><mrk mid="0" mtype="seg">""Hill</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu543" resname="sheet1!G83" xml:space="preserve">
+<source xml:lang="pt-BR"> Sanchez and Roberts"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Sanchez and Roberts"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu544" resname="sheet1!A84" xml:space="preserve">
+<source xml:lang="pt-BR">83</source>
+<seg-source><mrk mid="0" mtype="seg">83</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu545" resname="sheet1!B84" xml:space="preserve">
+<source xml:lang="pt-BR">Matthew</source>
+<seg-source><mrk mid="0" mtype="seg">Matthew</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu546" resname="sheet1!C84" xml:space="preserve">
+<source xml:lang="pt-BR">Mason</source>
+<seg-source><mrk mid="0" mtype="seg">Mason</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu547" resname="sheet1!D84" xml:space="preserve">
+<source xml:lang="pt-BR">conneryolanda@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">conneryolanda@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu548" resname="sheet1!E84" xml:space="preserve">
+<source xml:lang="pt-BR">IT trainer</source>
+<seg-source><mrk mid="0" mtype="seg">IT trainer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu549" resname="sheet1!F84" xml:space="preserve">
+<source xml:lang="pt-BR">Thomas PLC</source>
+<seg-source><mrk mid="0" mtype="seg">Thomas PLC</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu550" resname="sheet1!A85" xml:space="preserve">
+<source xml:lang="pt-BR">"84</source>
+<seg-source><mrk mid="0" mtype="seg">"84</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu551" resname="sheet1!B85" xml:space="preserve">
+<source xml:lang="pt-BR">Karen</source>
+<seg-source><mrk mid="0" mtype="seg">Karen</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu552" resname="sheet1!C85" xml:space="preserve">
+<source xml:lang="pt-BR">Patel</source>
+<seg-source><mrk mid="0" mtype="seg">Patel</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu553" resname="sheet1!D85" xml:space="preserve">
+<source xml:lang="pt-BR">aaron21@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">aaron21@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu554" resname="sheet1!E85" xml:space="preserve">
+<source xml:lang="pt-BR">Chartered public finance accountant</source>
+<seg-source><mrk mid="0" mtype="seg">Chartered public finance accountant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu555" resname="sheet1!F85" xml:space="preserve">
+<source xml:lang="pt-BR">""Russell</source>
+<seg-source><mrk mid="0" mtype="seg">""Russell</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu556" resname="sheet1!G85" xml:space="preserve">
+<source xml:lang="pt-BR"> Kemp and Thompson"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Kemp and Thompson"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu557" resname="sheet1!A86" xml:space="preserve">
+<source xml:lang="pt-BR">85</source>
+<seg-source><mrk mid="0" mtype="seg">85</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu558" resname="sheet1!B86" xml:space="preserve">
+<source xml:lang="pt-BR">Caroline</source>
+<seg-source><mrk mid="0" mtype="seg">Caroline</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu559" resname="sheet1!C86" xml:space="preserve">
+<source xml:lang="pt-BR">Finley</source>
+<seg-source><mrk mid="0" mtype="seg">Finley</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu560" resname="sheet1!D86" xml:space="preserve">
+<source xml:lang="pt-BR">cheryl49@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">cheryl49@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu561" resname="sheet1!E86" xml:space="preserve">
+<source xml:lang="pt-BR">Child psychotherapist</source>
+<seg-source><mrk mid="0" mtype="seg">Child psychotherapist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu562" resname="sheet1!F86" xml:space="preserve">
+<source xml:lang="pt-BR">Stanton Group</source>
+<seg-source><mrk mid="0" mtype="seg">Stanton Group</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu563" resname="sheet1!A87" xml:space="preserve">
+<source xml:lang="pt-BR">86</source>
+<seg-source><mrk mid="0" mtype="seg">86</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu564" resname="sheet1!B87" xml:space="preserve">
+<source xml:lang="pt-BR">Gary</source>
+<seg-source><mrk mid="0" mtype="seg">Gary</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu565" resname="sheet1!C87" xml:space="preserve">
+<source xml:lang="pt-BR">Baldwin</source>
+<seg-source><mrk mid="0" mtype="seg">Baldwin</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu566" resname="sheet1!D87" xml:space="preserve">
+<source xml:lang="pt-BR">amybrooks@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">amybrooks@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu567" resname="sheet1!E87" xml:space="preserve">
+<source xml:lang="pt-BR">Research scientist (maths)</source>
+<seg-source><mrk mid="0" mtype="seg">Research scientist (maths)</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu568" resname="sheet1!F87" xml:space="preserve">
+<source xml:lang="pt-BR">Durham-Davis</source>
+<seg-source><mrk mid="0" mtype="seg">Durham-Davis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu569" resname="sheet1!A88" xml:space="preserve">
+<source xml:lang="pt-BR">87</source>
+<seg-source><mrk mid="0" mtype="seg">87</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu570" resname="sheet1!B88" xml:space="preserve">
+<source xml:lang="pt-BR">Bruce</source>
+<seg-source><mrk mid="0" mtype="seg">Bruce</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu571" resname="sheet1!C88" xml:space="preserve">
+<source xml:lang="pt-BR">Mcpherson</source>
+<seg-source><mrk mid="0" mtype="seg">Mcpherson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu572" resname="sheet1!D88" xml:space="preserve">
+<source xml:lang="pt-BR">savannah86@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">savannah86@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu573" resname="sheet1!E88" xml:space="preserve">
+<source xml:lang="pt-BR">Corporate investment banker</source>
+<seg-source><mrk mid="0" mtype="seg">Corporate investment banker</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu574" resname="sheet1!F88" xml:space="preserve">
+<source xml:lang="pt-BR">Santos-Hart</source>
+<seg-source><mrk mid="0" mtype="seg">Santos-Hart</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu575" resname="sheet1!A89" xml:space="preserve">
+<source xml:lang="pt-BR">"88</source>
+<seg-source><mrk mid="0" mtype="seg">"88</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu576" resname="sheet1!B89" xml:space="preserve">
+<source xml:lang="pt-BR">Emily</source>
+<seg-source><mrk mid="0" mtype="seg">Emily</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu577" resname="sheet1!C89" xml:space="preserve">
+<source xml:lang="pt-BR">Moore</source>
+<seg-source><mrk mid="0" mtype="seg">Moore</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu578" resname="sheet1!D89" xml:space="preserve">
+<source xml:lang="pt-BR">alexander43@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">alexander43@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu579" resname="sheet1!E89" xml:space="preserve">
+<source xml:lang="pt-BR">""Editor</source>
+<seg-source><mrk mid="0" mtype="seg">""Editor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu580" resname="sheet1!F89" xml:space="preserve">
+<source xml:lang="pt-BR"> magazine features""</source>
+<seg-source><mrk mid="0" mtype="seg"> magazine features""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu581" resname="sheet1!G89" xml:space="preserve">
+<source xml:lang="pt-BR">""Garcia</source>
+<seg-source><mrk mid="0" mtype="seg">""Garcia</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu582" resname="sheet1!H89" xml:space="preserve">
+<source xml:lang="pt-BR"> Washington and Whitaker"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Washington and Whitaker"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu583" resname="sheet1!A90" xml:space="preserve">
+<source xml:lang="pt-BR">"89</source>
+<seg-source><mrk mid="0" mtype="seg">"89</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu584" resname="sheet1!B90" xml:space="preserve">
+<source xml:lang="pt-BR">Jennifer</source>
+<seg-source><mrk mid="0" mtype="seg">Jennifer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu585" resname="sheet1!C90" xml:space="preserve">
+<source xml:lang="pt-BR">Wilson</source>
+<seg-source><mrk mid="0" mtype="seg">Wilson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu586" resname="sheet1!D90" xml:space="preserve">
+<source xml:lang="pt-BR">vreed@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">vreed@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu587" resname="sheet1!E90" xml:space="preserve">
+<source xml:lang="pt-BR">""Engineer</source>
+<seg-source><mrk mid="0" mtype="seg">""Engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu588" resname="sheet1!F90" xml:space="preserve">
+<source xml:lang="pt-BR"> civil (consulting)""</source>
+<seg-source><mrk mid="0" mtype="seg"> civil (consulting)""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu589" resname="sheet1!G90" xml:space="preserve">
+<source xml:lang="pt-BR">Oconnell Group"</source>
+<seg-source><mrk mid="0" mtype="seg">Oconnell Group"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu590" resname="sheet1!A91" xml:space="preserve">
+<source xml:lang="pt-BR">90</source>
+<seg-source><mrk mid="0" mtype="seg">90</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu591" resname="sheet1!B91" xml:space="preserve">
+<source xml:lang="pt-BR">Peggy</source>
+<seg-source><mrk mid="0" mtype="seg">Peggy</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu592" resname="sheet1!C91" xml:space="preserve">
+<source xml:lang="pt-BR">Gates</source>
+<seg-source><mrk mid="0" mtype="seg">Gates</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu593" resname="sheet1!D91" xml:space="preserve">
+<source xml:lang="pt-BR">kmyers@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">kmyers@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu594" resname="sheet1!E91" xml:space="preserve">
+<source xml:lang="pt-BR">Chartered loss adjuster</source>
+<seg-source><mrk mid="0" mtype="seg">Chartered loss adjuster</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu595" resname="sheet1!F91" xml:space="preserve">
+<source xml:lang="pt-BR">Porter-Haynes</source>
+<seg-source><mrk mid="0" mtype="seg">Porter-Haynes</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu596" resname="sheet1!A92" xml:space="preserve">
+<source xml:lang="pt-BR">"91</source>
+<seg-source><mrk mid="0" mtype="seg">"91</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu597" resname="sheet1!B92" xml:space="preserve">
+<source xml:lang="pt-BR">Mark</source>
+<seg-source><mrk mid="0" mtype="seg">Mark</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu598" resname="sheet1!C92" xml:space="preserve">
+<source xml:lang="pt-BR">Hall</source>
+<seg-source><mrk mid="0" mtype="seg">Hall</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu599" resname="sheet1!D92" xml:space="preserve">
+<source xml:lang="pt-BR">fyates@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">fyates@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu600" resname="sheet1!E92" xml:space="preserve">
+<source xml:lang="pt-BR">""Journalist</source>
+<seg-source><mrk mid="0" mtype="seg">""Journalist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu601" resname="sheet1!F92" xml:space="preserve">
+<source xml:lang="pt-BR"> newspaper""</source>
+<seg-source><mrk mid="0" mtype="seg"> newspaper""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu602" resname="sheet1!G92" xml:space="preserve">
+<source xml:lang="pt-BR">Yang LLC"</source>
+<seg-source><mrk mid="0" mtype="seg">Yang LLC"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu603" resname="sheet1!A93" xml:space="preserve">
+<source xml:lang="pt-BR">"92</source>
+<seg-source><mrk mid="0" mtype="seg">"92</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu604" resname="sheet1!B93" xml:space="preserve">
+<source xml:lang="pt-BR">Steven</source>
+<seg-source><mrk mid="0" mtype="seg">Steven</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu605" resname="sheet1!C93" xml:space="preserve">
+<source xml:lang="pt-BR">Carter</source>
+<seg-source><mrk mid="0" mtype="seg">Carter</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu606" resname="sheet1!D93" xml:space="preserve">
+<source xml:lang="pt-BR">reginald36@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">reginald36@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu607" resname="sheet1!E93" xml:space="preserve">
+<source xml:lang="pt-BR">""Accountant</source>
+<seg-source><mrk mid="0" mtype="seg">""Accountant</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu608" resname="sheet1!F93" xml:space="preserve">
+<source xml:lang="pt-BR"> chartered certified""</source>
+<seg-source><mrk mid="0" mtype="seg"> chartered certified""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu609" resname="sheet1!G93" xml:space="preserve">
+<source xml:lang="pt-BR">Hernandez-Lewis"</source>
+<seg-source><mrk mid="0" mtype="seg">Hernandez-Lewis"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu610" resname="sheet1!A94" xml:space="preserve">
+<source xml:lang="pt-BR">"93</source>
+<seg-source><mrk mid="0" mtype="seg">"93</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu611" resname="sheet1!B94" xml:space="preserve">
+<source xml:lang="pt-BR">Daniel</source>
+<seg-source><mrk mid="0" mtype="seg">Daniel</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu612" resname="sheet1!C94" xml:space="preserve">
+<source xml:lang="pt-BR">Davis</source>
+<seg-source><mrk mid="0" mtype="seg">Davis</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu613" resname="sheet1!D94" xml:space="preserve">
+<source xml:lang="pt-BR">sandra84@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">sandra84@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu614" resname="sheet1!E94" xml:space="preserve">
+<source xml:lang="pt-BR">""Surveyor</source>
+<seg-source><mrk mid="0" mtype="seg">""Surveyor</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu615" resname="sheet1!F94" xml:space="preserve">
+<source xml:lang="pt-BR"> minerals""</source>
+<seg-source><mrk mid="0" mtype="seg"> minerals""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu616" resname="sheet1!G94" xml:space="preserve">
+<source xml:lang="pt-BR">Lee-Moore"</source>
+<seg-source><mrk mid="0" mtype="seg">Lee-Moore"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu617" resname="sheet1!A95" xml:space="preserve">
+<source xml:lang="pt-BR">"94</source>
+<seg-source><mrk mid="0" mtype="seg">"94</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu618" resname="sheet1!B95" xml:space="preserve">
+<source xml:lang="pt-BR">Crystal</source>
+<seg-source><mrk mid="0" mtype="seg">Crystal</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu619" resname="sheet1!C95" xml:space="preserve">
+<source xml:lang="pt-BR">Moran</source>
+<seg-source><mrk mid="0" mtype="seg">Moran</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu620" resname="sheet1!D95" xml:space="preserve">
+<source xml:lang="pt-BR">melissajohnson@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">melissajohnson@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu621" resname="sheet1!E95" xml:space="preserve">
+<source xml:lang="pt-BR">Toxicologist</source>
+<seg-source><mrk mid="0" mtype="seg">Toxicologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu622" resname="sheet1!F95" xml:space="preserve">
+<source xml:lang="pt-BR">""Welch</source>
+<seg-source><mrk mid="0" mtype="seg">""Welch</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu623" resname="sheet1!G95" xml:space="preserve">
+<source xml:lang="pt-BR"> Rodriguez and Stevenson"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Rodriguez and Stevenson"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu624" resname="sheet1!A96" xml:space="preserve">
+<source xml:lang="pt-BR">"95</source>
+<seg-source><mrk mid="0" mtype="seg">"95</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu625" resname="sheet1!B96" xml:space="preserve">
+<source xml:lang="pt-BR">Madeline</source>
+<seg-source><mrk mid="0" mtype="seg">Madeline</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu626" resname="sheet1!C96" xml:space="preserve">
+<source xml:lang="pt-BR">Greer</source>
+<seg-source><mrk mid="0" mtype="seg">Greer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu627" resname="sheet1!D96" xml:space="preserve">
+<source xml:lang="pt-BR">sgarcia@example.net</source>
+<seg-source><mrk mid="0" mtype="seg">sgarcia@example.net</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu628" resname="sheet1!E96" xml:space="preserve">
+<source xml:lang="pt-BR">""Embryologist</source>
+<seg-source><mrk mid="0" mtype="seg">""Embryologist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu629" resname="sheet1!F96" xml:space="preserve">
+<source xml:lang="pt-BR"> clinical""</source>
+<seg-source><mrk mid="0" mtype="seg"> clinical""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu630" resname="sheet1!G96" xml:space="preserve">
+<source xml:lang="pt-BR">Glenn PLC"</source>
+<seg-source><mrk mid="0" mtype="seg">Glenn PLC"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu631" resname="sheet1!A97" xml:space="preserve">
+<source xml:lang="pt-BR">"96</source>
+<seg-source><mrk mid="0" mtype="seg">"96</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu632" resname="sheet1!B97" xml:space="preserve">
+<source xml:lang="pt-BR">Alejandra</source>
+<seg-source><mrk mid="0" mtype="seg">Alejandra</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu633" resname="sheet1!C97" xml:space="preserve">
+<source xml:lang="pt-BR">Lam</source>
+<seg-source><mrk mid="0" mtype="seg">Lam</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu634" resname="sheet1!D97" xml:space="preserve">
+<source xml:lang="pt-BR">mckaykristin@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">mckaykristin@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu635" resname="sheet1!E97" xml:space="preserve">
+<source xml:lang="pt-BR">Magazine journalist</source>
+<seg-source><mrk mid="0" mtype="seg">Magazine journalist</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu636" resname="sheet1!F97" xml:space="preserve">
+<source xml:lang="pt-BR">""Lopez</source>
+<seg-source><mrk mid="0" mtype="seg">""Lopez</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu637" resname="sheet1!G97" xml:space="preserve">
+<source xml:lang="pt-BR"> Vasquez and Galloway"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Vasquez and Galloway"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu638" resname="sheet1!A98" xml:space="preserve">
+<source xml:lang="pt-BR">97</source>
+<seg-source><mrk mid="0" mtype="seg">97</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu639" resname="sheet1!B98" xml:space="preserve">
+<source xml:lang="pt-BR">Austin</source>
+<seg-source><mrk mid="0" mtype="seg">Austin</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu640" resname="sheet1!C98" xml:space="preserve">
+<source xml:lang="pt-BR">Stewart</source>
+<seg-source><mrk mid="0" mtype="seg">Stewart</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu641" resname="sheet1!D98" xml:space="preserve">
+<source xml:lang="pt-BR">aparrish@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">aparrish@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu642" resname="sheet1!E98" xml:space="preserve">
+<source xml:lang="pt-BR">Warden/ranger</source>
+<seg-source><mrk mid="0" mtype="seg">Warden/ranger</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu643" resname="sheet1!F98" xml:space="preserve">
+<source xml:lang="pt-BR">Cummings PLC</source>
+<seg-source><mrk mid="0" mtype="seg">Cummings PLC</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu644" resname="sheet1!A99" xml:space="preserve">
+<source xml:lang="pt-BR">"98</source>
+<seg-source><mrk mid="0" mtype="seg">"98</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu645" resname="sheet1!B99" xml:space="preserve">
+<source xml:lang="pt-BR">Julie</source>
+<seg-source><mrk mid="0" mtype="seg">Julie</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu646" resname="sheet1!C99" xml:space="preserve">
+<source xml:lang="pt-BR">Mclaughlin</source>
+<seg-source><mrk mid="0" mtype="seg">Mclaughlin</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu647" resname="sheet1!D99" xml:space="preserve">
+<source xml:lang="pt-BR">nicholsoncharles@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">nicholsoncharles@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu648" resname="sheet1!E99" xml:space="preserve">
+<source xml:lang="pt-BR">""Engineer</source>
+<seg-source><mrk mid="0" mtype="seg">""Engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu649" resname="sheet1!F99" xml:space="preserve">
+<source xml:lang="pt-BR"> communications""</source>
+<seg-source><mrk mid="0" mtype="seg"> communications""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu650" resname="sheet1!G99" xml:space="preserve">
+<source xml:lang="pt-BR">Gutierrez Inc"</source>
+<seg-source><mrk mid="0" mtype="seg">Gutierrez Inc"</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu651" resname="sheet1!A100" xml:space="preserve">
+<source xml:lang="pt-BR">"99</source>
+<seg-source><mrk mid="0" mtype="seg">"99</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu652" resname="sheet1!B100" xml:space="preserve">
+<source xml:lang="pt-BR">Brandon</source>
+<seg-source><mrk mid="0" mtype="seg">Brandon</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu653" resname="sheet1!C100" xml:space="preserve">
+<source xml:lang="pt-BR">Harris</source>
+<seg-source><mrk mid="0" mtype="seg">Harris</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu654" resname="sheet1!D100" xml:space="preserve">
+<source xml:lang="pt-BR">renee77@example.com</source>
+<seg-source><mrk mid="0" mtype="seg">renee77@example.com</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu655" resname="sheet1!E100" xml:space="preserve">
+<source xml:lang="pt-BR">Learning disability nurse</source>
+<seg-source><mrk mid="0" mtype="seg">Learning disability nurse</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu656" resname="sheet1!F100" xml:space="preserve">
+<source xml:lang="pt-BR">""Castro</source>
+<seg-source><mrk mid="0" mtype="seg">""Castro</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu657" resname="sheet1!G100" xml:space="preserve">
+<source xml:lang="pt-BR"> Steele and Joyce"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Steele and Joyce"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu658" resname="sheet1!A101" xml:space="preserve">
+<source xml:lang="pt-BR">"100</source>
+<seg-source><mrk mid="0" mtype="seg">"100</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu659" resname="sheet1!B101" xml:space="preserve">
+<source xml:lang="pt-BR">John</source>
+<seg-source><mrk mid="0" mtype="seg">John</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu660" resname="sheet1!C101" xml:space="preserve">
+<source xml:lang="pt-BR">Roberson</source>
+<seg-source><mrk mid="0" mtype="seg">Roberson</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu661" resname="sheet1!D101" xml:space="preserve">
+<source xml:lang="pt-BR">david46@example.org</source>
+<seg-source><mrk mid="0" mtype="seg">david46@example.org</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu662" resname="sheet1!E101" xml:space="preserve">
+<source xml:lang="pt-BR">""Engineer</source>
+<seg-source><mrk mid="0" mtype="seg">""Engineer</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu663" resname="sheet1!F101" xml:space="preserve">
+<source xml:lang="pt-BR"> water""</source>
+<seg-source><mrk mid="0" mtype="seg"> water""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu664" resname="sheet1!G101" xml:space="preserve">
+<source xml:lang="pt-BR">""Fletcher</source>
+<seg-source><mrk mid="0" mtype="seg">""Fletcher</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P147242AB-tu665" resname="sheet1!H101" xml:space="preserve">
+<source xml:lang="pt-BR"> Graham and White"""</source>
+<seg-source><mrk mid="0" mtype="seg"> Graham and White"""</mrk></seg-source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>
